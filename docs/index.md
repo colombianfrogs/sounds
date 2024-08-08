@@ -53,7 +53,12 @@ Estos datos buscan varios objetivos:
 
 4.  Apoyar cursos y prácticas en Bioacústica.
 
-Este sitio es mantenido por una la comunidad herpetológica en Colombia interesada en el desarrollo de la bioacustica en el país.
+## Contribuidores
+Diseño: Juan M. Daza juanm.daza[at]udea.edu.co
+Programación: Maria J. Guerrero, Juan M. Daza
+Contribuidores:
+Mauricio Rivera (Pristimantis dorsopictus, Pristimantis cryptopictus)
+
 
 # HYLIDAE
 

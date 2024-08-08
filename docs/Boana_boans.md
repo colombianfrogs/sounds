@@ -59,7 +59,7 @@ function openTab(evt, tabName) {
 }
 </script>
 
-## Leucostethus fraterdanieli
+## Boana boans
 
 <div class="tab">
   <button class="tablinks" onclick="openTab(event, 'DescripcionBobo')">Descripción</button>
@@ -69,7 +69,7 @@ function openTab(evt, tabName) {
 </div>
 
 <div id="DescripcionBobo" class="tabcontent">
-  <h3>Descripción</h3>
+  <h3>Descriptión</h3>
   <img src="images/Boana_boans.png" alt=Boana boans style="width:10cm;">
 
   <p>Si utiliza los datos, cítese como:</p>
