@@ -37,7 +37,7 @@ h2 {
 
 # SONIDOS DE LOS ANFIBIOS DE COLOMBIA
 
-<img src="images/Pristimantis_jaguensis_puntos.png" style="width:20cm;">
+<img src="images/Pristimantis_jaguensis_vitral_marco.png" style="width:20cm;">
 
 ## Introducción
 
