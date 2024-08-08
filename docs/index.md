@@ -36,10 +36,9 @@ h2 {
 </style>
 
 # SONIDOS DE LOS ANFIBIOS DE COLOMBIA
-### Grupo Herpetológico de Antioquia
-### 2024
 
-# Introducción
+
+## Introducción
 
 Este sitio permite visibilizar y disponibilizar los datos asociados a los cantos de anuncio publicados de especies en Colombia. Los datos corresponden a los audios, las medidas realizadas por los investigadores y las tablas de selección generadas en el paquete [Raven](https://store.birds.cornell.edu/collections/raven-sound-software).
 
