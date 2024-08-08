@@ -37,7 +37,7 @@ h2 {
 
 # SONIDOS DE LOS ANFIBIOS DE COLOMBIA
 
-<img src="images/Dendropsophus_phlebodes.png" alt=Dendropsophus phlebodes style="width:10cm;">
+<img src="images/Pristimantis_jaguensis_puntos.png" style="width:20cm;">
 
 ## Introducción
 
