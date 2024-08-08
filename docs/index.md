@@ -13,16 +13,16 @@ output:
 
 <style>
 h1 {
-  color: orange;
+  color: darkgreen;
   font-size: 2.5em;
   font-weight: bold;
 }
 h2 {
-  color: darkgreen;
+  color: orange;
 }
 .title {
   font-size: 3em;
-  color: orange;
+  color: darkgreen;
   font-weight: bold;
 }
 .author {
@@ -41,7 +41,7 @@ h2 {
 
 # Introducción
 
-Este sitio está diseñado para visibilizar y disponibilizar los datos asociados a cantos de anuncio publicados de especies en Colombia. Los datos corresponden a los audios, las medidas realizadas por los investigadores y las tablas de selección generadas en el paquete [Raven](https://store.birds.cornell.edu/collections/raven-sound-software).
+Este sitio permite visibilizar y disponibilizar los datos asociados a los cantos de anuncio publicados de especies en Colombia. Los datos corresponden a los audios, las medidas realizadas por los investigadores y las tablas de selección generadas en el paquete [Raven](https://store.birds.cornell.edu/collections/raven-sound-software).
 
 Estos datos buscan varios objetivos:
 
@@ -54,9 +54,12 @@ Estos datos buscan varios objetivos:
 4.  Apoyar cursos y prácticas en Bioacústica.
 
 ## Contribuidores
-Diseño: Juan M. Daza juanm.daza[at]udea.edu.co
-Programación: Maria J. Guerrero, Juan M. Daza
+Diseño: Juan M. Daza (juanm.daza@udea.edu.co)
+
+Programación: Maria J. Guerrero (mariaj.guerrero@udea.edu.co), Juan M. Daza
+
 Contribuidores:
+
 Mauricio Rivera (Pristimantis dorsopictus, Pristimantis cryptopictus)
 
 
@@ -69,7 +72,4 @@ Mauricio Rivera (Pristimantis dorsopictus, Pristimantis cryptopictus)
 
 - [Leptodactylus savagei](Leptodactylus_savagei.md)
 
-Diseño: Juan M. Daza juanm.daza[at]udea.edu.co
-Programación: Maria J. Guerrero, Juan M. Daza
-Contribuidores:
-Mauricio Rivera (Pristimantis dorsopictus, Pristimantis cryptopictus)
+

@@ -69,7 +69,7 @@ function openTab(evt, tabName) {
 </div>
 
 <div id="DescripcionBobo" class="tabcontent">
-  <h3>Descriptión</h3>
+
   <img src="images/Boana_boans.png" alt=Boana boans style="width:10cm;">
 
   <p>Si utiliza los datos, cítese como:</p>
