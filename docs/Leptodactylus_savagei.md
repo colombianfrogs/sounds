@@ -88,7 +88,7 @@ function openTab(evt, tabName) {
 <div id="tabLesa" class="tabcontent">
   <h3>Tablas</h3>
   <p>Descarga tabla de medidas <a href="https://bit.ly/3LUkN5s">aquí</a>.</p>
-  <p>Descarga tabla selección RAVEN <a href=https://bit.ly/3LUkN5s>aquí</a>.</p>
+  <p>Descarga tabla selección RAVEN <a href="https://bit.ly/3LUkN5s">aquí</a>.</p>
 </div>
 
 <div id="audLesa" class="tabcontent">

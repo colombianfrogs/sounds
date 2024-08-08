@@ -64,4 +64,7 @@ Este sitio es mantenido por una la comunidad herpetológica en Colombia interesa
 
 - [Leptodactylus savagei](Leptodactylus_savagei.md)
 
-
+Diseño: Juan M. Daza juanm.daza[at]udea.edu.co
+Programación: Maria J. Guerrero, Juan M. Daza
+Contribuidores:
+Mauricio Rivera (Pristimantis dorsopictus, Pristimantis cryptopictus)
