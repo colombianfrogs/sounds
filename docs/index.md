@@ -47,7 +47,7 @@ Estos datos buscan varios objetivos:
 
 1.  La reproducibilidad de los resultados obtenidos en descripciones de cantos.
 
-2.  Ser reutilizados para nuevas descricpiones y estudios comparados.
+2.  Ser reutilizados para nuevas descricpiones y studies comparados.
 
 3.  Ser reutilizados para el entrenamiento de algoritmos de inteligencia artificial para la detección automática de especies.
 
