@@ -94,7 +94,7 @@ function openTab(evt, tabName) {
   <h3>Audios</h3>
   <div class="audio-container">
     <audio controls>
-      <source src="Dendropsophus_phlebodes.wav" type="audio/wav">
+      <source src="Audios/Dendropsophus_phlebodes.wav" type="audio/wav">
       Tu navegador no soporta el elemento de audio.
     </audio>
   </div>
