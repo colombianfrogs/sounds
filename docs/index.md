@@ -35,9 +35,9 @@ h2 {
 }
 </style>
 
-# Anfibios colombianos y sus sonidos
+# SONIDOS DE LOS ANFIBIOS DE COLOMBIA
 ### Grupo Herpetológico de Antioquia
-### version Julio 2024
+### 2024
 
 # Introducción
 
@@ -55,20 +55,13 @@ Estos datos buscan varios objetivos:
 
 Este sitio es mantenido por una la comunidad herpetológica en Colombia interesada en el desarrollo de la bioacustica en el país.
 
-# Dendrobatidae
+# HYLIDAE
 
-- [Leucostethus fraterdanieli](leucostethus_fraterdanieli.md)
-- [Leucostethus jota](Leucostethus_jota.md)
+- [Boana boans](Boana_boans.md)
+- [Dendropsophus phlebodes](Dendropsophus_phlebodes.md)
 
-# Eleutherodactylidae
+# LEPTODACTYLIDAE
 
-- [Diasporus anthrax](Diasporus_anthrax.md)
+- [Leptodactylus savagei](Leptodactylus_savagei.md)
 
-# Strabomantidae
 
-- [Pristimantis zophus](Pristimantis_zophus.md)
-- [Pristimantis cryptopictus](Pristimantis_cryptopictus.md)
-- [Pristimantis dorsopictus](Pristimantis_dorsopictus.md)
-- [Pristimantis jaguensis](Pristimantis_jaguensis.md)
-- [Pristimantis viejas](Pristimantis_viejas.md)
-- [Pristimantis zorro](Pristimantis_zorro.md)
