@@ -37,6 +37,7 @@ h2 {
 
 # SONIDOS DE LOS ANFIBIOS DE COLOMBIA
 
+<img src="images/Dendropsophus_phlebodes.png" alt=Dendropsophus phlebodes style="width:10cm;">
 
 ## Introducción
 

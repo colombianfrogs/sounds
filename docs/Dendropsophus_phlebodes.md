@@ -59,7 +59,6 @@ function openTab(evt, tabName) {
 }
 </script>
 
-## Leucostethus fraterdanieli
 
 <div class="tab">
   <button class="tablinks" onclick="openTab(event, 'DescripcionDeph')">Descripción</button>
