@@ -35,10 +35,11 @@ h2 {
 }
 </style>
 
-<div style="text-align: center;">
+<div style="font-family: "Bookman Old Style"; text-align: center;">
     <h1>SONIDOS DE LOS ANFIBIOS DE COLOMBIA</h1>
     <img src="images/Pristimantis_jaguensis_vitral_marco.png" style="width:20cm;">
 </div>
+
 
 
 ## Introducción
