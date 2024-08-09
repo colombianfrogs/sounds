@@ -35,9 +35,11 @@ h2 {
 }
 </style>
 
-# SONIDOS DE LOS ANFIBIOS DE COLOMBIA
+<div style="text-align: center;">
+    <h1>SONIDOS DE LOS ANFIBIOS DE COLOMBIA</h1>
+    <img src="images/Pristimantis_jaguensis_vitral_marco.png" style="width:20cm;">
+</div>
 
-<img src="images/Pristimantis_jaguensis_vitral_marco.png" style="width:20cm;">
 
 ## Introducción
 
@@ -54,13 +56,13 @@ Estos datos buscan varios objetivos:
 4.  Apoyar cursos y prácticas en Bioacústica.
 
 ## Contribuidores
-Diseño: Juan M. Daza (juanm.daza@udea.edu.co)
+Diseño: [Juan M. Daza](juanm.daza@udea.edu.co)
 
-Programación: Maria J. Guerrero (mariaj.guerrero@udea.edu.co), Juan M. Daza
+Programación: [Maria J. Guerrero](mariaj.guerrero@udea.edu.co), Juan M. Daza
 
 Contribuidores:
 
-Mauricio Rivera (Pristimantis dorsopictus, Pristimantis cryptopictus)
+[Mauricio Rivera](mauricio.rivera1@udea.edu.co) (Pristimantis dorsopictus, Pristimantis cryptopictus)
 
 
 # HYLIDAE
