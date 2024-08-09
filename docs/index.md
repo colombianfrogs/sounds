@@ -35,7 +35,7 @@ h2 {
 }
 </style>
 
-<div style="font-family: "Bookman Old Style"; text-align: center;">
+<div style="font-family: Times; text-align: center;">
     <h1>SONIDOS DE LOS ANFIBIOS DE COLOMBIA</h1>
     <img src="images/Pristimantis_jaguensis_vitral_marco.png" style="width:20cm;">
 </div>
@@ -57,12 +57,12 @@ Estos recursos buscan varios objetivos:
 4.  Apoyar cursos y prácticas en Bioacústica.
 
 ## Contribuidores
-Diseño: [Juan M. Daza](juanm.daza@udea.edu.co)
+Diseño:
+[Juan M. Daza](juanm.daza@udea.edu.co)
 
 Programación: [Maria J. Guerrero](mariaj.guerrero@udea.edu.co), Juan M. Daza
 
 Contribuidores:
-
 [Mauricio Rivera](mauricio.rivera1@udea.edu.co) (Pristimantis dorsopictus, Pristimantis cryptopictus)
 
 
