@@ -46,13 +46,13 @@ h2 {
 
 Este sitio permite visibilizar y disponibilizar los datos asociados a los cantos de anuncio publicados de especies en Colombia. Los datos corresponden a los audios, las medidas realizadas por los investigadores y las tablas de selección generadas en el paquete [Raven](https://store.birds.cornell.edu/collections/raven-sound-software).
 
-Estos datos buscan varios objetivos:
+Estos recursos buscan varios objetivos:
 
 1.  La reproducibilidad de los resultados obtenidos en descripciones de cantos.
 
-2.  Ser reutilizados para nuevas descricpiones y studies comparados.
+2.  Pueden ser reutilizados para nuevas descripciones y estudios comparados.
 
-3.  Ser reutilizados para el entrenamiento de algoritmos de inteligencia artificial para la detección automática de especies.
+3.  Pueden ser reutilizados para el entrenamiento de algoritmos para la detección automática de especies.
 
 4.  Apoyar cursos y prácticas en Bioacústica.
 
