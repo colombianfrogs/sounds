@@ -14,11 +14,11 @@ output:
 <style>
 h1 {
   color: darkgreen;
-  font-size: 2.5em;
+  font-size: 4.5em;
   font-weight: bold;
 }
 h2 {
-  color: orange;
+  color: black;
 }
 .title {
   font-size: 3em;
@@ -57,12 +57,12 @@ Estos recursos buscan varios objetivos dado que permiten:
 4.  Apoyar cursos y prácticas en Bioacústica y Ecoacústica.
 
 ## Contribuidores
-<p>Diseño:</p>
-<p>[Juan M. Daza](juanm.daza@udea.edu.co)</p>
-<p>Programación:</p>
-<p>[Maria J. Guerrero](mariaj.guerrero@udea.edu.co), Juan M. Daza</p>
-<p>Contribuidores:</p>
-<p>[Mauricio Rivera](mauricio.rivera1@udea.edu.co) (Pristimantis dorsopictus, Pristimantis cryptopictus)</p>
+Diseño:
+[Juan M. Daza](juanm.daza@udea.edu.co)
+Programación:
+[Maria J. Guerrero](mariaj.guerrero@udea.edu.co), Juan M. Daza
+Contribuidores:
+[Mauricio Rivera](mauricio.rivera1@udea.edu.co) (Pristimantis dorsopictus, Pristimantis cryptopictus)
 
 
 # HYLIDAE
