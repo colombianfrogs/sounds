@@ -44,7 +44,7 @@ h2 {
 
 ## Introducción
 
-Este sitio permite visibilizar y disponibilizar los datos asociados a los cantos de anuncio publicados de especies en Colombia. Los datos corresponden a los audios, las medidas realizadas por los investigadores y las tablas de selección generadas en el paquete [Raven](https://store.birds.cornell.edu/collections/raven-sound-software).
+Este sitio permite visibilizar y disponibilizar los datos asociados a los cantos de anuncio publicados de especies en Colombia. Los datos corresponden a los audios, las medidas realizadas por los investigadores y las tablas de selección generadas en el programa [Raven](https://store.birds.cornell.edu/collections/raven-sound-software).
 
 Estos recursos buscan varios objetivos dado que permiten:
 
@@ -56,7 +56,7 @@ Estos recursos buscan varios objetivos dado que permiten:
 
 4.  Apoyar cursos y prácticas en Bioacústica y Ecoacústica.
 
-## Contribuidores
+## Comunidad
 Diseño:
 [Juan M. Daza](juanm.daza@udea.edu.co)
 
