@@ -65,6 +65,15 @@ Programación: [Maria J. Guerrero](mariaj.guerrero@udea.edu.co), Juan M. Daza
 Contribuidores:
 [Mauricio Rivera](mauricio.rivera1@udea.edu.co) (Pristimantis dorsopictus, Pristimantis cryptopictus)
 
+<div>
+    <h1>Diseño:</h1>
+    <h1>[Juan M. Daza](juanm.daza@udea.edu.co)</h1>
+    <h1>Programación:</h1>
+    <h1>[Maria J. Guerrero](mariaj.guerrero@udea.edu.co), Juan M. Daza</h1>
+    <h1>Contribuidores:</h1>
+    <h1>[Mauricio Rivera](mauricio.rivera1@udea.edu.co) (Pristimantis dorsopictus, Pristimantis cryptopictus)</h1>
+</div>
+
 
 # HYLIDAE
 
@@ -75,4 +84,8 @@ Contribuidores:
 
 - [Leptodactylus savagei](Leptodactylus_savagei.md)
 
+## Otros repositorios con especies colombianas
+- [Fonozoo](https://www.fonozoo.com/)
+- [AnuraSet](https://soundclim.github.io/anuraweb/)
+- [Colección Sonidos IAVH](http://colecciones.humboldt.org.co/sonidos/)
 
