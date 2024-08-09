@@ -46,15 +46,15 @@ h2 {
 
 Este sitio permite visibilizar y disponibilizar los datos asociados a los cantos de anuncio publicados de especies en Colombia. Los datos corresponden a los audios, las medidas realizadas por los investigadores y las tablas de selección generadas en el paquete [Raven](https://store.birds.cornell.edu/collections/raven-sound-software).
 
-Estos recursos buscan varios objetivos:
+Estos recursos buscan varios objetivos dado que permiten:
 
 1.  La reproducibilidad de los resultados obtenidos en descripciones de cantos.
 
-2.  Pueden ser reutilizados para nuevas descripciones y estudios comparados.
+2.  Ser utilizados para nuevas descripciones y estudios comparativos.
 
-3.  Pueden ser reutilizados para el entrenamiento de algoritmos para la detección automática de especies.
+3.  Ser utilizados en el entrenamiento de algoritmos para la detección automática de especies.
 
-4.  Apoyar cursos y prácticas en Bioacústica.
+4.  Apoyar cursos y prácticas en Bioacústica y Ecoacústica.
 
 ## Contribuidores
 Diseño:
@@ -64,15 +64,6 @@ Programación: [Maria J. Guerrero](mariaj.guerrero@udea.edu.co), Juan M. Daza
 
 Contribuidores:
 [Mauricio Rivera](mauricio.rivera1@udea.edu.co) (Pristimantis dorsopictus, Pristimantis cryptopictus)
-
-<div>
-    <h1>Diseño:</h1>
-    <h1>[Juan M. Daza](juanm.daza@udea.edu.co)</h1>
-    <h1>Programación:</h1>
-    <h1>[Maria J. Guerrero](mariaj.guerrero@udea.edu.co), Juan M. Daza</h1>
-    <h1>Contribuidores:</h1>
-    <h1>[Mauricio Rivera](mauricio.rivera1@udea.edu.co) (Pristimantis dorsopictus, Pristimantis cryptopictus)</h1>
-</div>
 
 
 # HYLIDAE
