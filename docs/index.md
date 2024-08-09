@@ -59,8 +59,10 @@ Estos recursos buscan varios objetivos dado que permiten:
 ## Contribuidores
 Diseño:
 [Juan M. Daza](juanm.daza@udea.edu.co)
+
 Programación:
 [Maria J. Guerrero](mariaj.guerrero@udea.edu.co), Juan M. Daza
+
 Contribuidores:
 [Mauricio Rivera](mauricio.rivera1@udea.edu.co) (Pristimantis dorsopictus, Pristimantis cryptopictus)
 
@@ -75,7 +77,8 @@ Contribuidores:
 - [Leptodactylus savagei](Leptodactylus_savagei.md)
 
 ## Otros repositorios con especies colombianas
-- [Fonozoo](https://www.fonozoo.com/)
-- [AnuraSet](https://soundclim.github.io/anuraweb/)
-- [Colección Sonidos IAVH](http://colecciones.humboldt.org.co/sonidos/)
 
+- [Colección Sonidos IAVH](http://colecciones.humboldt.org.co/sonidos/)
+- [Santander Herpetológico](https://www.santanderherps.com/)
+- [Fonozoo](https://www.fonozoo.com/)
+- [AmphibiaWeb Ecuador](https://bioweb.bio/faunaweb/amphibiaweb/Cantos/)
