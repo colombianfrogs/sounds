@@ -14,7 +14,7 @@ output:
 <style>
 h1 {
   color: darkgreen;
-  font-size: 3.5em;
+  font-size: 2.5em;
   font-weight: bold;
 }
 h2 {
@@ -39,7 +39,6 @@ h2 {
     <h1>COLECCION DE SONIDOS DE LOS ANFIBIOS DE COLOMBIA</h1>
     <img src="images/especie_Pristimantis_jaguensis_vitral_marco.png" style="width:20cm;">
 </div>
-
 
 
 ## Introducción
