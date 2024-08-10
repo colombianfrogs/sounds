@@ -57,19 +57,19 @@ Estos recursos buscan varios objetivos dado que permiten:
 4.  Apoyar cursos y prácticas en Bioacústica y Ecoacústica.
 
 ## Comunidad
-Diseño:
+Diseño y mantenimiento:
 <br>
 <a href="mailto:juanm.daza@udea.edu.co">Juan M. Daza</a>
 
 Programación:
 <br>
-<a href="mailto:mariaj.guerrero@udea.edu.co">Maria J. Guerrero</a>
-Juan M. Daza
+<a href="mailto:mariaj.guerrero@udea.edu.co">Maria J. Guerrero</a>, 
+<a href="mailto:juanm.daza@udea.edu.co">Juan M. Daza</a>
 
 Contribuidores:
 <br>
 <a href="mailto:mauricio.rivera1@udea.edu.co">Mauricio Rivera</a>
-(Pristimantis dorsopictus, Pristimantis cryptopictus)
+(<i>Pristimantis dorsopictus</i>, Pristimantis cryptopictus)
 
 
 # HYLIDAE
