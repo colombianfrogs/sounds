@@ -44,7 +44,9 @@ h2 {
 
 ## Introducción
 
-Este sitio permite visibilizar y disponibilizar los datos asociados a los cantos de anuncio publicados de especies en Colombia. Los datos corresponden a los audios, las medidas realizadas por los investigadores y las tablas de selección generadas en el programa [Raven](https://store.birds.cornell.edu/collections/raven-sound-software).
+Colombia tiene una gran diversidad de anfibios y sus sonidos, muchos de los cuales se encuentran sin describir. Sin embargo, la gran mayoria de poblaciones o especies no cuentan con una descripcion formal de sus vocalizaciones (Rivera et al XXXX). Adicionalmente, pocas cuentan con datos disponibles en repositorios de libre acceso. Aunque algunos de estos repositorios tienen políticas de uso, son de difícil acceso. Finalmente, en bioacústica de anuros, se asume que la reproducibilidad de los datos esta solo en disponibilizar los audios. Sin embargo, es recomendable disponibilizar las tablas crudas de los datos sobre las cuales las descripciones fueron hechas. Esta disponibilizacion no solo permite reproducibilidad y transparencia cientifica sino que además agregan mucho mas valor a los datos mismos dado que pueden ser reutilizados con multiples propósitos.
+
+Este repositorio permite visibilizar y disponibilizar los datos asociados a los cantos de anuncio publicados de especies en Colombia. Los datos corresponden a los audios, las medidas realizadas por los investigadores y las tablas de selección generadas en el programa [Raven](https://store.birds.cornell.edu/collections/raven-sound-software).
 
 Estos recursos buscan varios objetivos dado que permiten:
 
@@ -55,6 +57,8 @@ Estos recursos buscan varios objetivos dado que permiten:
 3.  Ser utilizados en el entrenamiento de algoritmos para la detección automática de especies.
 
 4.  Apoyar cursos y prácticas en Bioacústica y Ecoacústica.
+
+## Políticas de uso
 
 ## Comunidad
 Diseño y mantenimiento:
