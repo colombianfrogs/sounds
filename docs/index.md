@@ -73,6 +73,7 @@ Contribuidores:
 ## Especies incluidas
 
 # Dendrobatidae
+- [Andinobates cassidyhornae](Pristimantis.md)
 - [Leucostethus fraterdanieli](Leucostethus_fraterdanieli.md)
 - [Leucostethus jota](Leucostethus_jota.md)
 
@@ -81,12 +82,15 @@ Contribuidores:
 
 # Hylidae
 
-- [Boana boans](Boana_boans.md)
-- [Dendropsophus phlebodes](Dendropsophus_phlebodes.md)
+- [Dendropsophus norandinus](Dendropsophus_phlebodes.md)
+- [Hyloscirtus antioquia](Boana_boans.md)
 
-# Leptodactylidae
+# Strabomantidae
 
-- [Leptodactylus savagei](Leptodactylus_savagei.md)
+- [Pristimantis cryptopictus](Pristimantis.md)
+- [Pristimantis dorsopictus](Pristimantis.md)
+- [Pristimantis jaguensis](Pristimantis.md)
+- [Pristimantis zorro](Pristimantis.md)
 
 ## Otros repositorios con especies colombianas
 
