@@ -61,7 +61,7 @@ function openTab(evt, tabName) {
 
 <div style="font-family: Times; text-align: center;">
     <h1><i>Boana boans</i></h1>
-    <img src="images/Boana_boans.png" style="width:10cm;">
+    <img src="images/especie_Boana_boans.png" style="width:10cm;">
 </div>
 
 Si utiliza los datos, cítese como:
@@ -75,7 +75,7 @@ Si utiliza los datos, cítese como:
   <button class="tablinks" onclick="openTab(event, 'audBobo')">Audios</button>
 </div>
 
-<div id="EspectroBobo" class="tabcontent" style="text-align: center;>
+<div id="EspectroBobo" class="tabcontent">
   <video width="100%" height="auto" controls>
   <source src="Espectrograms/Boana_boans.mp4" type="video/mp4">
     Tu navegador no soporta el elemento de video.
@@ -85,7 +85,7 @@ Si utiliza los datos, cítese como:
 </div>
 
 <div id="tabBobo" class="tabcontent">
-  <h3>Tablas</h3>
+
   <p>Descarga tabla de medidas <a href="https://bit.ly/3LUkN5s">aquí</a>.</p>
   <p>Descarga tabla selección RAVEN <a href="https://bit.ly/3LUkN5s">aquí</a>.</p>
 </div>
