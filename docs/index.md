@@ -103,9 +103,9 @@ Contribuidores:
 
 ## Otros repositorios con especies colombianas
 
-[Colección Sonidos IAVH](http://colecciones.humboldt.org.co/sonidos/)
-[Santander Herpetológico](https://www.santanderherps.com/)
-[Fonozoo](https://www.fonozoo.com/)
+[Colección Sonidos IAVH](http://colecciones.humboldt.org.co/sonidos/)<br>
+[Santander Herpetológico](https://www.santanderherps.com/)<br>
+[Fonozoo](https://www.fonozoo.com/)<br>
 [AmphibiaWeb Ecuador](https://bioweb.bio/faunaweb/amphibiaweb/Cantos/)
 
 ## Recursos en Bioacústica
