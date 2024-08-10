@@ -81,6 +81,7 @@ Si utiliza los datos, cítese como:
   <source src="Espectrograms/Boana_boans.mp4" type="video/mp4">
     Tu navegador no soporta el elemento de video.
   </video>
+  <img src="images/espectrograma_Diasporus_anthrax.png" style="width:10cm;">
 </div>
 
 <div id="tabBobo" class="tabcontent">
