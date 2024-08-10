@@ -61,7 +61,7 @@ function openTab(evt, tabName) {
 
 <div style="font-family: Times; text-align: center;">
     <h1><i>Leucostethus jota</i></h1>
-    <img src="images/especie_Leucostethus_jota.png" style="width:10cm;">
+    <img src="images/especie_Leucostethus_jota.png" style="width:20cm;">
 </div>
 <br><br><br><br>
 Los audios y tablas corresponden a la publicación:
