@@ -116,7 +116,7 @@ Contribuidores:
 	<iframe
 src="https://www.google.com/maps/d/u/1/edit?mid=1dnltaqX7myk4e6-MMI8g2j5h7-Tp894&usp=sharing"
         width="600" 
-            height="450" 
+            height="350" 
             style="border:0;" 
             allowfullscreen="" 
             loading="lazy" 
