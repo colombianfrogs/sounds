@@ -59,6 +59,9 @@ Estos recursos buscan varios objetivos dado que permiten:
 4.  Apoyar cursos y prácticas en Bioacústica y Ecoacústica.
 
 ## Políticas de uso
+De la misma forma que ejemplares depositados en coleccione biológicas, los datos en este repositorio han sido contribuidos por los autores con el objetivo de hacer la ciencia mas abierta y transparente. El uso de los datos es con fines académicos y científicos y estan bajo la licencia de [Creative Commons](https://co.creativecommons.net/tipos-de-licencias/) no comercial.
+<img src="images/by-nc.png" style="width:5cm;">
+ 
 
 ## Comunidad
 Diseño y mantenimiento:
