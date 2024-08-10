@@ -63,11 +63,12 @@ function openTab(evt, tabName) {
     <h1><i>Boana boans</i></h1>
     <img src="images/especie_Boana_boans.png" style="width:10cm;">
 </div>
-
-Si utiliza los datos, cítese como:
+<br><br><br><br>
+Los audios y tablas corresponden a la publicación:
 
 <strong>Marín, C.M., C. Molina-Zuluaga, A. Restrepo, E.Cano & J.M. Daza.</strong> 2018. A new species of <i>Leucostethus</i> (Anura: Dendrobatidae) from the eastern versant of the Central Cordillera of Colombia with comments on the phylogenetic position of <i>Colostethus fraterdanieli</i>. <i>Zootaxa</i> 4461: 359--380. <a href="https://doi.org/10.11646/zootaxa.4461.3.3">https://doi.org/10.11646/zootaxa.4461.3.3</a>
 
+contacto: Carlos M. Marín (), Juan M. Daza (juanm.daza@udea.edu.co)
 
 <div class="tab">
   <button class="tablinks" onclick="openTab(event, 'EspectroBobo')">Espectrograma</button>
