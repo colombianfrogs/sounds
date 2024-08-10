@@ -68,7 +68,7 @@ Los audios y tablas corresponden a la publicación:
 
 <strong>Marín, C.M., C. Molina-Zuluaga, A. Restrepo, E.Cano & J.M. Daza.</strong> 2018. A new species of <i>Leucostethus</i> (Anura: Dendrobatidae) from the eastern versant of the Central Cordillera of Colombia with comments on the phylogenetic position of <i>Colostethus fraterdanieli</i>. <i>Zootaxa</i> 4461: 359--380. <a href="https://doi.org/10.11646/zootaxa.4461.3.3">https://doi.org/10.11646/zootaxa.4461.3.3</a>
 
-contacto: Carlos M. Marín (), Juan M. Daza (juanm.daza@udea.edu.co)
+contacto: <a href="mailto:juanm.daza@udea.edu.co">Juan M. Daza</a>, <a href="mailto:juanm.daza@udea.edu.co">Juan M. Daza</a>
 
 <div class="tab">
   <button class="tablinks" onclick="openTab(event, 'EspectroBobo')">Espectrograma</button>

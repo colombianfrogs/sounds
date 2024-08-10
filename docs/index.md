@@ -58,13 +58,18 @@ Estos recursos buscan varios objetivos dado que permiten:
 
 ## Comunidad
 Diseño:
-[Juan M. Daza](juanm.daza@udea.edu.co)
+<br>
+<a href="mailto:juanm.daza@udea.edu.co">Juan M. Daza</a>
 
 Programación:
-[Maria J. Guerrero](mariaj.guerrero@udea.edu.co), Juan M. Daza
+<br>
+<a href="mailto:mariaj.guerrero@udea.edu.co">Maria J. Guerrero</a>
+Juan M. Daza
 
 Contribuidores:
-[Mauricio Rivera](mauricio.rivera1@udea.edu.co) (Pristimantis dorsopictus, Pristimantis cryptopictus)
+<br>
+<a href="mailto:mauricio.rivera1@udea.edu.co">Mauricio Rivera</a>
+(Pristimantis dorsopictus, Pristimantis cryptopictus)
 
 
 # HYLIDAE
