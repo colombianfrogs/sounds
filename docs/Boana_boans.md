@@ -70,19 +70,9 @@ Si utiliza los datos, cítese como:
 
 
 <div class="tab">
-  <button class="tablinks" onclick="openTab(event, 'DescripcionBobo')">Descripción</button>
   <button class="tablinks" onclick="openTab(event, 'EspectroBobo')">Espectrograma</button>
   <button class="tablinks" onclick="openTab(event, 'tabBobo')">Tablas</button>
   <button class="tablinks" onclick="openTab(event, 'audBobo')">Audios</button>
-</div>
-
-<div id="DescripcionBobo" class="tabcontent">
-
-  <img src="images/Boana_boans.png" alt=Boana boans style="width:10cm;">
-
-  <p>Si utiliza los datos, cítese como:</p>
-
-  <p><strong>Marín, C.M., C. Molina-Zuluaga, A. Restrepo, E.Cano & J.M. Daza.</strong> 2018. A new species of <i>Leucostethus</i> (Anura: Dendrobatidae) from the eastern versant of the Central Cordillera of Colombia with comments on the phylogenetic position of <i>Colostethus fraterdanieli</i>. <i>Zootaxa</i> 4461: 359--380. <a href="https://doi.org/10.11646/zootaxa.4461.3.3">https://doi.org/10.11646/zootaxa.4461.3.3</a></p>
 </div>
 
 <div id="EspectroBobo" class="tabcontent">
