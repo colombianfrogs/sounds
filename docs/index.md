@@ -37,7 +37,7 @@ h2 {
 
 <div style="font-family: Times; text-align: center;">
     <h1>SONIDOS DE LOS ANFIBIOS DE COLOMBIA</h1>
-    <img src="images/Pristimantis_jaguensis_vitral_marco.png" style="width:20cm;">
+    <img src="images/especie_Pristimantis_jaguensis_vitral_marco.png" style="width:20cm;">
 </div>
 
 
@@ -69,7 +69,7 @@ Programación:
 Contribuidores:
 <br>
 <a href="mailto:mauricio.rivera1@udea.edu.co">Mauricio Rivera</a>
-(<i>Pristimantis dorsopictus</i>, Pristimantis cryptopictus)
+
 
 
 # HYLIDAE

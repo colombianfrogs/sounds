@@ -81,9 +81,8 @@ contacto: <a href="mailto:marinc.carlosmario@gmail.com">Carlos M. Marin</a>, <a 
 <!-- Seccion espectrograma -->
 
 <div id="EspectroLejo" class="tabcontent" style="text-align: center;">
-  <!-- Centering the video -->
   <video width="100%" height="auto" controls style="display: block; margin-left: auto; margin-right: auto;">
-    <source src="Espectrograms/Boana_boans.mp4" type="video/mp4">
+    <source src="Espectrograms/Leucostethus_jota.mp4" type="video/mp4">
     Tu navegador no soporta el elemento de video.
   </video>
   <br><br>
