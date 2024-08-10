@@ -70,14 +70,21 @@ Contribuidores:
 <br>
 <a href="mailto:mauricio.rivera1@udea.edu.co">Mauricio Rivera</a>
 
+## Especies incluidas
 
+# Dendrobatidae
+- [Leucostethus fraterdanieli](Leucostethus_fraterdanieli.md)
+- [Leucostethus jota](Leucostethus_jota.md)
 
-# HYLIDAE
+# Eleutherodactylidae
+- [Diasporus anthrax](Leucostethus_fraterdanieli.md)
+
+# Hylidae
 
 - [Boana boans](Boana_boans.md)
 - [Dendropsophus phlebodes](Dendropsophus_phlebodes.md)
 
-# LEPTODACTYLIDAE
+# Leptodactylidae
 
 - [Leptodactylus savagei](Leptodactylus_savagei.md)
 
