@@ -60,51 +60,52 @@ function openTab(evt, tabName) {
 </script>
 
 <div style="font-family: Times; text-align: center;">
-    <h1><i>Boana boans</i></h1>
-    <img src="images/especie_Boana_boans.png" style="width:10cm;">
+    <h1><i>Leucostethus jota</i></h1>
+    <img src="images/especie_Leucostethus_jota.png" style="width:10cm;">
 </div>
 <br><br><br><br>
 Los audios y tablas corresponden a la publicación:
 
 <strong>Marín, C.M., C. Molina-Zuluaga, A. Restrepo, E.Cano & J.M. Daza.</strong> 2018. A new species of <i>Leucostethus</i> (Anura: Dendrobatidae) from the eastern versant of the Central Cordillera of Colombia with comments on the phylogenetic position of <i>Colostethus fraterdanieli</i>. <i>Zootaxa</i> 4461: 359--380. <a href="https://doi.org/10.11646/zootaxa.4461.3.3">https://doi.org/10.11646/zootaxa.4461.3.3</a>
 
-contacto: <a href="mailto:juanm.daza@udea.edu.co">Juan M. Daza</a>, <a href="mailto:juanm.daza@udea.edu.co">Juan M. Daza</a>
+contacto: <a href="mailto:marinc.carlosmario@gmail.com">Carlos M. Marin</a>, <a href="mailto:juanm.daza@udea.edu.co">Juan M. Daza</a>
+
+<!-- Definicion de secciones -->
 
 <div class="tab">
-  <button class="tablinks" onclick="openTab(event, 'EspectroBobo')">Espectrograma</button>
-  <button class="tablinks" onclick="openTab(event, 'tabBobo')">Tablas</button>
-  <button class="tablinks" onclick="openTab(event, 'audBobo')">Audios</button>
+  <button class="tablinks" onclick="openTab(event, 'EspectroLejo')">Espectrograma</button>
+  <button class="tablinks" onclick="openTab(event, 'tabLejo')">Tablas</button>
+  <button class="tablinks" onclick="openTab(event, 'audLejo')">Audios</button>
 </div>
 
-<div id="EspectroBobo" class="tabcontent" style="text-align: center;">
+<!-- Seccion espectrograma -->
+
+<div id="EspectroLejo" class="tabcontent" style="text-align: center;">
   <!-- Centering the video -->
   <video width="100%" height="auto" controls style="display: block; margin-left: auto; margin-right: auto;">
     <source src="Espectrograms/Boana_boans.mp4" type="video/mp4">
     Tu navegador no soporta el elemento de video.
   </video>
-
-  <!-- Adding two line spaces between the video and the image -->
   <br><br>
-
-  <!-- Centering the image -->
   <img src="images/espectrograma_Diasporus_anthrax.png" style="width:10cm; display: block; margin-left: auto; margin-right: auto;">
 </div>
 
+<!-- Seccion de tablas -->
 
-<div id="tabBobo" class="tabcontent">
-
+<div id="tabLejo" class="tabcontent">
   <p>Descarga tabla de medidas <a href="https://bit.ly/3LUkN5s">aquí</a>.</p>
   <p>Descarga tabla selección RAVEN <a href="https://bit.ly/3LUkN5s">aquí</a>.</p>
 </div>
 
-<div id="audBobo" class="tabcontent">
-  <h3>Audios</h3>
+<!-- Seccion de audios -->
+
+<div id="audLejo" class="tabcontent">
   <div class="audio-container">
     <audio controls>
       <source src="Boana_boans.wav" type="audio/wav">
       Tu navegador no soporta el elemento de audio.
     </audio>
   </div>
-  <p>Más audios disponibles <a href="https://bit.ly/3LUkN5s">aquí</a>.</p>
+  <p>Audios disponibles <a href="https://bit.ly/3LUkN5s">aquí</a>.</p>
 </div>
 
