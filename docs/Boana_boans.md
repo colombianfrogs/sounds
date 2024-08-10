@@ -75,14 +75,20 @@ Si utiliza los datos, cítese como:
   <button class="tablinks" onclick="openTab(event, 'audBobo')">Audios</button>
 </div>
 
-<div id="EspectroBobo" class="tabcontent">
-  <video width="100%" height="auto" controls>
-  <source src="Espectrograms/Boana_boans.mp4" type="video/mp4">
+<div id="EspectroBobo" class="tabcontent" style="text-align: center;">
+  <!-- Centering the video -->
+  <video width="100%" height="auto" controls style="display: block; margin-left: auto; margin-right: auto;">
+    <source src="Espectrograms/Boana_boans.mp4" type="video/mp4">
     Tu navegador no soporta el elemento de video.
   </video>
+
+  <!-- Adding two line spaces between the video and the image -->
   <br><br>
-  <img src="images/espectrograma_Diasporus_anthrax.png" style="width:10cm;">
+
+  <!-- Centering the image -->
+  <img src="images/espectrograma_Diasporus_anthrax.png" style="width:10cm; display: block; margin-left: auto; margin-right: auto;">
 </div>
+
 
 <div id="tabBobo" class="tabcontent">
 
