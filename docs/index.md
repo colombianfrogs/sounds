@@ -57,7 +57,7 @@ Estos recursos buscan varios objetivos dado que permiten:
 
 4.  Apoyar cursos y prácticas en Bioacústica y Ecoacústica.
 
-## Políticas de uso
+## Política de uso
 De la misma forma que ejemplares depositados en coleccione biológicas, los datos en este repositorio han sido contribuidos por los autores con el objetivo de hacer la ciencia más abierta y transparente. Así, el uso de los datos obtenidos aquí es abierto, con fines académicos y científicos, y estan bajo la licencia de [Creative Commons](https://co.creativecommons.net/tipos-de-licencias/) no comercial.
 <br><br>
 <img src="images/by-nc.png" style="width:3cm;">
@@ -66,7 +66,7 @@ De la misma forma que ejemplares depositados en coleccione biológicas, los dato
 ## Comunidad
 Diseño y mantenimiento:
 <br>
-<a href="mailto:juanm.daza@udea.edu.co">Juan M. Daza</a>
+<a href="mailto:juanm.daza@udea.edu.co">Juan M. Daza</a>, Grupo Herpetológico de Antioquia
 
 Programación:
 <br>
@@ -75,12 +75,12 @@ Programación:
 
 Contribuidores:
 <br>
-<a href="mailto:mauricio.rivera1@udea.edu.co">Mauricio Rivera</a>
+<a href="mailto:mauricio.rivera1@udea.edu.co">Mauricio Rivera</a>, Grupo Herpetológico de Antioquia
 
 ## Especies incluidas
 
 # Dendrobatidae
-- [Andinobates cassidyhornae](Pristimantis.md)
+- [Andinobates cassidyhornae](Andinobates_cassidyhornae.md)
 - [Leucostethus fraterdanieli](Leucostethus_fraterdanieli.md)
 - [Leucostethus jota](Leucostethus_jota.md)
 
@@ -89,19 +89,37 @@ Contribuidores:
 
 # Hylidae
 
-- [Dendropsophus norandinus](Dendropsophus_phlebodes.md)
-- [Hyloscirtus antioquia](Boana_boans.md)
+- [Dendropsophus norandinus](Dendropsophus_norandinus.md)
+- [Hyloscirtus antioquia](Hyloscirtus_antioquia_.md)
 
 # Strabomantidae
 
+- [Pristimantis campesino](Pristimantis.md)
 - [Pristimantis cryptopictus](Pristimantis.md)
 - [Pristimantis dorsopictus](Pristimantis.md)
 - [Pristimantis jaguensis](Pristimantis.md)
+- [Pristimantis viejas](Pristimantis.md)
 - [Pristimantis zorro](Pristimantis.md)
 
 ## Otros repositorios con especies colombianas
 
-- [Colección Sonidos IAVH](http://colecciones.humboldt.org.co/sonidos/)
-- [Santander Herpetológico](https://www.santanderherps.com/)
-- [Fonozoo](https://www.fonozoo.com/)
-- [AmphibiaWeb Ecuador](https://bioweb.bio/faunaweb/amphibiaweb/Cantos/)
+[Colección Sonidos IAVH](http://colecciones.humboldt.org.co/sonidos/)
+[Santander Herpetológico](https://www.santanderherps.com/)
+[Fonozoo](https://www.fonozoo.com/)
+[AmphibiaWeb Ecuador](https://bioweb.bio/faunaweb/amphibiaweb/Cantos/)
+
+## Recursos en Bioacústica
+[Bioacoustics Talks](https://www.birds.cornell.edu/ccb/bioacoustalks/)
+
+<div>
+
+	<iframe
+src="https://www.google.com/maps/d/u/1/edit?mid=1dnltaqX7myk4e6-MMI8g2j5h7-Tp894&usp=sharing"
+        width="600" 
+            height="450" 
+            style="border:0;" 
+            allowfullscreen="" 
+            loading="lazy" 
+            referrerpolicy="no-referrer-when-downgrade">
+    </iframe>
+</div>
