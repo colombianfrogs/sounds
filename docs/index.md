@@ -67,6 +67,7 @@ De la misma forma que ejemplares depositados en coleccione biológicas, los dato
 
 # Dendrobatidae
 - [Andinobates cassidyhornae](Andinobates_cassidyhornae.md)
+- [Leucostethus fraterdanieli simple](Leucostethus_fraterdanieli_simple.md)
 - [Leucostethus fraterdanieli](Leucostethus_fraterdanieli.md)
 - [Leucostethus jota](Leucostethus_jota.md)
 
