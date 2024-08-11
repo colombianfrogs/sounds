@@ -111,15 +111,4 @@ Contribuidores:
 ## Recursos en Bioacústica
 [Bioacoustics Talks](https://www.birds.cornell.edu/ccb/bioacoustalks/)
 
-<div>
-
-	<iframe
-src="https://www.google.com/maps/d/u/1/edit?mid=1dnltaqX7myk4e6-MMI8g2j5h7-Tp894&usp=sharing"
-        width="600" 
-            height="350" 
-            style="border:0;" 
-            allowfullscreen="" 
-            loading="lazy" 
-            referrerpolicy="no-referrer-when-downgrade">
-    </iframe>
-</div>
+<iframe src="https://www.google.com/maps/d/embed?mid=1dnltaqX7myk4e6-MMI8g2j5h7-Tp894&hl=es&ehbc=2E312F" width="640" height="480"></iframe>
