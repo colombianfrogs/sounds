@@ -1,5 +1,5 @@
 ---
-title: "Leucostethus jota"
+title: "Leucostethus fraterdanieli"
 output: html_document
 ---
 
@@ -62,8 +62,8 @@ function openTab(evt, tabName) {
 <!-- Presentacion de la especie y los datos -->
 
 <div style="font-family: Times; text-align: center;">
-    <h1><i>Leucostethus jota</i></h1>
-    <img src="images/especie_Leucostethus_jota.png" style="width:15cm;">
+    <h1><i>Leucostethus fraterdanieli</i></h1>
+    <img src="images/especie_Leucostethus_fraterdanieli.png" style="width:15cm;">
 </div>
 <br><br>
 
@@ -75,16 +75,16 @@ Contribución por: <a href="mailto:marinc.carlosmario@gmail.com">Carlos M. Marin
 <!-- Definicion de secciones -->
 
 <div class="tab">
-  <button class="tablinks" onclick="openTab(event, 'EspectroLejo')">Espectrograma</button>
-  <button class="tablinks" onclick="openTab(event, 'tabLejo')">Tablas</button>
-  <button class="tablinks" onclick="openTab(event, 'audLejo')">Audios</button>
+  <button class="tablinks" onclick="openTab(event, 'EspectroLefr')">Espectrograma</button>
+  <button class="tablinks" onclick="openTab(event, 'tabLefr')">Tablas</button>
+  <button class="tablinks" onclick="openTab(event, 'audLefr')">Audios</button>
 </div>
 
 <!-- Seccion espectrograma -->
 
-<div id="EspectroLejo" class="tabcontent" style="text-align: center;">
+<div id="EspectroLefr" class="tabcontent" style="text-align: center;">
   <video width="100%" height="auto" controls style="display: block; margin-left: auto; margin-right: auto;">
-    <source src="Espectrograms/Leucostethus_jota.mp4" type="video/mp4">
+    <source src="Espectrograms/Leucostethus_fraterdanieli.mp4" type="video/mp4">
     Tu navegador no soporta el elemento de video.
   </video>
   <br><br>
@@ -93,14 +93,14 @@ Contribución por: <a href="mailto:marinc.carlosmario@gmail.com">Carlos M. Marin
 
 <!-- Seccion de tablas -->
 
-<div id="tabLejo" class="tabcontent">
+<div id="tabLefr" class="tabcontent">
   <p>Descarga tabla de medidas <a href="https://bit.ly/3LUkN5s">aquí</a>.</p>
   <p>Descarga tabla selección RAVEN <a href="https://bit.ly/3LUkN5s">aquí</a>.</p>
 </div>
 
 <!-- Seccion de audios -->
 
-<div id="audLejo" class="tabcontent">
+<div id="audLefr" class="tabcontent">
   <div class="audio-container">
     <audio controls>
       <source src="Boana_boans.wav" type="audio/wav">
