@@ -63,20 +63,6 @@ De la misma forma que ejemplares depositados en coleccione biológicas, los dato
 <img src="images/by-nc.png" style="width:3cm;">
  
 
-## Comunidad
-Diseño y mantenimiento:
-<br>
-<a href="mailto:juanm.daza@udea.edu.co">Juan M. Daza</a>, Grupo Herpetológico de Antioquia
-
-Programación:
-<br>
-<a href="mailto:mariaj.guerrero@udea.edu.co">Maria J. Guerrero</a>, 
-<a href="mailto:juanm.daza@udea.edu.co">Juan M. Daza</a>
-
-Contribuidores:
-<br>
-<a href="mailto:mauricio.rivera1@udea.edu.co">Mauricio Rivera</a>, Grupo Herpetológico de Antioquia
-
 ## Especies incluidas
 
 # Dendrobatidae
@@ -85,7 +71,7 @@ Contribuidores:
 - [Leucostethus jota](Leucostethus_jota.md)
 
 # Eleutherodactylidae
-- [Diasporus anthrax](Leucostethus_fraterdanieli.md)
+- [Diasporus anthrax](Diasporus_anthrax.md)
 
 # Hylidae
 
@@ -104,6 +90,18 @@ Contribuidores:
 ## Distribución geográfica de registros
 
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=14vULshF6ww3Tvdzq5kJU_vYbgYpHZM0&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
+
+## Comunidad
+Diseño y mantenimiento:<br>
+<a href="mailto:juanm.daza@udea.edu.co">Juan M. Daza</a>, Grupo Herpetológico de Antioquia
+
+Programación:<br>
+<a href="mailto:mariaj.guerrero@udea.edu.co">Maria J. Guerrero</a>, 
+<a href="mailto:juanm.daza@udea.edu.co">Juan M. Daza</a>, Grupo Herpetológico de Antioquia
+
+Contribuidores:<br>
+<a href="mailto:mauricio.rivera1@udea.edu.co">Mauricio Rivera</a>, Grupo Herpetológico de Antioquia<br>
+<a href="mailto:marinc.carlosmario@gmail.com">Carlos M. Marin</a>, Inecol, Mexico
 
 ## Otros repositorios con especies colombianas
 
