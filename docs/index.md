@@ -47,22 +47,28 @@ Colombia tiene una gran diversidad de anfibios y sus sonidos, muchos de los cual
 
 Este repositorio permite visibilizar y disponibilizar los datos asociados a los cantos de anuncio publicados de especies en Colombia. Los datos corresponden a los audios, las medidas realizadas por los investigadores y las tablas de selección generadas en el programa [Raven](https://store.birds.cornell.edu/collections/raven-sound-software).
 
-Estos recursos buscan varios objetivos dado que permiten:
+Nuestra motivación son los [principios FAIR](https://www.go-fair.org/fair-principles/) donde se busca en ciencia abierta hacer los datos digitales (e.g., archivos de sonido) facilmente reutilizables por la comunidad científica y general. Asi, este sitio se convierte en el primer repositorio en Colombia donde integra de una forma simple y eficiente la información relacionada con datos acústicos obtenidos para la anurofauna del país.
+
+Este repositorio busca:
 
 1.  La reproducibilidad de los resultados obtenidos en descripciones de cantos.
 
-2.  Ser utilizados para nuevas descripciones y estudios comparativos.
+2.  Facilitar nuevas descripciones de cantos y estudios comparativos.
 
-3.  Ser utilizados en el entrenamiento de algoritmos para la detección automática de especies.
+3.  Facilitar archivos anotados para el entrenamiento de algoritmos de detección automática de especies.
 
 4.  Apoyar cursos y prácticas en Bioacústica y Ecoacústica.
 
 ## Política de uso
-De la misma forma que ejemplares depositados en coleccione biológicas, los datos en este repositorio han sido contribuidos por los autores con el objetivo de hacer la ciencia más abierta y transparente. Así, el uso de los datos obtenidos aquí es abierto, con fines académicos y científicos, y estan bajo la licencia de [Creative Commons](https://co.creativecommons.net/tipos-de-licencias/) no comercial.
+Los datos en este repositorio han sido contribuidos por los autores, con el objetivo de hacer la ciencia más abierta y transparente. Así, el uso de los datos obtenidos aquí es abierto, con fines académicos y científicos, y estan bajo la licencia de [Creative Commons](https://co.creativecommons.net/tipos-de-licencias/) no comercial.
 <br><br>
 <img src="images/by-nc.png" style="width:3cm;">
- 
 
+## Como contribuir?
+Este proyecto funciona de forma similar a una colección herpetológica de ejemplares, donde el autor somete los datos relacionados a su estudio [acústico] (e.g., audios, tablas, links) para poder ser visualizados y disponibles a la comunidad académica.
+
+Si estas interesado y tienes mas preguntas <a href="mailto:sonidoscolombia@gmail.com">contáctanos</a>
+ 
 ## Especies incluidas
 
 # Dendrobatidae
