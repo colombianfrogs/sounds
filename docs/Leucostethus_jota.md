@@ -110,3 +110,40 @@ Contribución por: <a href="mailto:marinc.carlosmario@gmail.com">Carlos M. Marin
   <p>Audios disponibles <a href="https://bit.ly/3LUkN5s">aquí</a>.</p>
 </div>
 
+# Spectrogram Visualizer
+
+Below is an audio file visualized as a spectrogram:
+
+<div id="waveform"></div>
+
+<button onclick="playPause()">Play/Pause</button>
+
+<!-- Include the WaveSurfer.js library -->
+<script src="https://unpkg.com/wavesurfer.js"></script>
+
+<!-- Create a new WaveSurfer instance and configure it -->
+<script>
+    var wavesurfer = WaveSurfer.create({
+        container: '#waveform',
+        waveColor: 'violet',
+        progressColor: 'purple',
+        backend: 'WebAudio',
+        height: 256,
+        plugins: [
+            WaveSurfer.spectrogram.create({
+                wavesurfer: wavesurfer,
+                container: '#waveform',
+                labels: true
+            })
+        ]
+    });
+
+    // Load an audio file from URL
+    wavesurfer.load('./Audios/Boana_boans.wav');
+
+    // Play or pause the audio
+    function playPause() {
+        wavesurfer.playPause();
+    }
+</script>
+
