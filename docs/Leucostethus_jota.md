@@ -139,7 +139,7 @@ Below is an audio file visualized as a spectrogram:
     });
 
     // Load an audio file from URL
-    wavesurfer.load('/Users/leptodeira/Documents/GitHub/sounds/docs/Audios/Boana_boans.wav');
+    wavesurfer.load('./Users/leptodeira/Documents/GitHub/sounds/docs/Audios/Boana_boans.wav');
 
     // Play or pause the audio
     function playPause() {
