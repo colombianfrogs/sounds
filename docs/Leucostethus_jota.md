@@ -143,7 +143,7 @@ Below is an audio file visualized as a spectrogram:
     });
 
     // Load an externally hosted audio file
-    wavesurfer.load('./Audios/Boana_boans.wav');
+    wavesurfer.load('Boana_boans.wav');
 
     // Play or pause the audio
     function playPause() {
