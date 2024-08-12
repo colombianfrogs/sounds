@@ -103,7 +103,7 @@ Contribución por: <a href="mailto:marinc.carlosmario@gmail.com">Carlos M. Marin
 <div id="audLejo" class="tabcontent">
   <div class="audio-container">
     <audio controls>
-      <source src="Boana_boans.wav" type="audio/wav">
+      <source src="Audios/Boana_boans.wav" type="audio/wav">
       Tu navegador no soporta el elemento de audio.
     </audio>
   </div>
