@@ -139,7 +139,7 @@ Below is an audio file visualized as a spectrogram:
     });
 
     // Load an audio file from URL
-    wavesurfer.load('https://www.dropbox.com/scl/fi/c26l4l9wz4zz7ijwap6a6/Colostethus_inguinalis_Rio-Claro_Giovany_Chavez.wav');
+    wavesurfer.load('/Users/leptodeira/Documents/GitHub/sounds/docs/Audios/Boana_boans.wav');
 
     // Play or pause the audio
     function playPause() {
