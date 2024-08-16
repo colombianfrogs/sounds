@@ -103,10 +103,52 @@ Contribución por: <a href="mailto:marinc.carlosmario@gmail.com">Carlos M. Marin
 <div id="audLejo" class="tabcontent">
   <div class="audio-container">
     <audio controls>
-      <source src="Boana_boans.wav" type="audio/wav">
+      <source src="Audios/Dendropsophus_phlebodes.wav" type="audio/wav">
       Tu navegador no soporta el elemento de audio.
     </audio>
   </div>
   <p>Audios disponibles <a href="https://bit.ly/3LUkN5s">aquí</a>.</p>
 </div>
+
+# Spectrogram Visualizer
+
+Below is an audio file visualized as a spectrogram:
+
+<div id="waveform"></div>
+<div id="spectrogram"></div>
+
+<button onclick="playPause()">Play/Pause</button>
+
+<!-- Include the WaveSurfer.js library -->
+<script src="https://unpkg.com/wavesurfer.js"></script>
+
+<!-- Include the Spectrogram plugin -->
+<script src="https://unpkg.com/wavesurfer.js/dist/plugin/wavesurfer.spectrogram.min.js"></script>
+
+<!-- Create a new WaveSurfer instance and configure it -->
+<script>
+    var wavesurfer = WaveSurfer.create({
+        container: '#waveform',
+        waveColor: 'violet',
+        progressColor: 'purple',
+        backend: 'WebAudio',
+        height: 128,
+        plugins: [
+            WaveSurfer.spectrogram.create({
+                wavesurfer: wavesurfer,
+                container: '#spectrogram',
+                labels: true
+            })
+        ]
+    });
+
+    // Load an externally hosted audio file
+    wavesurfer.load('Audios/Boana_boans.wav');
+
+    // Play or pause the audio
+    function playPause() {
+        wavesurfer.playPause();
+    }
+</script>
+
 
