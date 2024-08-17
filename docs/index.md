@@ -40,7 +40,7 @@ h2 {
 </div>
 
 
-
+<br><br><br><br>
 
 Colombia tiene una gran diversidad de anfibios y sus sonidos, muchos de los cuales se encuentran sin describir. Sin embargo, la gran mayoria de poblaciones o especies no cuentan con una descripcion formal de sus vocalizaciones (Rivera et al XXXX). Adicionalmente, pocas cuentan con datos disponibles en repositorios de libre acceso. Aunque algunos de estos repositorios tienen políticas de uso, son de difícil acceso. Finalmente, en bioacústica de anuros, se asume que la reproducibilidad de los datos esta solo en disponibilizar los audios. Sin embargo, es recomendable disponibilizar las tablas crudas de los datos sobre las cuales las descripciones fueron hechas. Esta disponibilizacion no solo permite reproducibilidad y transparencia cientifica sino que además agregan mucho mas valor a los datos mismos dado que pueden ser reutilizados con multiples propósitos.
 
