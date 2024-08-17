@@ -36,7 +36,6 @@ h2 {
 </style>
 
 <div style="font-family: Times; text-align: center;">
-    <h1>COLECCION DE SONIDOS DE LOS ANFIBIOS DE COLOMBIA</h1>
     <img src="images/front.jpeg" style="width:20cm;">
 </div>
 
