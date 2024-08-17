@@ -36,7 +36,7 @@ h2 {
 </style>
 
 <div style="font-family: Times; text-align: center;">
-    <img src="images/front.png" style="width:20cm;">
+    <img src="images/front.png" style="width:27cm;">
 </div>
 
 
