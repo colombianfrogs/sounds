@@ -4,7 +4,7 @@ author: "Grupo Herpetológico de Antioquia"
 date: "version Julio 2024"
 output:
   html_document: 
-    toc: true
+    toc: false
     toc_float:
       collapsed: false
       smooth_scroll: true
@@ -36,7 +36,7 @@ h2 {
 </style>
 
 <div style="font-family: Times; text-align: center;">
-    <img src="images/front.jpeg" style="width:20cm;">
+    <img src="images/front.png" style="width:20cm;">
 </div>
 
 
