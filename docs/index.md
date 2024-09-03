@@ -20,7 +20,7 @@ h2 {
 }
 .title {
   font-size: 1.5em;
-  color: darkgreen;
+  color: black;
   font-weight: bold;
 }
 .author {
