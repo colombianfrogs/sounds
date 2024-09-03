@@ -11,7 +11,7 @@ output:
 
 <style>
 h1 {
-  color: darkgreen;
+  color: black;
   font-size: 1.5em;
   font-weight: bold;
 }
@@ -46,7 +46,7 @@ p {
 <br>
 
 
-## Dendrobatidae
+# Dendrobatidae
 - [Andinobates cassidyhornae](Andinobates_cassidyhornae.md)
 - [Leucostethus fraterdanieli simple](Leucostethus_fraterdanieli_simple.md)
 - [Leucostethus fraterdanieli](Leucostethus_fraterdanieli.md)
