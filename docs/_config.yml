@@ -22,11 +22,8 @@ author: GHA y colaboradores
 navbar-links:
 
   Acerca de: "acerca_de"
-  Dendrobatidae: 
-    - Leucostethus fraterdanieli simple: "Leucostethus_fraterdanieli_simple"
-    - Leucostethus fraterdanieli: "Leucostethus_fraterdanieli"
-    - Leucostethus jota: "Leucostethus_jota"
-
+  Unete: "unete"
+  Enlaces: "enlaces"
  
 
 ################
@@ -35,7 +32,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/icono.jpeg"
+# avatar: "/assets/img/icono.jpeg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 # round-avatar: true
