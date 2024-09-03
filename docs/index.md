@@ -86,7 +86,7 @@ Aqui puedes acceder a las especies que se encuentran incluidas a la fecha:
 - [Pristimantis viejas](Pristimantis.md)
 - [Pristimantis zorro](Pristimantis.md)
 
-## Comunidad
+<br><br>
 Diseño y mantenimiento:<br>
 <a href="mailto:juanm.daza@udea.edu.co">Juan M. Daza</a>, Grupo Herpetológico de Antioquia
 
