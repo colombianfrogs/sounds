@@ -32,7 +32,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-# avatar: "/assets/img/icono.jpeg"
+avatar: "/assets/img/icono.jpeg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 # round-avatar: true
@@ -53,8 +53,8 @@ social-network-links:
   email: "juanm.daza@udea.edu.co"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: deanattali
-  github: daattali
-  twitter: daattali
+  github: leptodeira
+  twitter: gHerpetologico
  # patreon: DeanAttali
 #  youtube: "@daattali"
 #  whatsapp: 15551212
