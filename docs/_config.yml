@@ -20,24 +20,14 @@ author: GHA y colaboradores
 ###############################################
 
 navbar-links:
+
+  Acerca de: "acerca_de"
   Dendrobatidae: 
     - Leucostethus fraterdanieli simple: "Leucostethus_fraterdanieli_simple"
     - Leucostethus fraterdanieli: "Leucostethus_fraterdanieli"
     - Leucostethus jota: "Leucostethus_jota"
-  Acerca de: "acerca_de"
-  Hylidae: 
-    - Dendropsophus norandinus: "Dendropsophus_norandinus"
-    - Hyloscirtus antioquia: "Hyloscirtus_antioquia"
-  Strabomantidae:
-    - Pristimantis campesino: "Pristimantis"
-    - Pristimantis cryptopictus: "Pristimantis"
-    - Pristimantis dorsopictus: "Pristimantis"
-    - Pristimantis jaguensis: "Pristimantis"
-    - Pristimantis viejas: "Pristimantis"
-    - Pristimantis zorro: "Pristimantis"
+
  
-
-
 
 ################
 # --- Logo --- #
