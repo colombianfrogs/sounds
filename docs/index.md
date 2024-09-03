@@ -1,5 +1,5 @@
 ---
-#title: "Anfibios colombianos y sus sonidos"
+#title: "Anfibios y sus sonidos"
 output:
   html_document: 
     toc: false

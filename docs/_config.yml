@@ -53,7 +53,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-title-img: "/assets/img/avatar-icon2.png"
+# title-img: "/assets/img/avatar-icon2.png"
 
 
 #####################################
@@ -69,8 +69,8 @@ social-network-links:
   facebook: deanattali
   github: daattali
   twitter: daattali
-  patreon: DeanAttali
-  youtube: "@daattali"
+ # patreon: DeanAttali
+#  youtube: "@daattali"
 #  whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname
@@ -307,7 +307,7 @@ exclude:
   - Gemfile.lock
   - LICENSE
   - README.md
-  - docs/
+#  - docs/
 
 plugins:
   - jekyll-paginate
