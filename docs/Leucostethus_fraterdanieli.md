@@ -1,4 +1,5 @@
 ---
+layout: page
 title: "Leucostethus fraterdanieli"
 output: html_document
 ---
@@ -40,6 +41,11 @@ output: html_document
 .audio-container audio {
   margin-bottom: 10px;
 }
+
+/* Ocultar el título en la página */
+body h1 {
+  display: none;
+}
 </style>
 
 
@@ -62,8 +68,8 @@ function openTab(evt, tabName) {
 <!-- Presentacion de la especie y los datos -->
 
 <div style="font-family: Times; text-align: center;">
-    <h1><i>Leucostethus fraterdanieli</i></h1>
-    <img src="images/especie_Leucostethus_fraterdanieli.png" style="width:15cm;">
+    <h2><i>Leucostethus fraterdanieli</i></h2>
+    <img src="{{ site.baseurl }}/images/especie_Leucostethus_fraterdanieli.png" style="width:15cm;">
 </div>
 <br><br>
 
@@ -84,11 +90,11 @@ Contribución por: <a href="mailto:marinc.carlosmario@gmail.com">Carlos M. Marin
 
 <div id="EspectroLefr" class="tabcontent" style="text-align: center;">
   <video width="100%" height="auto" controls style="display: block; margin-left: auto; margin-right: auto;">
-    <source src="Espectrograms/Leucostethus_fraterdanieli.mp4" type="video/mp4">
+    <source src="{{ site.baseurl }}/Espectrograms/Leucostethus_fraterdanieli.mp4" type="video/mp4">
     Tu navegador no soporta el elemento de video.
   </video>
   <br><br>
-  <img src="images/espectrograma_Diasporus_anthrax.png" style="width:10cm; display: block; margin-left: auto; margin-right: auto;">
+  <img src="{{ site.baseurl }}/images/espectrograma_Diasporus_anthrax.png" style="width:10cm; display: block; margin-left: auto; margin-right: auto;">
 </div>
 
 <!-- Seccion de tablas -->
@@ -103,7 +109,7 @@ Contribución por: <a href="mailto:marinc.carlosmario@gmail.com">Carlos M. Marin
 <div id="audLefr" class="tabcontent">
   <div class="audio-container">
     <audio controls>
-      <source src="Boana_boans.wav" type="audio/wav">
+      <source src="{{ site.baseurl }}/Audios/Boana_boans.wav" type="audio/wav">
       Tu navegador no soporta el elemento de audio.
     </audio>
   </div>

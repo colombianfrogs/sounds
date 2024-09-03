@@ -1,7 +1,5 @@
 ---
-title: "Anfibios colombianos y sus sonidos"
-author: "Grupo Herpetológico de Antioquia"
-date: "version Julio 2024"
+#title: "Anfibios colombianos y sus sonidos"
 output:
   html_document: 
     toc: false
@@ -14,14 +12,14 @@ output:
 <style>
 h1 {
   color: darkgreen;
-  font-size: 2.5em;
+  font-size: 1.5em;
   font-weight: bold;
 }
 h2 {
   color: black;
 }
 .title {
-  font-size: 3em;
+  font-size: 1.5em;
   color: darkgreen;
   font-weight: bold;
 }
@@ -33,14 +31,19 @@ h2 {
   font-size: 1.2em;
   color: gray;
 }
+/* Estilo para justificar el texto */
+p {
+  text-align: justify;
+}
+
 </style>
 
 <div style="font-family: Times; text-align: center;">
-    <img src="images/front.png" style="width:27cm;">
+    <img src="images/front.png" style="width:100%; max-width: 1000px;">
 </div>
 
 
-<br><br>
+<br>
 
 Colombia tiene una gran diversidad de anfibios y sus sonidos, muchos de los cuales se encuentran sin describir. Sin embargo, la gran mayoria de poblaciones o especies no cuentan con una descripcion formal de sus vocalizaciones (Rivera et al XXXX). Adicionalmente, pocas cuentan con datos disponibles en repositorios de libre acceso. Aunque algunos de estos repositorios tienen políticas de uso, son de difícil acceso. Finalmente, en bioacústica de anuros, se asume que la reproducibilidad de los datos esta solo en disponibilizar los audios. Sin embargo, es recomendable disponibilizar las tablas crudas de los datos sobre las cuales las descripciones fueron hechas. Esta disponibilizacion no solo permite reproducibilidad y transparencia cientifica sino que además agregan mucho mas valor a los datos mismos dado que pueden ser reutilizados con multiples propósitos.
 
