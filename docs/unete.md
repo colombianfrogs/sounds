@@ -1,12 +1,7 @@
 ---
-#title: "acerca de"
-output:
-  html_document: 
-    toc: false
-    toc_float:
-      collapsed: false
-      smooth_scroll: true
-    number_sections: false
+title: "Leucostethus fraterdanieli simple"
+layout: page
+output: html_document
 ---
 
 <style>
@@ -45,7 +40,7 @@ p {
 ## Política de uso
 Los datos en este repositorio han sido contribuidos por los autores, con el objetivo de hacer la ciencia más abierta y transparente. Así, el uso de los datos obtenidos aquí es abierto, con fines académicos y científicos, y estan bajo la licencia de [Creative Commons](https://co.creativecommons.net/tipos-de-licencias/) no comercial.
 <br><br>
-<img src="img/by-nc.png" style="width:3cm;">
+<img src="{{ site.baseurl }}/images/by-nc.png" style="width:3cm;">
 
 ## Como contribuir?
 Este proyecto funciona de forma similar a una colección herpetológica de ejemplares, donde el autor somete los datos relacionados a su estudio [acústico] (e.g., audios, tablas, links) para poder ser visualizados y disponibles a la comunidad académica.
