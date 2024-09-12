@@ -38,14 +38,14 @@ p {
 
 
 ## Política de uso
-Los datos en este repositorio han sido contribuidos por los autores, con el objetivo de hacer la ciencia más abierta y transparente. Así, el uso de los datos obtenidos aquí es abierto, con fines académicos y científicos, y estan bajo la licencia de [Creative Commons](https://co.creativecommons.net/tipos-de-licencias/) no comercial.
+Los datos visualizados y accesibles a traves de este sitio han sido contribuidos por los autores en los diferentes repositorios de libre acceso. Así, el uso de los datos obtenidos aquí es abierto, con fines académicos y científicos, y estan bajo la licencia de [Creative Commons](https://co.creativecommons.net/tipos-de-licencias/) no comercial.
 <br><br>
 <img src="{{ site.baseurl }}/images/by-nc.png" style="width:3cm;">
 
 ## Como contribuir?
 Este proyecto funciona de forma similar a una colección herpetológica de ejemplares, donde el autor somete los datos relacionados a su estudio [acústico] (e.g., audios, tablas, links) para poder ser visualizados y disponibles a la comunidad académica.
 
-Si estas interesado y tienes mas preguntas <a href="mailto:sonidoscolombia@gmail.com">contáctanos</a>
+Si estas interesado y tienes mas preguntas <a href="mailto:sonidos.anfibios.colombia@gmail.com">contáctanos</a>
 
 
 
