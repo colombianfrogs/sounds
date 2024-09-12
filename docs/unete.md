@@ -1,5 +1,5 @@
 ---
-title: "Leucostethus fraterdanieli simple"
+<!--title: "Leucostethus fraterdanieli simple"-->
 layout: page
 output: html_document
 ---
