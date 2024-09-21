@@ -59,12 +59,12 @@ function openTab(evt, tabName) {
 <!-- Tabs section -->
 <div class="tab">
   <button class="tablinks" onclick="openTab(event, 'EspectroLefr')">Espectrograma</button>
-  <button class="tablinks" onclick="openTab(event, 'tabLefr')">Figura</button>
-  <button class="tablinks" onclick="openTab(event, 'audLefr')">Datos</button>
+  <button class="tablinks" onclick="openTab(event, 'figLefr')">Figura</button>
+  <button class="tablinks" onclick="openTab(event, 'tabLefr')">Datos</button>
 </div>
 
 <!-- Seccion Espectrograma -->
-<div style="text-align: center;">
+<div id="EspectroLefr" class="tabcontent" style="text-align: center;">
   <video width="100%" height="auto" controls>
     <source src="{{ site.baseurl }}/Espectrograms/Leucostethus_fraterdanieli.mp4" type="video/mp4">
     Tu navegador no soporta el elemento de video.
@@ -72,7 +72,7 @@ function openTab(evt, tabName) {
 </div>
 
 <!-- Seccion Figura -->
-<div style="text-align: center;">
+<div id="figLefr" class="tabcontent" style="text-align: center;">
   <img src="{{ site.baseurl }}/images/espectrograma_Diasporus_anthrax.png" style="width:15cm;">
 </div>
 
