@@ -77,8 +77,8 @@ function openTab(evt, tabName) {
 <!-- Definicion de secciones -->
 
 <div class="tab">
-  <button class="tablinks" onclick="openTab(event, 'EspectroLefr')">Espectro dinámico</button>
-  <button class="tablinks" onclick="openTab(event, 'tabLefr')">Tablas</button>
+  <button class="tablinks" onclick="openTab(event, 'EspectroLefr')">Espectrograma dinámico</button>
+  <button class="tablinks" onclick="openTab(event, 'tabLefr')">Figura</button>
   <button class="tablinks" onclick="openTab(event, 'audLefr')">Datos</button>
 </div>
 
