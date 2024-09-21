@@ -10,7 +10,7 @@ output: html_document
 .tab {
   overflow: hidden;
   border: 1px solid #ccc;
-  background-color: #f1f1f1;
+  background-color: #7dd87d;
 }
 .tab button {
   background-color: inherit;
@@ -71,19 +71,15 @@ function openTab(evt, tabName) {
     <h2><i>Leucostethus fraterdanieli</i></h2>
     <img src="{{ site.baseurl }}/images/especie_Leucostethus_fraterdanieli.png" style="width:15cm;">
 </div>
+
 <br><br>
-
-Los audios y tablas corresponden a la publicación:
-<strong>Marín, C.M., C. Molina-Zuluaga, A. Restrepo, E.Cano & J.M. Daza.</strong> 2018. A new species of <i>Leucostethus</i> (Anura: Dendrobatidae) from the eastern versant of the Central Cordillera of Colombia with comments on the phylogenetic position of <i>Colostethus fraterdanieli</i>. <i>Zootaxa</i> 4461: 359--380. <a href="https://doi.org/10.11646/zootaxa.4461.3.3">https://doi.org/10.11646/zootaxa.4461.3.3</a>
-
-Contribución por: <a href="mailto:marinc.carlosmario@gmail.com">Carlos M. Marin</a>, <a href="mailto:juanm.daza@udea.edu.co">Juan M. Daza</a>
 
 <!-- Definicion de secciones -->
 
 <div class="tab">
   <button class="tablinks" onclick="openTab(event, 'EspectroLefr')">Espectrograma</button>
   <button class="tablinks" onclick="openTab(event, 'tabLefr')">Tablas</button>
-  <button class="tablinks" onclick="openTab(event, 'audLefr')">Audios</button>
+  <button class="tablinks" onclick="openTab(event, 'audLefr')">Datos</button>
 </div>
 
 <!-- Seccion espectrograma -->
