@@ -4,9 +4,8 @@ title: "Leucostethus fraterdanieli"
 output: html_document
 ---
 
-
 <style>
-/* CSS para las pestañas */
+/* Simplified CSS for tabs */
 .tab {
   overflow: hidden;
   border: 1px solid #ccc;
@@ -16,10 +15,9 @@ output: html_document
   background-color: inherit;
   float: left;
   border: none;
-  outline: none;
   cursor: pointer;
   padding: 14px 16px;
-  transition: 0.3s;
+  transition: background-color 0.3s;
 }
 .tab button:hover {
   background-color: #ddd;
@@ -33,85 +31,54 @@ output: html_document
   border: 1px solid #ccc;
   border-top: none;
 }
-/* CSS para audios */
 .audio-container {
-  display: flex;
-  flex-direction: column;
-}
-.audio-container audio {
   margin-bottom: 10px;
 }
-
-/* Ocultar el título en la página */
 body h1 {
   display: none;
 }
 </style>
 
-
 <script>
 function openTab(evt, tabName) {
-  var i, tabcontent, tablinks;
-  tabcontent = document.getElementsByClassName("tabcontent");
-  for (i = 0; i < tabcontent.length; i++) {
-    tabcontent[i].style.display = "none";
-  }
-  tablinks = document.getElementsByClassName("tablinks");
-  for (i = 0; i < tablinks.length; i++) {
-    tablinks[i].className = tablinks[i].className.replace(" active", "");
-  }
+  document.querySelectorAll('.tabcontent').forEach(tab => tab.style.display = "none");
+  document.querySelectorAll('.tablinks').forEach(link => link.classList.remove('active'));
   document.getElementById(tabName).style.display = "block";
-  evt.currentTarget.className += " active";
+  evt.currentTarget.classList.add('active');
 }
 </script>
 
-<!-- Presentacion de la especie y los datos -->
-
-<div style="font-family: Times; text-align: center;">
-    <h2><i>Leucostethus fraterdanieli</i></h2>
-    <img src="{{ site.baseurl }}/images/especie_Leucostethus_fraterdanieli.png" style="width:15cm;">
+<!-- Species presentation -->
+<div style="text-align: center;">
+  <h2><i>Leucostethus fraterdanieli</i> (Silverstone, 1971)</h2>
+  <img src="{{ site.baseurl }}/images/especie_Leucostethus_fraterdanieli.png" style="width:15cm;">
 </div>
 
-<br><br>
-
-<!-- Definicion de secciones -->
-
+<!-- Tabs section -->
 <div class="tab">
-  <button class="tablinks" onclick="openTab(event, 'EspectroLefr')">Espectrograma dinámico</button>
-  <button class="tablinks" onclick="openTab(event, 'tabLefr')">Figura</button>
-  <button class="tablinks" onclick="openTab(event, 'audLefr')">Datos</button>
+  <button class="tablinks" onclick="openTab(event, 'EspectroLefr')">Espectrograma</button>
+  <button class="tablinks" onclick="openTab(event, 'figLefr')">Figura</button>
+  <button class="tablinks" onclick="openTab(event, 'tabLefr')">Datos</button>
 </div>
 
-<!-- Seccion espectrograma -->
-
+<!-- Seccion Espectrograma -->
 <div id="EspectroLefr" class="tabcontent" style="text-align: center;">
-  <video width="100%" height="auto" controls style="display: block; margin-left: auto; margin-right: auto;">
+  <video width="100%" height="auto" controls>
     <source src="{{ site.baseurl }}/Espectrograms/Leucostethus_fraterdanieli.mp4" type="video/mp4">
     Tu navegador no soporta el elemento de video.
   </video>
-  <br><br>
-  <img src="{{ site.baseurl }}/images/espectrograma_Diasporus_anthrax.png" style="width:10cm; display: block; margin-left: auto; margin-right: auto;">
 </div>
 
-<!-- Seccion de tablas -->
+<!-- Seccion Figura -->
+<div id="figLefr" class="tabcontent" style="text-align: center;">
+  <img src="{{ site.baseurl }}/images/espectrograma_Diasporus_anthrax.png" style="width:15cm;">
+</div>
 
+<!-- Seccion Datos -->
 <div id="tabLefr" class="tabcontent">
-  <p>Descarga tabla de medidas <a href="https://bit.ly/3LUkN5s">aquí</a>.</p>
-  <p>Descarga tabla selección RAVEN <a href="https://bit.ly/3LUkN5s">aquí</a>.</p>
+  <p>Descarga <a href="https://bit.ly/3LUkN5s">aquí</a>.</p>
 </div>
 
-<!-- Seccion de audios -->
-
-<div id="audLefr" class="tabcontent">
-  <div class="audio-container">
-    <audio controls>
-      <source src="{{ site.baseurl }}/Audios/Boana_boans.wav" type="audio/wav">
-      Tu navegador no soporta el elemento de audio.
-    </audio>
-  </div>
-  <p>Audios disponibles <a href="https://bit.ly/3LUkN5s">aquí</a>.</p>
-</div>
-
-Los audios y tablas corresponden a la publicación:<br>
-
-<strong>Marín, C.M., C. Molina-Zuluaga, A. Restrepo, E.Cano & J.M. Daza.</strong> 2018. A new species of <i>Leucostethus</i> (Anura: Dendrobatidae) from the eastern versant of the Central Cordillera of Colombia with comments on the phylogenetic position of <i>Colostethus fraterdanieli</i>. <i>Zootaxa</i> 4461: 359--380. <a href="https://doi.org/10.11646/zootaxa.4461.3.3">https://doi.org/10.11646/zootaxa.4461.3.3</a>
+Publicaciones que incorporan sonidos de esta especie:
+<br><br>
+<strong>Marín, C.M., C. Molina-Zuluaga, A. Restrepo, E. Cano & J.M. Daza.</strong> 2018. A new species of <i>Leucostethus</i> (Anura: Dendrobatidae) from the eastern versant of the Central Cordillera of Colombia with comments on the phylogenetic position of <i>Colostethus fraterdanieli</i>. <i>Zootaxa</i> 4461: 359--380. <a href="https://doi.org/10.11646/zootaxa.4461.3.3">https://doi.org/10.11646/zootaxa.4461.3.3</a>
