@@ -75,6 +75,10 @@ Esperamos que este sitio motive a la comunidad a seguir depositando sus datos ac
 
 [versión septiembre 2024](https://www.go-fair.org/fair-principles/)
 
+<div style="font-family: Times; text-align: center;">
+    <img src="images/wave.png" style="width:100%; max-width: 1000px;">
+</div>
+
 <br>
 Diseño y mantenimiento:<br>
 <a href="mailto:juanm.daza@udea.edu.co">Juan M. Daza</a>, Grupo Herpetológico de Antioquia
