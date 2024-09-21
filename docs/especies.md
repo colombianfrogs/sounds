@@ -44,7 +44,7 @@ Aquí puedes acceder a las especies que se encuentran incluidas a la fecha:
 # Dendrobatidae
 - [Andinobates cassidyhornae](Andinobates_cassidyhornae.md)
 - [Leucostethus fraterdanieli simple](Leucostethus_fraterdanieli_simple.md)
-- [Leucostethus fraterdanieli](Leucostethus_fraterdanieli.md)
+- [Leucostethus fraterdanieli](especie.md)
 - [Leucostethus jota](Leucostethus_jota.md)
 
 # Eleutherodactylidae
