@@ -10,7 +10,7 @@ output: html_document
 .tab {
   overflow: hidden;
   border: 1px solid #ccc;
-  background-color: #283739;
+  background-color: #a2c11c;
 }
 .tab button {
   background-color: inherit;
