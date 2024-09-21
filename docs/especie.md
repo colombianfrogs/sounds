@@ -54,8 +54,6 @@ function openTab(evt, tabName) {
   <img src="{{ site.baseurl }}/images/especie_Leucostethus_fraterdanieli.png" style="width:15cm;">
 </div>
 
-<br><br>
-
 <!-- Tabs section -->
 <div class="tab">
   <button class="tablinks" onclick="openTab(event, 'EspectroLefr')">Espectrograma</button>
