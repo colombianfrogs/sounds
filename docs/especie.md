@@ -63,31 +63,22 @@ function openTab(evt, tabName) {
   <button class="tablinks" onclick="openTab(event, 'audLefr')">Datos</button>
 </div>
 
-<!-- Espectrogram section -->
-<div id="EspectroLefr" class="tabcontent" style="text-align: center;">
+<!-- Seccion Espectrograma -->
+<div style="text-align: center;">
   <video width="100%" height="auto" controls>
     <source src="{{ site.baseurl }}/Espectrograms/Leucostethus_fraterdanieli.mp4" type="video/mp4">
     Tu navegador no soporta el elemento de video.
   </video>
-  <br><br>
-  <img src="{{ site.baseurl }}/images/espectrograma_Diasporus_anthrax.png" style="width:10cm;">
 </div>
 
-<!-- Table section -->
+<!-- Seccion Figura -->
+<div style="text-align: center;">
+  <img src="{{ site.baseurl }}/images/espectrograma_Diasporus_anthrax.png" style="width:15cm;">
+</div>
+
+<!-- Seccion Datos -->
 <div id="tabLefr" class="tabcontent">
-  <p>Descarga tabla de medidas <a href="https://bit.ly/3LUkN5s">aquí</a>.</p>
-  <p>Descarga tabla selección RAVEN <a href="https://bit.ly/3LUkN5s">aquí</a>.</p>
-</div>
-
-<!-- Audio section -->
-<div id="audLefr" class="tabcontent">
-  <div class="audio-container">
-    <audio controls>
-      <source src="{{ site.baseurl }}/Audios/Boana_boans.wav" type="audio/wav">
-      Tu navegador no soporta el elemento de audio.
-    </audio>
-  </div>
-  <p>Audios disponibles <a href="https://bit.ly/3LUkN5s">aquí</a>.</p>
+  <p>Descarga <a href="https://bit.ly/3LUkN5s">aquí</a>.</p>
 </div>
 
 <p>Publicaciones que incorporan sonidos de esta especie:</p>
