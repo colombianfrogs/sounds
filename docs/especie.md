@@ -50,7 +50,7 @@ function openTab(evt, tabName) {
 
 <!-- Species presentation -->
 <div style="text-align: center;">
-  <h2><i>Leucostethus fraterdanieli</i></h2>
+  <h2><i>Leucostethus fraterdanieli</i> (Silverstone, 1971)</h2>
   <img src="{{ site.baseurl }}/images/especie_Leucostethus_fraterdanieli.png" style="width:15cm;">
 </div>
 
