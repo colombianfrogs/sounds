@@ -62,7 +62,7 @@ Nuestra principal motivación son los [principios FAIR](https://www.go-fair.org/
 Esperamos que este sitio motive a la comunidad a seguir depositando sus datos acústicos en diferentes repositorios de libre acceso. <a href="mailto:juanm.daza@udea.edu.co">escríbenos</a>
 
 # Explorar los datos con especímen voucher
-<iframe src="https://www.google.com/maps/d/u/1/embed?mid=14vULshF6ww3Tvdzq5kJU_vYbgYpHZM0&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1wxey1vq0p4rmITVp2Y2ZVbu8g8Ls0gw&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
 
 # Explorar los datos por taxonomía
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=14vULshF6ww3Tvdzq5kJU_vYbgYpHZM0&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
