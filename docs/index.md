@@ -12,7 +12,7 @@ output:
 <style>
 h1 {
   color: black;
-  font-size: 1.5em;
+  font-size: 14pt;
   font-weight: bold;
 }
 h1.title {
