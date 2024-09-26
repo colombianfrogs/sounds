@@ -11,13 +11,8 @@ output:
 
 <style>
 h1 {
-  color: #a2c11c;
+  color: black;
   font-size: 1.5em;
-  font-weight: bold;
-}
-h2 {
-  font-size: 1.5em;
-  color: #a2c11c;
   font-weight: bold;
 }
 .title {
@@ -25,14 +20,6 @@ h2 {
   color: #a2c11c;
   font-weight: bold;
   font-family: Garamond, Serif;
-}
-.author {
-  font-size: 1.5em;
-  color: black;
-}
-.date {
-  font-size: 1.2em;
-  color: gray;
 }
 /* Estilo para justificar el texto */
 p {
@@ -45,8 +32,6 @@ p {
     <img src="images/front.png" style="width:100%; max-width: 1000px;">
 </div>
 
-
-<br>
 
 Colombia posee una gran diversidad de anfibios lo que se refleja también en una inmensa riqueza de sonidos generados por estos. En la última decada ha habido un gran interés por documentar estos sonidos ([Rivera et al. 2021](https://www.go-fair.org/fair-principles/)) y la comunidad herpetológica esta aprovechando el sonido emitido por los anfibios para abordar preguntas que van desde la taxonomía, ecología y comportamiento hasta la evolución de señales y el monitoreo de la biodiversidad.
 
