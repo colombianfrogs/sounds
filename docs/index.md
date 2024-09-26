@@ -12,16 +12,15 @@ output:
 <style>
 h1 {
   color: black;
-  font-size: 14pt;
+  font-size: 18pt;
   font-weight: bold;
 }
-h1.title {
+h3.title {
   font-size: 14pt;
   color: #a2c11c;
   font-weight: bold;
   font-family: Garamond, Serif;
 }
-/* Estilo para justificar el texto */
 p {
   text-align: justify;
 }
