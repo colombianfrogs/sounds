@@ -15,7 +15,7 @@ h1 {
   font-size: 1.5em;
   font-weight: bold;
 }
-h2 {
+h3 {
   font-size: 1.5em;
   color: #a2c11c;
   font-weight: bold;
