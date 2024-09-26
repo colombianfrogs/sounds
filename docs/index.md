@@ -15,7 +15,7 @@ h1 {
   font-size: 1.5em;
   font-weight: bold;
 }
-.title {
+h1.title {
   font-size: 14pt;
   color: #a2c11c;
   font-weight: bold;
