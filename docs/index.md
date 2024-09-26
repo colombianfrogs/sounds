@@ -45,7 +45,8 @@ p {
     <img src="images/front.png" style="width:100%; max-width: 1000px;">
 </div>
 
-## Colección de Sonidos de los Anfibios de Colombia
+##Colección de Sonidos de los Anfibios de Colombia
+
 <br>
 
 Colombia posee una gran diversidad de anfibios lo que se refleja también en una inmensa riqueza de sonidos generados por estos. En la última decada ha habido un gran interés por documentar estos sonidos ([Rivera et al. 2021](https://www.go-fair.org/fair-principles/)) y la comunidad herpetológica esta aprovechando el sonido emitido por los anfibios para abordar preguntas que van desde la taxonomía, ecología y comportamiento hasta la evolución de señales y el monitoreo de la biodiversidad.
