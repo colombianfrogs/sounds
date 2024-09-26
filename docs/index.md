@@ -16,15 +16,11 @@ h1 {
   font-weight: bold;
 }
 h2 {
-  color: #a2c11c;
-  font-size: 1.25em; 
-  font-weight: normal;
-}
-h3.title {
-  font-size: 14pt;
+  font-size: 18pt;
   color: #a2c11c;
   font-weight: bold;
   font-family: Garamond, Serif;
+  text-align: center;
 }
 p {
   text-align: justify;
