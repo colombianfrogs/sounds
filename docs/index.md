@@ -22,6 +22,7 @@ h2 {
   font-size: 1.5em;
   color: green;
   font-weight: bold;
+  font-family: Papyrus, Fantasy;
 }
 .author {
   font-size: 1.5em;
