@@ -21,10 +21,10 @@ h2 {
   font-weight: bold;
 }
 .title {
-  font-size: 1.0em;
+  font-size: 0.5em;
   color: #a2c11c;
   font-weight: bold;
-  font-family: Papyrus, Fantasy;
+  font-family: Garamond, Serif;
 }
 .author {
   font-size: 1.5em;
