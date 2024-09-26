@@ -1,5 +1,5 @@
 ---
-title: "Dataverso de Sonidos de Anfibios Colombianos"
+#title: "Dataverso de Sonidos de Anfibios Colombianos"
 output:
   html_document: 
     toc: false
@@ -16,10 +16,10 @@ h1 {
   font-weight: bold;
 }
 h2 {
-  font-size: 18pt;
+  font-size: 36pt;
   color: #a2c11c;
   font-weight: bold;
-  font-family: Garamond, Serif;
+  font-family: Georgia, Serif;
   text-align: center;
 }
 p {
@@ -32,6 +32,8 @@ p {
     <img src="images/front.png" style="width:100%; max-width: 1000px;">
 </div>
 
+# Explorar
+## Explorar los datos con especímen voucher
 
 Colombia posee una gran diversidad de anfibios lo que se refleja también en una inmensa riqueza de sonidos generados por estos. En la última decada ha habido un gran interés por documentar estos sonidos ([Rivera et al. 2021](https://www.go-fair.org/fair-principles/)) y la comunidad herpetológica esta aprovechando el sonido emitido por los anfibios para abordar preguntas que van desde la taxonomía, ecología y comportamiento hasta la evolución de señales y el monitoreo de la biodiversidad.
 
@@ -53,7 +55,7 @@ Esperamos que este sitio motive a la comunidad a seguir depositando sus datos ac
 
 # Explorar los datos con especímen voucher
 ## Explorar los datos con especímen voucher
-<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1wxey1vq0p4rmITVp2Y2ZVbu8g8Ls0gw&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1wxey1vq0p4rmITVp2Y2ZVbu8g8Ls0gw&ehbc=2E312F&noprof=1" width="740" height="400"></iframe>
 
 # Explorar los datos por taxonomía
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=14vULshF6ww3Tvdzq5kJU_vYbgYpHZM0&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
