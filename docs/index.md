@@ -20,7 +20,7 @@ h2 {
 }
 .title {
   font-size: 1.5em;
-  color: green;
+  color: #a2c11c;
   font-weight: bold;
   font-family: Papyrus, Fantasy;
 }
