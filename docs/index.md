@@ -32,7 +32,7 @@ p {
     <img src="images/front.png" style="width:100%; max-width: 1000px;">
 </div>
 
-# Explorar
+# 
 ## Explorar los datos con especímen voucher
 
 Colombia posee una gran diversidad de anfibios lo que se refleja también en una inmensa riqueza de sonidos generados por estos. En la última decada ha habido un gran interés por documentar estos sonidos ([Rivera et al. 2021](https://www.go-fair.org/fair-principles/)) y la comunidad herpetológica esta aprovechando el sonido emitido por los anfibios para abordar preguntas que van desde la taxonomía, ecología y comportamiento hasta la evolución de señales y el monitoreo de la biodiversidad.
@@ -54,7 +54,7 @@ Nuestra principal motivación son los [principios FAIR](https://www.go-fair.org/
 Esperamos que este sitio motive a la comunidad a seguir depositando sus datos acústicos en diferentes repositorios de libre acceso. <a href="mailto:juanm.daza@udea.edu.co">escríbenos</a>
 
 # Explorar los datos con especímen voucher
-## Explorar los datos con especímen voucher
+<br>
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1wxey1vq0p4rmITVp2Y2ZVbu8g8Ls0gw&ehbc=2E312F&noprof=1" width="740" height="400"></iframe>
 
 # Explorar los datos por taxonomía
