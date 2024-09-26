@@ -11,7 +11,7 @@ output:
 
 <style>
 h1 {
-  color: black;
+  color: #a2c11c;
   font-size: 1.5em;
   font-weight: bold;
 }
