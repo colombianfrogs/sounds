@@ -15,6 +15,11 @@ h1 {
   font-size: 18pt;
   font-weight: bold;
 }
+h2 {
+  color: #a2c11c;
+  font-size: 1.25em; 
+  font-weight: normal;
+}
 h3.title {
   font-size: 14pt;
   color: #a2c11c;
@@ -51,6 +56,7 @@ Nuestra principal motivación son los [principios FAIR](https://www.go-fair.org/
 Esperamos que este sitio motive a la comunidad a seguir depositando sus datos acústicos en diferentes repositorios de libre acceso. <a href="mailto:juanm.daza@udea.edu.co">escríbenos</a>
 
 # Explorar los datos con especímen voucher
+## Explorar los datos con especímen voucher
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1wxey1vq0p4rmITVp2Y2ZVbu8g8Ls0gw&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
 
 # Explorar los datos por taxonomía
