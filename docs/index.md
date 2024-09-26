@@ -53,13 +53,15 @@ Colombia posee una gran diversidad de anfibios lo que se refleja también en una
 
 Este sitio surge, de la comunidad académica, como respuesta a este reciente interés de la comunidad herpetológica pero reconoce que la accesibilidad a los resultados de estudios acústicos con anfibios colombianos se encuentra dispersa o es de difícil acceso. Los datos aqui contenidos corresponden a los audios, las medidas realizadas por los investigadores y las tablas de selección generadas en el programa [Raven](https://store.birds.cornell.edu/collections/raven-sound-software). Este repositorio además busca:
 
-1.  La reproducibilidad de los resultados obtenidos en descripciones de cantos.
+1. La reproducibilidad de los resultados obtenidos en descripciones de cantos.
 
-2.  Facilitar nuevas descripciones de cantos y estudios comparativos.
+2. Facilitar nuevas descripciones de cantos y estudios comparativos.
 
-3.  Facilitar archivos anotados para el entrenamiento de algoritmos de detección automática de especies.
+3. Facilitar archivos anotados para el entrenamiento de algoritmos de detección automática de especies.
 
-4.  Apoyar cursos y prácticas en Bioacústica y Ecoacústica.
+4. Estimular la documentación y las descripciones de cantos de especies colombianas. 
+
+5. Apoyar cursos y prácticas en Bioacústica y Ecoacústica.
 
 Nuestra principal motivación son los [principios FAIR](https://www.go-fair.org/fair-principles/) donde se busca hacer los datos digitales (e.g., archivos de sonido, tablas) facilmente encontrables, accesibles, interoperables y reutilizables por la comunidad científica y general. Así, este sitio se convierte en el primer visor en Colombia donde integra de una forma simple y eficiente la información disponible de datos acústicos obtenidos para la anurofauna del país.
 
