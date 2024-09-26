@@ -21,7 +21,7 @@ h2 {
   font-weight: bold;
 }
 .title {
-  font-size: 0.2em;
+  font-size: 14pt;
   color: #a2c11c;
   font-weight: bold;
   font-family: Garamond, Serif;
