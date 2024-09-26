@@ -1,5 +1,5 @@
 ---
-title: "Anfibios y sus sonidos"
+title: "Dataverso de Sonidos de Anfibios Colombianos"
 output:
   html_document: 
     toc: false
@@ -21,7 +21,7 @@ h2 {
   font-weight: bold;
 }
 .title {
-  font-size: 1.5em;
+  font-size: 1.0em;
   color: #a2c11c;
   font-weight: bold;
   font-family: Papyrus, Fantasy;
