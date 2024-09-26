@@ -15,11 +15,10 @@ h1 {
   font-size: 1.5em;
   font-weight: bold;
 }
-h3 {
+h2 {
   font-size: 1.5em;
   color: #a2c11c;
   font-weight: bold;
-  font-family: Papyrus, Fantasy;
 }
 .title {
   font-size: 1.5em;
