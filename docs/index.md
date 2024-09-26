@@ -1,5 +1,5 @@
 ---
-#title: "Anfibios y sus sonidos"
+title: "Anfibios y sus sonidos"
 output:
   html_document: 
     toc: false
@@ -20,7 +20,7 @@ h2 {
 }
 .title {
   font-size: 1.5em;
-  color: black;
+  color: green;
   font-weight: bold;
 }
 .author {
