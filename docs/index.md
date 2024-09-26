@@ -21,7 +21,7 @@ h2 {
   font-weight: bold;
 }
 .title {
-  font-size: 0.5em;
+  font-size: 0.2em;
   color: #a2c11c;
   font-weight: bold;
   font-family: Garamond, Serif;
@@ -45,7 +45,6 @@ p {
     <img src="images/front.png" style="width:100%; max-width: 1000px;">
 </div>
 
-##Colección de Sonidos de los Anfibios de Colombia
 
 <br>
 
