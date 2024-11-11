@@ -71,7 +71,7 @@ function openTab(evt, tabName) {
 
 <!-- Seccion Figura -->
 <div id="figLefr" class="tabcontent" style="text-align: center;">
-  <img src="{{ site.baseurl }}/images/spec_Agalychnis_terranova.png" style="width:15cm;">
+  <img src="{{ site.baseurl }}/images/spec_Agalychnis_terranova.jpg" style="width:15cm;">
 </div>
 
 <!-- Seccion Datos -->
