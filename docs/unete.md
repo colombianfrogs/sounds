@@ -67,5 +67,5 @@ Llena esta <a href="https://docs.google.com/spreadsheets/d/16WcxUUv3ehSloq5FdqNA
 Si estas interesado y tienes más preguntas <a href="mailto:col.sonidos.colombia@gmail.com">contáctanos</a>
 
 <div style="font-family: Times; text-align: center;">
-	<img src="{{ site.baseurl }}/images/wave.png" style="width:100%; max-width: 1000px;">
+	<img src="{{ site.baseurl }}/images/wave_2_.png" style="width:70%; max-width: 1000px;">
 </div>
