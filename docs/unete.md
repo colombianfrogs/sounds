@@ -48,21 +48,26 @@ Generalmente, las publicaciones de la comunidad bioacústica considera que la re
 ## Como contribuir con este sitio?
 Invitamos a toda la comunidad herpetológica a que disponibilice los datos asociados a sus estudios acústicos.  Se pueden disponibilizar datos de estudios publicados o no publicados. La contribución solo comprende dos pasos:
 
-1. Someter los datos (audios y tablas crudas) a cualquiera de estos repositorios:
+1. Hacer disponibles los datos (audios y tablas crudas) en cualquier repositorio con la filosofía [FAIR](https://www.go-fair.org/fair-principles/). Actualmente existen muchos repositorios bajo esta iniciativa. Aqui mencionamos algunos:
 
+### Repositorios de datos bioacústicos
+
+- [Colección de Sonidos Ambientales IAVH](http://colecciones.humboldt.org.co/sonidos/)
+- [iNaturalist](https://www.inaturalist.org/)
+- [xeno-canto](https://xeno-canto.org/)
+
+### Repositorios de datos de investigación
 <div style="text-align: center;">
-	<h4>Figshare</h4>
+    <h4>Figshare</h4>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/sHUGRurU01c" frameborder="0" allowfullscreen></iframe>
-    <p>Ir a [figshare](https://figshare.com/)</p>
+    <p>Ir a <a href="https://figshare.com/" target="_blank">figshare</a></p>
 </div>
 Ir a [figshare](https://figshare.com/)
 
 - [zenodo](https://zenodo.org/)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yRXnh_59sQY" frameborder="0" allowfullscreen></iframe>
 
-- [Colección de Sonidos Ambientales IAVH](http://colecciones.humboldt.org.co/sonidos/)
-- [iNaturalist](https://www.inaturalist.org/)
-- [xeno-canto](https://xeno-canto.org/)
+
 
 
 2. Llenar una tabla con datos mínimos y enviarla a nuestro <a href="mailto:col.sonidos.colombia@gmail.com">correo</a>. De esta forma, los haremos visibles y accesibles a toda la comunidad.
