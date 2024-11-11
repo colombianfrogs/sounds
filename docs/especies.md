@@ -51,6 +51,7 @@ Aquí puedes acceder a las especies que se encuentran incluidas a la fecha:
 
 # Hylidae
 
+- [Agalychnis terranova](Agalychnis_terranova.md)
 - [Dendropsophus norandinus](Dendropsophus_norandinus.md)
 - [Hyloscirtus antioquia](Hyloscirtus_antioquia_.md)
 
