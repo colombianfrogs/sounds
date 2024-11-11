@@ -41,13 +41,11 @@ Este sitio surge, de la comunidad académica, como respuesta a este reciente int
 
 1. La reproducibilidad de los resultados obtenidos en descripciones de cantos.
 
-2. Facilitar nuevas descripciones de cantos y estudios comparativos.
+2. Estimular nuevas descripciones de cantos de especies colombianas.
 
 3. Facilitar archivos anotados para el entrenamiento de algoritmos de detección automática de especies.
 
-4. Estimular la documentación y las descripciones de cantos de especies colombianas. 
-
-5. Apoyar cursos y prácticas en Bioacústica y Ecoacústica.
+4. Apoyar cursos y prácticas en Bioacústica y Ecoacústica.
 
 Nuestra principal motivación son los [principios FAIR](https://www.go-fair.org/fair-principles/) donde se busca hacer los datos digitales (e.g., archivos de sonido, tablas) facilmente encontrables, accesibles, interoperables y reutilizables por la comunidad científica y general. Así, este sitio se convierte en el primer visor en Colombia donde integra de una forma simple y eficiente la información disponible de datos acústicos obtenidos para la anurofauna del país.
 
