@@ -63,3 +63,6 @@ Aquí puedes acceder a las especies que se encuentran incluidas a la fecha:
 - [Pristimantis viejas](Pristimantis.md)
 - [Pristimantis zorro](Pristimantis.md)
 
+<div style="font-family: Times; text-align: center;">
+    <img src="images/wave.png" style="width:100%; max-width: 1000px;">
+</div>

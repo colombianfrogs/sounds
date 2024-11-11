@@ -52,22 +52,23 @@ Invitamos a toda la comunidad herpetológica a que disponibilice los datos asoci
 
 ### Repositorios de datos bioacústicos
 
-- [Colección de Sonidos Ambientales IAVH](http://colecciones.humboldt.org.co/sonidos/)
-- [iNaturalist](https://www.inaturalist.org/)
-- [xeno-canto](https://xeno-canto.org/)
+[Colección de Sonidos Ambientales IAVH](http://colecciones.humboldt.org.co/sonidos/)
+[iNaturalist](https://www.inaturalist.org/)
+[xeno-canto](https://xeno-canto.org/)
 
 ### Repositorios de datos de investigación
+
 <div style="text-align: center;">
     <h4>Figshare</h4>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/sHUGRurU01c" frameborder="0" allowfullscreen></iframe>
     <p>Ir a <a href="https://figshare.com/" target="_blank">figshare</a></p>
 </div>
-Ir a [figshare](https://figshare.com/)
 
-- [zenodo](https://zenodo.org/)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yRXnh_59sQY" frameborder="0" allowfullscreen></iframe>
-
-
+<div style="text-align: center;">
+    <h4>Zenodo</h4>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/yRXnh_59sQY" frameborder="0" allowfullscreen></iframe>
+    <p>Ir a <a href="https://zenodo.com/" target="_blank">Zenodo</a></p>
+</div>
 
 
 2. Llenar una tabla con datos mínimos y enviarla a nuestro <a href="mailto:col.sonidos.colombia@gmail.com">correo</a>. De esta forma, los haremos visibles y accesibles a toda la comunidad.
@@ -75,5 +76,7 @@ Ir a [figshare](https://figshare.com/)
 
 Si estas interesado y tienes más preguntas <a href="mailto:col.sonidos.colombia@gmail.com">contáctanos</a>
 
-
+<div style="font-family: Times; text-align: center;">
+    <img src="images/wave.png" style="width:100%; max-width: 1000px;">
+</div>
 
