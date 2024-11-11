@@ -49,9 +49,12 @@ Generalmente, las publicaciones de la comunidad bioacústica considera que la re
 Invitamos a toda la comunidad herpetológica a que disponibilice los datos asociados a sus estudios acústicos.  Se pueden disponibilizar datos de estudios publicados o no publicados. La contribución solo comprende dos pasos:
 
 1. Someter los datos (audios y tablas crudas) a cualquiera de estos repositorios:
-- [figshare](https://figshare.com/)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sHUGRurU01c" frameborder="0" allowfullscreen></iframe>
 
+<div style="text-align: center;">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/sHUGRurU01c" frameborder="0" allowfullscreen></iframe>
+</div>
+<br>
+Ir a [figshare](https://figshare.com/)
 
 - [zenodo](https://zenodo.org/)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yRXnh_59sQY" frameborder="0" allowfullscreen></iframe>
