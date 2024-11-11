@@ -43,7 +43,7 @@ Los datos visualizados y accesibles a traves de este sitio han sido contribuidos
 <img src="{{ site.baseurl }}/images/by-nc.png" style="width:4cm;">
 
 ## Mas allá de los audios!
-Generalmente, las publicaciones de la comunidad bioacústica considera que la reproducibilidad de los estudios se limita a disponibilizar los audios. Aunque eso es indispensable, no es del todo cierto. Las tablas de métricos acústicos (e.g., frecuencia minima, duración del canto, etc) estan basados, en su mayoría, en visualizaciones del espectro y en menor medida en segmentaciones automáticas o semiautomáticas. En todos los casos, se generan matrices que son posteriormente incorporadas en los análisis. Con el fin de hacer los análisis enteramente [reproducibles](https://book.the-turing-way.org/index.html) es recomendable disponibilizar las tablas crudas de estos métricos. Un buen ejemplo son las [tablas de selección](https://www.ravensoundsoftware.com/video-tutorials/espanol/02-espanol-selections-and-measurements/) obtenidas en el programa [Raven](https://store.birds.cornell.edu/collections/raven-sound-software). Existen diferentes programas donde se pueden hacer selecciones manuales o de forma automática (e.g. R, Avisoft, Audacity)
+Generalmente, las publicaciones de la comunidad bioacústica considera que la reproducibilidad de los estudios se limita a disponibilizar los audios. Aunque eso es indispensable, no es del todo cierto. Las tablas de métricos acústicos (e.g., frecuencia minima, duración del canto, etc) estan basados, en su mayoría, en visualizaciones del espectro y en menor medida en segmentaciones automáticas o semiautomáticas. En todos los casos, se generan matrices que son posteriormente incorporadas en los análisis. Con el fin de hacer los análisis enteramente [reproducibles](https://book.the-turing-way.org/index.html) es recomendable disponibilizar las tablas crudas de estos métricos. Un buen ejemplo son las [tablas de selección](https://www.ravensoundsoftware.com/video-tutorials/espanol/02-espanol-selections-and-measurements/) obtenidas en el programa [Raven](https://store.birds.cornell.edu/collections/raven-sound-software). Existen diferentes programas donde se pueden hacer selecciones manuales o de forma automática (e.g. Avisoft, Audacity, R)
 
 ## Como contribuir?
 Invitamos a toda la comunidad herpetológica a que disponibilice los datos asociados con sus estudios acústicos.  Se pueden disponibilizar datos de estudios publicados o no publicados. La contribución solo comprende dos pasos:
@@ -52,15 +52,14 @@ Invitamos a toda la comunidad herpetológica a que disponibilice los datos asoci
 
 Has disponibles los datos (audios y tablas crudas) en cualquier repositorio con la filosofía [FAIR](https://www.go-fair.org/fair-principles/). Actualmente existen muchos repositorios bajo esta iniciativa. Aquí mencionamos algunos:
 
-Repositorios de datos bioacústicos:
+Repositorios de datos bioacústicos:<br>
 [Colección de Sonidos Ambientales IAVH](http://colecciones.humboldt.org.co/sonidos/)<br>
 [iNaturalist](https://www.inaturalist.org/)<br>
 [xeno-canto](https://xeno-canto.org/)
 
-Repositorios de datos de investigación:
+Repositorios de datos de investigación:<br>
 [Figshare](https://figshare.com/), ver nuestro tutorial <a href="https://www.youtube.com/watch?v=sHUGRurU01c&t=2s">aquí</a>
-
-[zenodo](https://zenodo.com/), ver nuestro tutorial <a href="https://www.youtube.com/watch?v=yRXnh_59sQY&t=5s">aquí</a><br>
+[zenodo](https://zenodo.com/), ver nuestro tutorial <a href="https://www.youtube.com/watch?v=yRXnh_59sQY&t=5s">aquí</a>
 
 #### Comparte
 Llena esta tabla con datos mínimos y envíala a nuestro <a href="mailto:col.sonidos.colombia@gmail.com">correo</a>. De esta forma, los haremos visibles y accesibles a toda la comunidad.
