@@ -53,7 +53,9 @@ Invitamos a toda la comunidad herpetológica a que disponibilice los datos asoci
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sHUGRurU01c" frameborder="0" allowfullscreen></iframe>
 
 
-- [zenodo](https://zenodo.org/) (ver tutorial aquí),
+- [zenodo](https://zenodo.org/)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yRXnh_59sQY" frameborder="0" allowfullscreen></iframe>
+
 - [Colección de Sonidos Ambientales IAVH](http://colecciones.humboldt.org.co/sonidos/)
 - [iNaturalist](https://www.inaturalist.org/)
 
