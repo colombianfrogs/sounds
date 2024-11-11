@@ -77,7 +77,7 @@ function openTab(evt, tabName) {
 
 <!-- Seccion Datos -->
 <div id="tabLefr" class="tabcontent">
-  <p>Descarga <a href="https://bit.ly/3LUkN5s">aquí</a>.</p>
+  <p>Descarga <a href="https://doi.org/10.6084/m9.figshare.27637980.v2">https://doi.org/10.6084/m9.figshare.27637980.v2</a>.</p>
 </div>
 
 Publicaciones que incorporan sonidos de esta especie:
