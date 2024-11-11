@@ -48,7 +48,7 @@ Generalmente, las publicaciones de la comunidad bioacústica considera que la re
 ## Como contribuir con este sitio?
 Invitamos a toda la comunidad herpetológica a que disponibilice los datos asociados con sus estudios acústicos.  Se pueden disponibilizar datos de estudios publicados o no publicados. La contribución solo comprende dos pasos:
 
-***1.Hacer disponibles los datos (audios y tablas crudas) en cualquier repositorio con la filosofía [FAIR](https://www.go-fair.org/fair-principles/). Actualmente existen muchos repositorios bajo esta iniciativa. Aqui mencionamos algunos:
+***1. Hacer disponibles los datos (audios y tablas crudas) en cualquier repositorio con la filosofía [FAIR](https://www.go-fair.org/fair-principles/). Actualmente existen muchos repositorios bajo esta iniciativa. Aqui mencionamos algunos:
 
 ### Repositorios de datos bioacústicos
 
@@ -76,7 +76,7 @@ Invitamos a toda la comunidad herpetológica a que disponibilice los datos asoci
     </div>
 </div>
 
-***8.Llenar una tabla con datos mínimos y enviarla a nuestro <a href="mailto:col.sonidos.colombia@gmail.com">correo</a>. De esta forma, los haremos visibles y accesibles a toda la comunidad.
+***8. Llenar una tabla con datos mínimos y enviarla a nuestro <a href="mailto:col.sonidos.colombia@gmail.com">correo</a>. De esta forma, los haremos visibles y accesibles a toda la comunidad.
 
 Si estas interesado y tienes más preguntas <a href="mailto:col.sonidos.colombia@gmail.com">contáctanos</a>
 
