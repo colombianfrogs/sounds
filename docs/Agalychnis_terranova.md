@@ -80,6 +80,5 @@ function openTab(evt, tabName) {
 </div>
 
 Publicaciones que incorporan sonidos de esta especie:
-<br><br>
-
+<br>
 <strong>Chaves-Portilla, G., Rueda-Solano, L. Daza, J.M.</strong> 2021. First record of <i>Agalychnis terranova</i> Rivera-Correa, Duarte-Cubides, Rueda-Almonacid & Daza, 2013 (Anura: Phyllomedusidae) from the Sierra Nevada de Santa Marta, Colombia with the description of its advertisement call. <i>Herpetology Notes</i> 156: 23--27. <a href="https://doi.org/10.33256/hb156.2327">https://doi.org/10.33256/hb156.2327</a>
