@@ -62,6 +62,8 @@ Ir a [figshare](https://figshare.com/)
 
 - [Colección de Sonidos Ambientales IAVH](http://colecciones.humboldt.org.co/sonidos/)
 - [iNaturalist](https://www.inaturalist.org/)
+- [xeno-canto](https://xeno-canto.org/)
+
 
 2. Llenar una tabla con datos mínimos y enviarla a nuestro <a href="mailto:col.sonidos.colombia@gmail.com">correo. De esta forma, haremos visibles y accesibles los datos a toda la comunidad.
 
