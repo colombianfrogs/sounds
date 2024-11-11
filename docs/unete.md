@@ -58,6 +58,8 @@ Invitamos a toda la comunidad herpetológica a que disponibilice los datos asoci
 
 ### Repositorios de datos de investigación
 
+[Figshare](https://figshare.com/), ver nuestro tutorial <a href="https://www.youtube.com/watch?v=sHUGRurU01c&t=2s">aquí</a><br>
+
 <div style="text-align: center;">
     <h4>Figshare</h4>
     <iframe width="400" height="240" src="https://www.youtube.com/embed/sHUGRurU01c" frameborder="0" allowfullscreen></iframe>
