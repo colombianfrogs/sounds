@@ -51,7 +51,7 @@ function openTab(evt, tabName) {
 <!-- Species presentation -->
 <div style="text-align: center;">
   <h2><i>Agalychnis terranova</i></h2>
-  <h3>Rivera-Correa, Duarte-Cubides, Rueda-Almonacid, & Daza 2013</h3>
+  <h4>Rivera-Correa, Duarte-Cubides, Rueda-Almonacid, & Daza 2013</h4>
   <img src="{{ site.baseurl }}/images/especie_Agalychnis_terranova.png" style="width:15cm;">
 </div>
 
