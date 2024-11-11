@@ -60,23 +60,21 @@ Invitamos a toda la comunidad herpetológica a que disponibilice los datos asoci
 
 <div style="text-align: center;">
     <h4>Figshare</h4>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/sHUGRurU01c" frameborder="0" allowfullscreen></iframe>
-    <p>Ir a <a href="https://figshare.com/" target="_blank">figshare</a></p>
+    <iframe width="400" height="240" src="https://www.youtube.com/embed/sHUGRurU01c" frameborder="0" allowfullscreen></iframe>
+    <div style="text-align: center;">
+        <p style="display: inline-block;">Ir a <a href="https://figshare.com/" target="_blank">Figshare</a></p>
+    </div>
 </div>
 
 <div style="text-align: center;">
     <h4>Zenodo</h4>
-    <iframe width="400" src="https://www.youtube.com/embed/yRXnh_59sQY" frameborder="0" allowfullscreen></iframe>
+    <iframe width="400" height="240" src="https://www.youtube.com/embed/yRXnh_59sQY" frameborder="0" allowfullscreen></iframe>
     <div style="text-align: center;">
         <p style="display: inline-block;">Ir a <a href="https://zenodo.com/" target="_blank">Zenodo</a></p>
     </div>
 </div>
 
-
-
-
 2. Llenar una tabla con datos mínimos y enviarla a nuestro <a href="mailto:col.sonidos.colombia@gmail.com">correo</a>. De esta forma, los haremos visibles y accesibles a toda la comunidad.
-
 
 Si estas interesado y tienes más preguntas <a href="mailto:col.sonidos.colombia@gmail.com">contáctanos</a>
 
