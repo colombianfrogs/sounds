@@ -62,7 +62,7 @@ Repositorios de datos de investigación:<br>
 [zenodo](https://zenodo.com/), ver nuestro tutorial <a href="https://www.youtube.com/watch?v=yRXnh_59sQY&t=5s">aquí</a>
 
 #### Comparte
-Llena esta tabla con datos mínimos y envíala a nuestro <a href="mailto:col.sonidos.colombia@gmail.com">correo</a>. De esta forma, los haremos visibles y accesibles a toda la comunidad.
+Llena esta <a href="https://docs.google.com/spreadsheets/d/16WcxUUv3ehSloq5FdqNAvmcPJsQCRMj0/edit?usp=sharing&ouid=116374556105233109762&rtpof=true&sd=true">tabla</a> con datos mínimos y envíala a nuestro <a href="mailto:col.sonidos.colombia@gmail.com">correo</a>. De esta forma, los haremos visibles y accesibles a toda la comunidad.
 
 Si estas interesado y tienes más preguntas <a href="mailto:col.sonidos.colombia@gmail.com">contáctanos</a>
 
