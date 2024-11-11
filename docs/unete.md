@@ -43,9 +43,9 @@ Los datos visualizados y accesibles a traves de este sitio han sido contribuidos
 <img src="{{ site.baseurl }}/images/by-nc.png" style="width:4cm;">
 
 ## Mas allá de los audios!
-Generalmente, las publicaciones de la comunidad bioacústica considera que la reproducibilidad de los estudios se limita a disponibilizar los audios. Aunque eso es indispensable, no es del todo cierto. Las tablas de métricos acústicos (e.g., frecuencia minima, duración del canto, etc) estan basados, en su mayoría, en visualizaciones del espectro y en menor medida en segmentaciones automáticas o semiautomáticas. En todos los casos, se generan matrices que son posteriormente incorporadas en los análisis. Con el fin de hacer los análisis enteramente [reproducibles](https://book.the-turing-way.org/index.html) es recomendable disponibilizar las tablas crudas de estos métricos. Un buen ejemplo son las [tablas de selección](https://www.ravensoundsoftware.com/video-tutorials/espanol/02-espanol-selections-and-measurements/) obtenidas en el programa [Raven](https://store.birds.cornell.edu/collections/raven-sound-software)
+Generalmente, las publicaciones de la comunidad bioacústica considera que la reproducibilidad de los estudios se limita a disponibilizar los audios. Aunque eso es indispensable, no es del todo cierto. Las tablas de métricos acústicos (e.g., frecuencia minima, duración del canto, etc) estan basados, en su mayoría, en visualizaciones del espectro y en menor medida en segmentaciones automáticas o semiautomáticas. En todos los casos, se generan matrices que son posteriormente incorporadas en los análisis. Con el fin de hacer los análisis enteramente [reproducibles](https://book.the-turing-way.org/index.html) es recomendable disponibilizar las tablas crudas de estos métricos. Un buen ejemplo son las [tablas de selección](https://www.ravensoundsoftware.com/video-tutorials/espanol/02-espanol-selections-and-measurements/) obtenidas en el programa [Raven](https://store.birds.cornell.edu/collections/raven-sound-software). Existen diferentes programas donde se pueden hacer selecciones manuales o de forma automática (e.g. R, Avisoft, Audacity)
 
-## Como contribuir?
+## Como contribuir con este sitio?
 Invitamos a toda la comunidad herpetológica a que disponibilice los datos asociados a sus estudios acústicos.  Se pueden disponibilizar datos de estudios publicados o no publicados. La contribución solo comprende dos pasos:
 
 1. Someter los datos (audios y tablas crudas) a cualquiera de estos repositorios:
@@ -62,10 +62,10 @@ Ir a [figshare](https://figshare.com/)
 - [Colección de Sonidos Ambientales IAVH](http://colecciones.humboldt.org.co/sonidos/)
 - [iNaturalist](https://www.inaturalist.org/)
 
-2. Enviar a este portal los metadatos para hacer visible los datos (ver instrucciones aquí). Si la especie aun no se encuentra en el portal, le solicitamos al contribuidor una fotografia del espécimen voucher.
+2. Llenar una tabla con datos mínimos y enviarla a nuestro <a href="mailto:col.sonidos.colombia@gmail.com">correo. De esta forma, haremos visibles y accesibles los datos a toda la comunidad.
 
 
-Si estas interesado y tienes más preguntas <a href="mailto:sonidos.anfibios.colombia@gmail.com">contáctanos</a>
+Si estas interesado y tienes más preguntas <a href="mailto:col.sonidos.colombia@gmail.com">contáctanos</a>
 
 
 
