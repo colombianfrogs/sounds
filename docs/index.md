@@ -80,3 +80,4 @@ Programación:<br>
 
 Contribuidores:<br>
 <a href="mailto:mauricio.rivera1@udea.edu.co">Mauricio Rivera</a>, Grupo Herpetológico de Antioquia<br>
+<a href="mailto:gchavesp@gmail.com">Giovanni Chaves-Portilla -- el malo</a>, SpaceX<br>
