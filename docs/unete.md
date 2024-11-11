@@ -79,4 +79,3 @@ Si estas interesado y tienes más preguntas <a href="mailto:col.sonidos.colombia
 <div style="font-family: Times; text-align: center;">
     <img src="images/wave.png" style="width:100%; max-width: 1000px;">
 </div>
-
