@@ -51,7 +51,7 @@ function openTab(evt, tabName) {
 <!-- Species presentation -->
 <div style="text-align: center;">
   <h2><i>Agalychnis terranova</i> Rivera-Correa et al. 2013</h2>
-  <img src="{{ site.baseurl }}/images/especie_Agalychnis_terranova.png" style="width:15cm;">
+  <img src="{{ site.baseurl }}/images/especie_Agalychnis_terranova.jpg" style="width:15cm;">
 </div>
 
 <!-- Tabs section -->
@@ -71,7 +71,7 @@ function openTab(evt, tabName) {
 
 <!-- Seccion Figura -->
 <div id="figLefr" class="tabcontent" style="text-align: center;">
-  <img src="{{ site.baseurl }}/images/spec_Agalychnis_terranova.jpg" style="width:15cm;">
+  <img src="{{ site.baseurl }}/images/spec_Agalychnis_terranova.png" style="width:15cm;">
 </div>
 
 <!-- Seccion Datos -->
