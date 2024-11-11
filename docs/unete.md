@@ -50,17 +50,15 @@ Invitamos a toda la comunidad herpetológica a que disponibilice los datos asoci
 
 #### Disponibiliza
 
-Has disponibles los datos (audios y tablas crudas) en cualquier repositorio con la filosofía [FAIR](https://www.go-fair.org/fair-principles/). Actualmente existen muchos repositorios bajo esta iniciativa. Aqui mencionamos algunos:
+Has disponibles los datos (audios y tablas crudas) en cualquier repositorio con la filosofía [FAIR](https://www.go-fair.org/fair-principles/). Actualmente existen muchos repositorios bajo esta iniciativa. Aquí mencionamos algunos:
 
-Repositorios de datos bioacústicos
-
+Repositorios de datos bioacústicos:
 [Colección de Sonidos Ambientales IAVH](http://colecciones.humboldt.org.co/sonidos/)<br>
 [iNaturalist](https://www.inaturalist.org/)<br>
 [xeno-canto](https://xeno-canto.org/)
 
-Repositorios de datos de investigación
-
-[Figshare](https://figshare.com/), ver nuestro tutorial <a href="https://www.youtube.com/watch?v=sHUGRurU01c&t=2s">aquí</a><br>
+Repositorios de datos de investigación:
+[Figshare](https://figshare.com/), ver nuestro tutorial <a href="https://www.youtube.com/watch?v=sHUGRurU01c&t=2s">aquí</a>
 
 [zenodo](https://zenodo.com/), ver nuestro tutorial <a href="https://www.youtube.com/watch?v=yRXnh_59sQY&t=5s">aquí</a><br>
 
