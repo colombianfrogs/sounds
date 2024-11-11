@@ -65,7 +65,7 @@ Ir a [figshare](https://figshare.com/)
 - [xeno-canto](https://xeno-canto.org/)
 
 
-2. Llenar una tabla con datos mínimos y enviarla a nuestro <a href="mailto:col.sonidos.colombia@gmail.com">correo. De esta forma, haremos visibles y accesibles los datos a toda la comunidad.
+2. Llenar una tabla con datos mínimos y enviarla a nuestro <a href="mailto:col.sonidos.colombia@gmail.com">correo</a>. De esta forma, los haremos visibles y accesibles a toda la comunidad.
 
 
 Si estas interesado y tienes más preguntas <a href="mailto:col.sonidos.colombia@gmail.com">contáctanos</a>
