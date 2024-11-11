@@ -51,7 +51,7 @@ function openTab(evt, tabName) {
 <!-- Species presentation -->
 <div style="text-align: center;">
   <h2><i>Boana platanera</i></h2>
-  <h4>La Marca, Escalona, Castellanos, Rojas-Runjaic, Crawford, Señaris, Fouquet, Giaretta, AUTOR Castroviejo-Fisher, 2021</h4>
+  <h4>La Marca, Escalona, Castellanos, Rojas-Runjaic, Crawford, Señaris, Fouquet, Giaretta, & Castroviejo-Fisher, 2021</h4>
   <img src="{{ site.baseurl }}/images/especie_Boana_platanera.png" style="width:15cm;">
 </div>
 
