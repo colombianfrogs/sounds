@@ -49,7 +49,7 @@ Este sitio surge, de la comunidad académica, como respuesta a este reciente int
 
 Nuestra principal motivación son los [principios FAIR](https://www.go-fair.org/fair-principles/) donde se busca que los datos digitales (e.g., archivos de sonido, tablas) sean facilmente encontrables, accesibles, interoperables y reutilizables por la comunidad científica y general. Así, este sitio se convierte en el primer visor en Colombia donde integra de una forma simple y eficiente la información disponible de datos acústicos obtenidos para la anurofauna del país.
 
-Esperamos que este sitio motive a la comunidad a seguir depositando sus datos acústicos en diferentes repositorios de libre acceso. <a href="mailto:juanm.daza@udea.edu.co">escríbenos</a>
+Esperamos que este sitio motive a la comunidad a seguir depositando sus datos acústicos en diferentes repositorios de libre acceso. <a href="mailto:col.sonidos.colombia@gmail.com">escríbenos</a>
 
 ## Explorar los datos con especímen voucher
 
@@ -67,17 +67,15 @@ Esperamos que este sitio motive a la comunidad a seguir depositando sus datos ac
 [versión septiembre 2024](https://www.go-fair.org/fair-principles/)
 
 <div style="font-family: Times; text-align: center;">
-    <img src="images/wave.png" style="width:100%; max-width: 1000px;">
+    <img src="images/wave_2.png" style="width:100%; max-width: 1000px;">
 </div>
 
 <br>
 Diseño y mantenimiento:<br>
 <a href="mailto:juanm.daza@udea.edu.co">Juan M. Daza</a>, Grupo Herpetológico de Antioquia
-
 Programación:<br>
 <a href="mailto:mariaj.guerrero@udea.edu.co">Maria J. Guerrero</a>, 
 <a href="mailto:juanm.daza@udea.edu.co">Juan M. Daza</a>, Grupo Herpetológico de Antioquia
-
 Contribuidores:<br>
 <a href="mailto:mauricio.rivera1@udea.edu.co">Mauricio Rivera</a>, Grupo Herpetológico de Antioquia<br>
 <a href="mailto:gchavesp@gmail.com">Giovanni Chaves-Portilla</a><br>
