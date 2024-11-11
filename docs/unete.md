@@ -53,7 +53,7 @@ Invitamos a toda la comunidad herpetológica a que disponibilice los datos asoci
 <div style="text-align: center;">
 	<h4>Figshare</h4>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/sHUGRurU01c" frameborder="0" allowfullscreen></iframe>
-    Ir a [figshare](https://figshare.com/)
+    <p>Ir a [figshare](https://figshare.com/)</p>
 </div>
 Ir a [figshare](https://figshare.com/)
 
