@@ -67,15 +67,15 @@ Esperamos que este sitio motive a la comunidad a seguir depositando sus datos ac
 [versión noviembre 2024](https://www.go-fair.org/fair-principles/)
 
 <div style="font-family: Times; text-align: center;">
-    <img src="images/wave_2.png" style="width:100%; max-width: 1000px;">
+    <img src="images/wave_2.png" style="width:70%; max-width: 1000px;">
 </div>
 
 <br>
 Diseño y mantenimiento:<br>
-<a href="mailto:juanm.daza@udea.edu.co">Juan M. Daza</a>, Grupo Herpetológico de Antioquia
+<a href="mailto:juanm.daza@udea.edu.co">Juan M. Daza</a>, Grupo Herpetológico de Antioquia<br>
 Programación:<br>
 <a href="mailto:mariaj.guerrero@udea.edu.co">Maria J. Guerrero</a>, 
-<a href="mailto:juanm.daza@udea.edu.co">Juan M. Daza</a>, Grupo Herpetológico de Antioquia
+<a href="mailto:juanm.daza@udea.edu.co">Juan M. Daza</a>, Grupo Herpetológico de Antioquia<br>
 Contribuidores:<br>
 <a href="mailto:mauricio.rivera1@udea.edu.co">Mauricio Rivera</a>, Grupo Herpetológico de Antioquia<br>
 <a href="mailto:gchavesp@gmail.com">Giovanni Chaves-Portilla</a><br>
