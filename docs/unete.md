@@ -77,5 +77,5 @@ Invitamos a toda la comunidad herpetológica a que disponibilice los datos asoci
 Si estas interesado y tienes más preguntas <a href="mailto:col.sonidos.colombia@gmail.com">contáctanos</a>
 
 <div style="font-family: Times; text-align: center;">
-    <img src="images/wave.png" style="width:100%; max-width: 1000px;">
+	<img src="{{ site.baseurl }}/images/wave.png" style="width:100%; max-width: 1000px;">
 </div>
