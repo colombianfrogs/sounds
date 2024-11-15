@@ -62,9 +62,7 @@ Esperamos que este sitio motive a la comunidad a seguir depositando sus datos ac
 <iframe src="https://www.google.com/maps/d/embed?mid=1RxEzyT1Mtyv_ttdBdZxHJtBZ0Hw3TM0&hl=es&ehbc=2E312F" width="640" height="480"></iframe>
 
 <br>
-## Descarga la tabla de datos completa aquí
-
-[versión noviembre 2024](https://docs.google.com/spreadsheets/d/1nKrHhR7QS-zQNnWZUhlpmgulSUzZWGv1/edit?usp=drive_link&ouid=116374556105233109762&rtpof=true&sd=true)
+Descarga la tabla completa <a href="https://docs.google.com/spreadsheets/d/1nKrHhR7QS-zQNnWZUhlpmgulSUzZWGv1/edit?usp=drive_link&ouid=116374556105233109762&rtpof=true&sd=true">aquí</a>
 
 <div style="font-family: Times; text-align: center;">
     <img src="images/wave_2.png" style="width:70%; max-width: 1000px;">
