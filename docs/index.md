@@ -59,7 +59,7 @@ Esperamos que este sitio motive a la comunidad a seguir depositando sus datos ac
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=14vULshF6ww3Tvdzq5kJU_vYbgYpHZM0&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
 
 ## Explorar los datos por repositorio
-<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1kB78LKzh-QpVT-uILse505TcShLkhxY&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/embed?mid=1RxEzyT1Mtyv_ttdBdZxHJtBZ0Hw3TM0&hl=es&ehbc=2E312F" width="640" height="480"></iframe>
 
 <br>
 ## Descarga la tabla de datos completa aquí
