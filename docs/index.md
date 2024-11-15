@@ -64,7 +64,7 @@ Esperamos que este sitio motive a la comunidad a seguir depositando sus datos ac
 <br>
 ## Descarga la tabla de datos completa aquí
 
-[versión noviembre 2024](https://www.go-fair.org/fair-principles/)
+[versión noviembre 2024](https://docs.google.com/spreadsheets/d/1nKrHhR7QS-zQNnWZUhlpmgulSUzZWGv1/edit?usp=drive_link&ouid=116374556105233109762&rtpof=true&sd=true)
 
 <div style="font-family: Times; text-align: center;">
     <img src="images/wave_2.png" style="width:70%; max-width: 1000px;">
