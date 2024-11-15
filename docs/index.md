@@ -17,7 +17,7 @@ h2 {
 }
 h1 {
   font-size: 36pt;
-  color: #a2c11c;
+  color: #0092ca;
   font-weight: bold;
   font-family: Georgia, Serif;
   text-align: center;
