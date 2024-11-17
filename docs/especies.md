@@ -45,7 +45,6 @@ Aquí puedes acceder a las especies que se encuentran incluidas a la fecha:
 - [Craugastor metriosistus](Craugastor_metriosistus.md)
 
 # Dendrobatidae
-- [Andinobates cassidyhornae](Andinobates_cassidyhornae.md)
 - [Leucostethus fraterdanieli](Leucostethus_fraterdanieli.md)
 - [Leucostethus jota](Leucostethus_jota.md)
 
@@ -59,12 +58,9 @@ Aquí puedes acceder a las especies que se encuentran incluidas a la fecha:
 
 # Strabomantidae
 
-- [Pristimantis campesino](Pristimantis.md)
-- [Pristimantis cryptopictus](Pristimantis.md)
-- [Pristimantis dorsopictus](Pristimantis.md)
-- [Pristimantis jaguensis](Pristimantis.md)
-- [Pristimantis viejas](Pristimantis.md)
-- [Pristimantis zorro](Pristimantis.md)
+- [Pristimantis cryptopictus](Pristimantis_cryptopictus_.md)
+- [Pristimantis dorsopictus](Pristimantis_dorsopictus_.md)
+
 
 <div style="font-family: Times; text-align: center;">
 	<img src="{{ site.baseurl }}/images/wave_2.png" style="width:70%; max-width: 1000px;">
