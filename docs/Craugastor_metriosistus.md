@@ -82,4 +82,4 @@ function openTab(evt, tabName) {
 
 Publicaciones que incorporan sonidos de esta especie:
 <br><br>
-<strong>Ospina-Sarria, J. J., Angarita-Sierra, T., CITA Pedroza-Banda, R.</strong> 2015. A new species of <i>Craugastor</i> (Anura: Craugastoridae) from the Magdalena River Valley, Colombia, with evaluation of the characters used to identify species of the <i>Craugastor fitzingeri</i> group. <i>South American Journal of Herpetology</i> 10: 1653--177. <a href="http://dx.doi.org/10.2994/SAJH-D-14-00014.1 ">http://dx.doi.org/10.2994/SAJH-D-14-00014.1</a>
+<strong>Ospina-Sarria, J. J., Angarita-Sierra, T., & Pedroza-Banda, R.</strong> 2015. A new species of <i>Craugastor</i> (Anura: Craugastoridae) from the Magdalena River Valley, Colombia, with evaluation of the characters used to identify species of the <i>Craugastor fitzingeri</i> group. <i>South American Journal of Herpetology</i> 10: 1653--177. <a href="http://dx.doi.org/10.2994/SAJH-D-14-00014.1 ">http://dx.doi.org/10.2994/SAJH-D-14-00014.1</a>
