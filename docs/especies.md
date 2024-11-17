@@ -41,6 +41,9 @@ p {
 
 Aquí puedes acceder a las especies que se encuentran incluidas a la fecha:
 
+# Craugastoridae
+- [Craugastor metriosistus](Craugastor_metriosistus.md)
+
 # Dendrobatidae
 - [Andinobates cassidyhornae](Andinobates_cassidyhornae.md)
 - [Leucostethus fraterdanieli](Leucostethus_fraterdanieli.md)
