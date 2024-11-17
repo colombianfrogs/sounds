@@ -58,8 +58,8 @@ Aquí puedes acceder a las especies que se encuentran incluidas a la fecha:
 
 # Strabomantidae
 
-- [Pristimantis cryptopictus](Pristimantis_cryptopictus_.md)
-- [Pristimantis dorsopictus](Pristimantis_dorsopictus_.md)
+- [Pristimantis cryptopictus](Pristimantis_cryptopictus.md)
+- [Pristimantis dorsopictus](Pristimantis_dorsopictus.md)
 
 
 <div style="font-family: Times; text-align: center;">
