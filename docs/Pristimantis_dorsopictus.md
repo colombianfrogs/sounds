@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Pristimantis_dorsopictus"
+title: "Pristimantis dorsopictus"
 output: html_document
 ---
 
