@@ -9,7 +9,7 @@ output: html_document
 .tab {
   overflow: hidden;
   border: 1px solid #ccc;
-  background-color: #a2c11c;
+  background-color: #0092ca;
 }
 .tab button {
   background-color: inherit;
@@ -50,7 +50,8 @@ function openTab(evt, tabName) {
 
 <!-- Species presentation -->
 <div style="text-align: center;">
-  <h2><i>Leucostethus fraterdanieli</i> (Silverstone, 1971)</h2>
+  <h2><i>Leucostethus fraterdanieli</i></h2>
+  <h4>(Silverstone, 1971)</h4>
   <img src="{{ site.baseurl }}/images/especie_Leucostethus_fraterdanieli.png" style="width:15cm;">
 </div>
 
@@ -64,21 +65,21 @@ function openTab(evt, tabName) {
 <!-- Seccion Espectrograma -->
 <div id="EspectroLefr" class="tabcontent" style="text-align: center;">
   <video width="100%" height="auto" controls>
-    <source src="{{ site.baseurl }}/Espectrograms/Leucostethus_fraterdanieli.mp4" type="video/mp4">
+    <source src="{{ site.baseurl }}/Espectrograms/dyna_Leucostethus_fraterdanieli.mp4" type="video/mp4">
     Tu navegador no soporta el elemento de video.
   </video>
 </div>
 
 <!-- Seccion Figura -->
 <div id="figLefr" class="tabcontent" style="text-align: center;">
-  <img src="{{ site.baseurl }}/images/espectrograma_Diasporus_anthrax.png" style="width:15cm;">
+  <img src="{{ site.baseurl }}/images/spec_Leucostethus_fraterdanieli.png" style="width:15cm;">
 </div>
 
 <!-- Seccion Datos -->
 <div id="tabLefr" class="tabcontent">
-  <p>Descarga <a href="https://bit.ly/3LUkN5s">aquí</a>.</p>
+  <p>Figshare <a href="https://doi.org/10.6084/m9.figshare.27798729.v2">https://doi.org/10.6084/m9.figshare.27798729.v2</a>.</p>
 </div>
 
 Publicaciones que incorporan sonidos de esta especie:
 <br><br>
-<strong>Marín, C.M., C. Molina-Zuluaga, A. Restrepo, E. Cano & J.M. Daza.</strong> 2018. A new species of <i>Leucostethus</i> (Anura: Dendrobatidae) from the eastern versant of the Central Cordillera of Colombia with comments on the phylogenetic position of <i>Colostethus fraterdanieli</i>. <i>Zootaxa</i> 4461: 359--380. <a href="https://doi.org/10.11646/zootaxa.4461.3.3">https://doi.org/10.11646/zootaxa.4461.3.3</a>
+<strong>Marín, C.M., C. Molina-Zuluaga, A. Restrepo, E. Cano CITA J.M. Daza.</strong> 2018. A new species of <i>Leucostethus</i> (Anura: Dendrobatidae) from the eastern versant of the Central Cordillera of Colombia with comments on the phylogenetic position of <i>Colostethus fraterdanieli</i>. <i>Zootaxa</i> 4461: 359--380. <a href="https://doi.org/10.11646/zootaxa.4461.3.3">https://doi.org/10.11646/zootaxa.4461.3.3</a>

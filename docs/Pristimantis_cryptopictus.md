@@ -52,7 +52,7 @@ function openTab(evt, tabName) {
 <div style="text-align: center;">
   <h2><i>Pristimantis cryptopictus</i></h2>
   <h4>Patiño-Ocampo, Duarte-Marín, and Rivera-Correa, 2022</h4>
-  <img src="{{ site.baseurl }}/images/especie_Pristimantis_cryptopictuss.png" style="width:15cm;">
+  <img src="{{ site.baseurl }}/images/especie_Pristimantis_cryptopictus.png" style="width:15cm;">
 </div>
 
 <!-- Tabs section -->
