@@ -41,18 +41,6 @@ p {
 
 <br>
 
-Aquí puedes visualizar y acceder a los sonidos de tres diferentes repositorios:<br>
-
-
-1. Colección de sonidos alojados en este repositorio (ver arriba) donde se recopilan los audios asociados a publicaciones científicas.
-2. La [colección de Sonidos Ambientales](http://colecciones.humboldt.org.co/sonidos/) del Instituto Alexander von Humboldt que incluye audios y tablas de selección. Si se requieren mas metadatos, se debe contactar al repositorio. 
-3. Registros de la plataforma [iNaturalist](https://www.inaturalist.org/projects/amphibians-and-reptiles-of-colombia) donde se incluyen sonidos.
-
-Es importante resaltar que la incertidumbre taxonomica de los cantos aqui visualizados es inherente a cada repositorio y se sugiere entonces que el usuario debe escoger que cantos utilizar para cada fin en particular.
-
-<iframe src="https://www.google.com/maps/d/u/1/embed?mid=14vULshF6ww3Tvdzq5kJU_vYbgYpHZM0&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
-
-
 
 ## Otros repositorios con especies colombianas
 
