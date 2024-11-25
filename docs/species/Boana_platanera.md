@@ -79,7 +79,6 @@ function openTab(evt, tabName) {
 <div id="tabLefr" class="tabcontent">
   <p>Figshare <a href="https://doi.org/10.6084/m9.figshare.27637980.v2">https://doi.org/10.6084/m9.figshare.27637980.v2</a>.</p>
 </div>
-
-##### Publicaciones que incorporan sonidos de esta especie:
 <br><br>
+##### Publicaciones que incorporan sonidos de esta especie:
 Sin publicaciones para Colombia. Datos suministrados por <a href="mailto:juanm.daza@udea.edu.co">Juan M. Daza</a>
