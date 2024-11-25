@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Boana platanera"
+title: "Leucostethus brachistriatus"
 output: html_document
 ---
 
@@ -50,9 +50,9 @@ function openTab(evt, tabName) {
 
 <!-- Species presentation -->
 <div style="text-align: center;">
-  <h2><i>Boana platanera</i></h2>
-  <h4>La Marca, Escalona, Castellanos, Rojas-Runjaic, Crawford, Señaris, Fouquet, Giaretta, & Castroviejo-Fisher, 2021</h4>
-  <img src="{{ site.baseurl }}/images/especie_Boana_platanera.png" style="width:15cm;">
+  <h2><i>Leucostethus brachistriatus</i></h2>
+  <h4>(Rivero & Serna, 1986)</h4>
+  <img src="{{ site.baseurl }}/images/especie_Leucostethus_brachistriatus.png" style="width:15cm;">
 </div>
 
 <!-- Tabs section -->
@@ -65,21 +65,21 @@ function openTab(evt, tabName) {
 <!-- Seccion Espectrograma -->
 <div id="EspectroLefr" class="tabcontent" style="text-align: center;">
   <video width="100%" height="auto" controls>
-    <source src="{{ site.baseurl }}/Espectrograms/dyna_Boana_platanera.mp4" type="video/mp4">
+    <source src="{{ site.baseurl }}/Espectrograms/dyna_Leucostethus_brachistriatus.mp4" type="video/mp4">
     Tu navegador no soporta el elemento de video.
   </video>
 </div>
 
 <!-- Seccion Figura -->
 <div id="figLefr" class="tabcontent" style="text-align: center;">
-  <img src="{{ site.baseurl }}/images/spec_Boana_platanera.png" style="width:15cm;">
+  <img src="{{ site.baseurl }}/images/spec_Leucostethus_brachistriatus.png" style="width:15cm;">
 </div>
 
 <!-- Seccion Datos -->
 <div id="tabLefr" class="tabcontent">
-  <p>Figshare <a href="https://doi.org/10.6084/m9.figshare.27637980.v2">https://doi.org/10.6084/m9.figshare.27637980.v2</a>.</p>
+  <p>Figshare <a href="https://doi.org/10.6084/m9.figshare.25321657.v2">https://doi.org/10.6084/m9.figshare.25321657.v2</a>.</p>
 </div>
 
-##### Publicaciones que incorporan sonidos de esta especie:
+Publicaciones que incorporan sonidos de esta especie:
 <br><br>
-Sin publicaciones para Colombia. Datos suministrados por <a href="mailto:juanm.daza@udea.edu.co">Juan M. Daza</a>
+Sin publicaciones para Colombia. Datos suministrados por <a href="mailto:sdm950811@gmail.com">Sebastian Duarte-Marín</a>
