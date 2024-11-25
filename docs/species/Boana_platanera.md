@@ -9,7 +9,7 @@ output: html_document
 .tab {
   overflow: hidden;
   border: 1px solid #ccc;
-  background-color: #a2c11c;
+  background-color: #0092ca;
 }
 .tab button {
   background-color: inherit;
@@ -80,6 +80,6 @@ function openTab(evt, tabName) {
   <p>Figshare <a href="https://doi.org/10.6084/m9.figshare.27637980.v2">https://doi.org/10.6084/m9.figshare.27637980.v2</a>.</p>
 </div>
 
-Publicaciones que incorporan sonidos de esta especie:
+### Publicaciones que incorporan sonidos de esta especie:
 <br><br>
 Aun no existen publicaciones para Colombia
