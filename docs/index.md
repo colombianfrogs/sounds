@@ -69,7 +69,7 @@ Descarga la tabla completa <a href="https://docs.google.com/spreadsheets/d/1nKrH
 </div>
 
 <br>
-Diseño y mantenimiento:<br>
+##### Diseño y mantenimiento:<br>
 <a href="mailto:juanm.daza@udea.edu.co">Juan M. Daza</a>, Grupo Herpetológico de Antioquia<br>
 Programación:<br>
 <a href="mailto:mariaj.guerrero@udea.edu.co">Maria J. Guerrero</a>, 
