@@ -42,24 +42,24 @@ p {
 Aquí puedes acceder a las especies que se encuentran incluidas a la fecha:
 
 # Craugastoridae
-- [Craugastor metriosistus](Craugastor_metriosistus.md)
+- [Craugastor metriosistus](./species/Craugastor_metriosistus.md)
 
 # Dendrobatidae
-- [Leucostethus fraterdanieli](Leucostethus_fraterdanieli.md)
-- [Leucostethus jota](Leucostethus_jota.md)
+- [Leucostethus fraterdanieli](./species/Leucostethus_fraterdanieli.md)
+- [Leucostethus jota](./species/Leucostethus_jota.md)
 
 # Eleutherodactylidae
-- [Diasporus anthrax](Diasporus_anthrax.md)
+- [Diasporus anthrax](./species/Diasporus_anthrax.md)
 
 # Hylidae
 
-- [Agalychnis terranova](/species/Agalychnis_terranova.md)
-- [Boana platanera](Boana_platanera.md)
+- [Agalychnis terranova](./species/Agalychnis_terranova.md)
+- [Boana platanera](./species/Boana_platanera.md)
 
 # Strabomantidae
 
-- [Pristimantis cryptopictus](Pristimantis_cryptopictus.md)
-- [Pristimantis dorsopictus](Pristimantis_dorsopictus.md)
+- [Pristimantis cryptopictus](./species/Pristimantis_cryptopictus.md)
+- [Pristimantis dorsopictus](./species/Pristimantis_dorsopictus.md)
 - [Pristimantis zorro](./species/Pristimantis_zorro.md)
 
 
