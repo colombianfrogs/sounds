@@ -82,4 +82,4 @@ function openTab(evt, tabName) {
 
 Publicaciones que incorporan sonidos de esta especie:
 <br><br>
-<strong>Rivera-Correa, M. CITA Daza, J.M.</strong> 2018. 2020. Out of the blue: A new rain frog species of the genus <i>Pristimantis</i> (Anura: Craugastoridae) from the northern Cordillera Central in Colombia. <i>Zootaxa</i> 4838: 83--101. <a href="https://doi.org/10.11646/zootaxa.4838.1.4">https://doi.org/10.11646/zootaxa.4838.1.4</a>
+<strong>Rivera-Correa, M. & Daza, J.M.</strong> 2018. 2020. Out of the blue: A new rain frog species of the genus <i>Pristimantis</i> (Anura: Craugastoridae) from the northern Cordillera Central in Colombia. <i>Zootaxa</i> 4838: 83--101. <a href="https://doi.org/10.11646/zootaxa.4838.1.4">https://doi.org/10.11646/zootaxa.4838.1.4</a>
