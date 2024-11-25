@@ -53,7 +53,7 @@ Aquí puedes acceder a las especies que se encuentran incluidas a la fecha:
 
 # Hylidae
 
-- [Agalychnis terranova](species/Agalychnis_terranova.md)
+- [Agalychnis terranova](/species/Agalychnis_terranova.md)
 - [Boana platanera](Boana_platanera.md)
 
 # Strabomantidae
