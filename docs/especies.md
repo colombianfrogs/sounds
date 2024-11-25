@@ -61,6 +61,7 @@ Aquí puedes acceder a las especies que se encuentran incluidas a la fecha:
 
 - [Pristimantis cryptopictus](./species/Pristimantis_cryptopictus.md)
 - [Pristimantis dorsopictus](./species/Pristimantis_dorsopictus.md)
+- [Pristimantis piceus](./species/Pristimantis_piceus.md)
 - [Pristimantis zorro](./species/Pristimantis_zorro.md)
 
 
