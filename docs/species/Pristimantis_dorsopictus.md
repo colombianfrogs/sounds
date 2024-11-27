@@ -51,7 +51,7 @@ function openTab(evt, tabName) {
 <!-- Species presentation -->
 <div style="text-align: center;">
   <h2><i>Pristimantis_dorsopictus</i></h2>
-  <h4>(Rivero and Serna, 1988)</h4>
+  <h4>(Rivero & Serna, 1988)</h4>
   <img src="{{ site.baseurl }}/images/especie_Pristimantis_dorsopictus.png" style="width:15cm;">
 </div>
 

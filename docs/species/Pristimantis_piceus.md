@@ -51,7 +51,7 @@ function openTab(evt, tabName) {
 <!-- Species presentation -->
 <div style="text-align: center;">
   <h2><i>Pristimantis piceus</i></h2>
-  <h4>(Lynch, Ruiz-Carranza, and Ardila-Robayo, 1996)</h4>
+  <h4>(Lynch, Ruiz-Carranza, & Ardila-Robayo, 1996)</h4>
   <img src="{{ site.baseurl }}/images/especie_Pristimantis_piceus.png" style="width:15cm;">
 </div>
 

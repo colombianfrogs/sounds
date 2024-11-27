@@ -51,7 +51,7 @@ function openTab(evt, tabName) {
 <!-- Species presentation -->
 <div style="text-align: center;">
   <h2><i>Leucostethus jota</i></h2>
-  <h4>Marín-Castaño, Molina-Zuluaga, Restrepo, Cano, and Daza, 2018</h4>
+  <h4>Marín-Castaño, Molina-Zuluaga, Restrepo, Cano, & Daza, 2018</h4>
   <img src="{{ site.baseurl }}/images/especie_Leucostethus_jota.png" style="width:15cm;">
 </div>
 

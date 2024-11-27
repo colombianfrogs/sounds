@@ -51,7 +51,7 @@ function openTab(evt, tabName) {
 <!-- Species presentation -->
 <div style="text-align: center;">
   <h2><i>Craugastor metriosistus</i></h2>
-  <h4>Ospina-Sarria, Angarita-Sierra, and Pedroza-Banda, 2015</h4>
+  <h4>Ospina-Sarria, Angarita-Sierra, & Pedroza-Banda, 2015</h4>
   <img src="{{ site.baseurl }}/images/especie_Craugastor_metriosistus.png" style="width:15cm;">
 </div>
 
