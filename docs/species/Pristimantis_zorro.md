@@ -51,7 +51,7 @@ function openTab(evt, tabName) {
 <!-- Species presentation -->
 <div style="text-align: center;">
   <h2><i>Pristimantis zorro</i></h2>
-  <h4>Rivera-Correa and Daza, 2020</h4>
+  <h4>Rivera-Correa & Daza, 2020</h4>
   <img src="{{ site.baseurl }}/images/especie_Pristimantis_zorro.png" style="width:15cm;">
 </div>
 
