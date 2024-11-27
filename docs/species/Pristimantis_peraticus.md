@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Pristimantis erythropleura"
+title: "Pristimantis peraticus"
 output: html_document
 ---
 
@@ -50,9 +50,9 @@ function openTab(evt, tabName) {
 
 <!-- Species presentation -->
 <div style="text-align: center;">
-  <h2><i>Pristimantis erythropleura</i></h2>
-  <h4>(Boulenger, 1896)</h4>
-  <img src="{{ site.baseurl }}/images/especie_Pristimantis_erythropleura.png" style="width:15cm;">
+  <h2><i>Pristimantis peraticus</i></h2>
+  <h4>(Lynch, 1980)</h4>
+  <img src="{{ site.baseurl }}/images/especie_Pristimantis_peraticus.png" style="width:15cm;">
 </div>
 
 <!-- Tabs section -->
@@ -65,21 +65,21 @@ function openTab(evt, tabName) {
 <!-- Seccion Espectrograma -->
 <div id="EspectroLefr" class="tabcontent" style="text-align: center;">
   <video width="100%" height="auto" controls>
-    <source src="{{ site.baseurl }}/Espectrograms/dyna_Pristimantis_erythropleura.mp4" type="video/mp4">
+    <source src="{{ site.baseurl }}/Espectrograms/dyna_Pristimantis_peraticus.mp4" type="video/mp4">
     Tu navegador no soporta el elemento de video.
   </video>
 </div>
 
 <!-- Seccion Figura -->
 <div id="figLefr" class="tabcontent" style="text-align: center;">
-  <img src="{{ site.baseurl }}/images/spec_Pristimantis_erythropleura.png" style="width:15cm;">
+  <img src="{{ site.baseurl }}/images/spec_Pristimantis_peraticus.png" style="width:15cm;">
 </div>
 
 <!-- Seccion Datos -->
 <div id="tabLefr" class="tabcontent">
-  <p>Figshare <a href="https://doi.org/10.6084/m9.figshare.25321690.v2">https://doi.org/10.6084/m9.figshare.25321690.v2</a>.</p>
+  <p>Figshare <a href="https://doi.org/10.6084/m9.figshare.25321714.v2">https://doi.org/10.6084/m9.figshare.25321714.v2</a>.</p>
 </div>
 
 Publicaciones que incorporan sonidos de esta especie:
 <br><br>
-<strong>Duarte-Marín & Arango-Ospina.</strong> 2019. The advertisement call of <i>Pristimantis erythropleura</i> (Boulenger, 1896) (Craugastoridae) from a population in the central Andes of Colombia. <i>The Herpetological Bulletin</i> 148: 33--34. <a href="https://www.thebhs.org/publications/the-herpetological-bulletin/issue-number-148-summer-2019/1947-08-the-advertisement-call-of-i-pristimantis-erythropleura-i-boulenger-1896-craugastoridae-from-a-population-in-the-central-andes-of-colombia/file">link</a>
+<strong>Duarte-Marín, S.</strong> 2024. The advertisement call of the robber frog <i>Pristimantis peraticus</i> in a population from the eastern slope of the Colombian central Andes. <i>The Herpetological Bulletin</i> 170: 38--41.
