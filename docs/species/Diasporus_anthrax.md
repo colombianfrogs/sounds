@@ -77,7 +77,7 @@ function openTab(evt, tabName) {
 
 <!-- Seccion Datos -->
 <div id="tabLefr" class="tabcontent">
-  <p>Figshare <a href="https://doi.org/10.6084/m9.figshare.27798534.v3">https://doi.org/10.6084/m9.figshare.27798534.v3</a>.</p>
+  <p>Figshare <a href="https://doi.org/10.6084/m9.figshare.27985289">https://doi.org/10.6084/m9.figshare.27985289</a>.</p>
 </div>
 
 Publicaciones que incorporan sonidos de esta especie:
