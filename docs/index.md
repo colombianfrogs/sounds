@@ -49,7 +49,7 @@ Este sitio surge, desde la comunidad académica, como respuesta al reciente inte
 
 Nuestra principal motivación son los [principios FAIR](https://www.go-fair.org/fair-principles/) donde se busca que los datos digitales (e.g., archivos de sonido, tablas) sean facilmente encontrables, accesibles, interoperables y reutilizables por la comunidad científica y general. Así, este sitio se convierte en el primer visor en Colombia donde integra de una forma simple y eficiente la información disponible de datos acústicos obtenidos para la anurofauna del país.
 
-A diciembre de 2024 hemos incluido **1577 audios** disponibles en cuatro repositorios (CSA-IAVH, iNaturalist, Figshare y xeno-canto). De estos, **257** audios pertenecen a especimenes depositados en cinco colecciones biológicas del país.
+A diciembre de 2024 hemos incluido **1577 audios** disponibles en cuatro repositorios ([CSA-IAVH](http://colecciones.humboldt.org.co/sonidos/), [iNaturalist](https://www.inaturalist.org/projects/amphibians-and-reptiles-of-colombia), [Figshare](https://figshare.com/) y [xeno-canto](https://xeno-canto.org/)). De estos, **257** audios pertenecen a especimenes depositados en seis colecciones biológicas del país.
 
 Esperamos que este sitio motive a la comunidad a seguir depositando sus datos acústicos en diferentes repositorios de libre acceso. <a href="mailto:col.sonidos.colombia@gmail.com">escríbenos</a>
 
@@ -70,13 +70,13 @@ Descarga la tabla completa <a href="https://docs.google.com/spreadsheets/d/11lmO
 </div>
 
 <br>
-Diseño y mantenimiento:
+**Diseño y mantenimiento:**
 <br>
 <a href="mailto:juanm.daza@udea.edu.co">Juan M. Daza</a>, Grupo Herpetológico de Antioquia<br>
-Programación:<br>
+**Programación:**<br>
 <a href="mailto:mariaj.guerrero@udea.edu.co">Maria J. Guerrero</a>, 
 <a href="mailto:juanm.daza@udea.edu.co">Juan M. Daza</a>, Grupo Herpetológico de Antioquia<br>
-Contribuidores:<br>
+**Contribuidores:**<br>
 <a href="mailto:mauricio.rivera1@udea.edu.co">Mauricio Rivera-Correa</a><br>
 <a href="mailto:gchavesp@gmail.com">Giovanni Chaves-Portilla</a><br>
 <a href="mailto:sdm950811@gmail.com">Sebastian Duarte-Marín</a>
