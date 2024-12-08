@@ -42,17 +42,17 @@ p {
 <br>
 
 
-## Otros repositorios con especies colombianas
+## Sitios con audios de especies colombianas
 
-[Colección Sonidos IAVH](http://colecciones.humboldt.org.co/sonidos/)<br>
+[Colección de Sonidos Ambientales IAVH](http://colecciones.humboldt.org.co/sonidos/)<br>
 [Santander Herpetológico](https://www.santanderherps.com/)<br>
 [Fonozoo](https://www.fonozoo.com/)<br>
-[Conservación Anfibios Norte de Santander](https://anfibiacallsns.web.app/)<br>
+[Anfibios Norte de Santander](https://anfibiacallsns.web.app/)<br>
 [Museo de Historia Natural Unillanos](https://mhnu.unillanos.edu.co/entrelazos/sound.html)<br>
 [Batrachia](https://www.batrachia.com/cantos-de-ranas-en-colombia/)<br>
 [iNaturalist](https://www.inaturalist.org/projects/amphibians-and-reptiles-of-colombia)<br>
 [Figshare](https://figshare.com/)<br>
-[xeno-canto](https://xeno-canto.org/)
+[xeno-canto](https://xeno-canto.org/)<br>
 [AmphibiaWeb Ecuador](https://bioweb.bio/faunaweb/amphibiaweb/Cantos/)
 
 ## Recursos en Bioacústica
