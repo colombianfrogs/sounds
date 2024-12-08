@@ -53,7 +53,7 @@ Esperamos que este sitio motive a la comunidad a seguir depositando sus datos ac
 
 ## Explorar los datos con especímen voucher
 
-<iframe src="https://www.google.com/maps/d/u/6/embed?mid=17-Q17bqy-vyr72VXi5SbaR2wPE-WFUE&ehbc=2E312F" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/u/6/embed?mid=1ymkv4MWfoh_i07RhNCC3y3sUzBUFzUM&ehbc=2E312F" width="640" height="480"></iframe>
 
 ## Explorar los datos por taxonomía
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=14vULshF6ww3Tvdzq5kJU_vYbgYpHZM0&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
