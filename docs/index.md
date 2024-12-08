@@ -49,20 +49,21 @@ Este sitio surge, desde la comunidad académica, como respuesta al reciente inte
 
 Nuestra principal motivación son los [principios FAIR](https://www.go-fair.org/fair-principles/) donde se busca que los datos digitales (e.g., archivos de sonido, tablas) sean facilmente encontrables, accesibles, interoperables y reutilizables por la comunidad científica y general. Así, este sitio se convierte en el primer visor en Colombia donde integra de una forma simple y eficiente la información disponible de datos acústicos obtenidos para la anurofauna del país.
 
+A diciembre de 2024 hemos incluido 1575 audios depositados en cuatro repositorios (CSA-IAVH, iNaturalist, Figshare y xeno-canto). De estos, 256 audios pertenecen a especimenes depositados en cinco colecciones biologicas del país.
+
 Esperamos que este sitio motive a la comunidad a seguir depositando sus datos acústicos en diferentes repositorios de libre acceso. <a href="mailto:col.sonidos.colombia@gmail.com">escríbenos</a>
 
 ## Explorar los datos con especímen voucher
 
 <iframe src="https://www.google.com/maps/d/u/6/embed?mid=1ymkv4MWfoh_i07RhNCC3y3sUzBUFzUM&ehbc=2E312F" width="640" height="480"></iframe>
 
-## Explorar los datos por taxonomía
-<iframe src="https://www.google.com/maps/d/u/1/embed?mid=14vULshF6ww3Tvdzq5kJU_vYbgYpHZM0&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
 
 ## Explorar los datos por repositorio
-<iframe src="https://www.google.com/maps/d/embed?mid=1RxEzyT1Mtyv_ttdBdZxHJtBZ0Hw3TM0&hl=es&ehbc=2E312F" width="640" height="480"></iframe>
+<iframe src="https://www.google.com/maps/d/u/6/embed?mid=1FkS1l9_zJc90MF0-9mIWXPt7v1qLH1k&ehbc=2E312F" width="640" height="480"></iframe>
 
 <br>
-Descarga la tabla completa <a href="https://docs.google.com/spreadsheets/d/1nKrHhR7QS-zQNnWZUhlpmgulSUzZWGv1/edit?usp=drive_link&ouid=116374556105233109762&rtpof=true&sd=true">aquí</a>
+Descarga la tabla completa <a href="https://docs.google.com/spreadsheets/d/1HM-qe0lmP96SKTW52sIE0FqAkjiYUDLj/edit?usp=sharing&ouid=116374556105233109762&rtpof=true&sd=true">aquí</a>
+
 
 <div style="font-family: Times; text-align: center;">
     <img src="images/wave_2.png" style="width:70%; max-width: 1000px;">
