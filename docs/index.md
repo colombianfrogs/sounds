@@ -49,7 +49,7 @@ Este sitio surge, desde la comunidad académica, como respuesta al reciente inte
 
 Nuestra principal motivación son los [principios FAIR](https://www.go-fair.org/fair-principles/) donde se busca que los datos digitales (e.g., archivos de sonido, tablas) sean facilmente encontrables, accesibles, interoperables y reutilizables por la comunidad científica y general. Así, este sitio se convierte en el primer visor en Colombia donde integra de una forma simple y eficiente la información disponible de datos acústicos obtenidos para la anurofauna del país.
 
-A diciembre de 2024 hemos incluido **1575 audios** disponibles en cuatro repositorios (CSA-IAVH, iNaturalist, Figshare y xeno-canto). De estos, 256 audios pertenecen a especimenes depositados en cinco colecciones biológicas del país.
+A diciembre de 2024 hemos incluido **1575 audios** disponibles en cuatro repositorios (CSA-IAVH, iNaturalist, Figshare y xeno-canto). De estos, **256** audios pertenecen a especimenes depositados en cinco colecciones biológicas del país.
 
 Esperamos que este sitio motive a la comunidad a seguir depositando sus datos acústicos en diferentes repositorios de libre acceso. <a href="mailto:col.sonidos.colombia@gmail.com">escríbenos</a>
 
