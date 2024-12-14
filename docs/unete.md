@@ -38,7 +38,9 @@ p {
 
 
 ## Política de uso
-Los datos visualizados y accesibles a través de este sitio han sido contribuidos por los autores en los diferentes repositorios. Nuestra tarea es solo hacer visible esos datos y los interesados se deben adherir a las políticas de uso de cada repositorio. Es nuestra principal meta incluir datos que sean de acceso abierto, con fines académicos y científicos, y generalmente están bajo la licencia de [Creative Commons](https://co.creativecommons.net/tipos-de-licencias/) no comercial.
+Los datos visualizados y accesibles a través de este sitio han sido contribuidos por los autores en los diferentes repositorios. Nuestra tarea es hacer visible los datos para que puedan ser utilizados por la comunidad herpetológica. Los interesados en utilizarlos se deben adherir a las políticas de uso de cada repositorio.
+
+Nuestra principal meta es incluir datos que sean de acceso abierto, con fines académicos y científicos, y que estén generalmente bajo la licencia de [Creative Commons](https://co.creativecommons.net/tipos-de-licencias/) no comercial.
 <br><br>
 <img src="{{ site.baseurl }}/images/by-nc.png" style="width:4cm;">
 
