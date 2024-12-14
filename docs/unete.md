@@ -38,7 +38,7 @@ p {
 
 
 ## Política de uso
-Los datos visualizados y accesibles a traves de este sitio han sido contribuidos por los autores en los diferentes repositorios de libre acceso. Así, el uso de los datos obtenidos a través de los diferentes portales es abierto, con fines académicos y científicos, y estan bajo la licencia de [Creative Commons](https://co.creativecommons.net/tipos-de-licencias/) no comercial.
+Los datos visualizados y accesibles a través de este sitio han sido contribuidos por los autores en los diferentes repositorios. Nuestra tarea es solo hacer visible esos datos y los interesados se deben adherir a las políticas de uso de cada repositorio. Es nuestra principal meta incluir datos que sean de acceso abierto, con fines académicos y científicos, y generalmente están bajo la licencia de [Creative Commons](https://co.creativecommons.net/tipos-de-licencias/) no comercial.
 <br><br>
 <img src="{{ site.baseurl }}/images/by-nc.png" style="width:4cm;">
 
@@ -64,7 +64,7 @@ Repositorios de datos de investigación:<br>
 Si disponibilizas los datos en repositorios que no te solicitan metadatos específicos para tus audios (e.g., Figshare, zenodo), te recomendamos que incluyas al menos esta información (Descarga la tabla <a href="https://docs.google.com/spreadsheets/d/16WcxUUv3ehSloq5FdqNAvmcPJsQCRMj0/edit?usp=sharing&ouid=116374556105233109762&rtpof=true&sd=true">aquí</a>) junto con tus audios. Esto hará que tus datos sean interoperables con otros repositorios y que además puedan ser visualizados en este sitio.
 
 #### Cuéntanos
-Regularmente estamos actualizando los audios disponibles de anfibios, en CSA-IAVH, iNaturalist y xeno-canto, que representan la mayoría de datos disponibles para Colombia. Sin embargo, no tenemos como saber que datos se estan incluyendo en otros repositorios. Te invitamos a que nos cuentes donde depositas tus cantos y datos y así podremos visualizarlos en este sitio.
+Regularmente estamos actualizando los audios disponibles de anfibios, en CSA-IAVH, iNaturalist y xeno-canto, que representan la mayoría de datos disponibles para Colombia. Sin embargo, no tenemos como saber qué datos se están incluyendo en otros repositorios. Te invitamos a que nos cuentes dónde depositas tus cantos y datos y así podremos visualizarlos en este sitio.
 
 Si estas interesado y tienes más preguntas <a href="mailto:col.sonidos.colombia@gmail.com">contáctanos</a>
 
