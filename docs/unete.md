@@ -61,8 +61,10 @@ Repositorios de datos de investigación:<br>
 [Figshare](https://figshare.com/), ver nuestro tutorial <a href="https://www.youtube.com/watch?v=sHUGRurU01c&t=2s">aquí</a><br>
 [zenodo](https://zenodo.com/), ver nuestro tutorial <a href="https://www.youtube.com/watch?v=yRXnh_59sQY&t=5s">aquí</a>
 
-#### Comparte
-Llena esta <a href="https://docs.google.com/spreadsheets/d/16WcxUUv3ehSloq5FdqNAvmcPJsQCRMj0/edit?usp=sharing&ouid=116374556105233109762&rtpof=true&sd=true">tabla</a> con datos mínimos y envíala a nuestro <a href="mailto:col.sonidos.colombia@gmail.com">correo</a>. De esta forma, los haremos visibles y accesibles a toda la comunidad.
+Si disponibilizas los datos en repositorios que no te solicitan metadatos específicos para tus audios (e.g., Figshare, zenodo), te recomendamos que incluyas al menos esta información (Descarga la tabla <a href="https://docs.google.com/spreadsheets/d/16WcxUUv3ehSloq5FdqNAvmcPJsQCRMj0/edit?usp=sharing&ouid=116374556105233109762&rtpof=true&sd=true">aquí</a>) junto con tus audios. Esto hará que tus datos sean interoperables con otros repositorios y que además puedan ser visualizados en este sitio.
+
+#### Cuéntanos
+Regularmente estamos actualizando los audios disponibles de anfibios, en CSA-IAVH, iNaturalist y xeno-canto, que representan la mayoría de datos disponibles para Colombia. Sin embargo, no tenemos como saber que datos se estan incluyendo en otros repositorios. Te invitamos a que nos cuentes donde depositas tus cantos y datos y así podremos visualizarlos en este sitio.
 
 Si estas interesado y tienes más preguntas <a href="mailto:col.sonidos.colombia@gmail.com">contáctanos</a>
 
