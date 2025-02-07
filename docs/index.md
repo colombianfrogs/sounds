@@ -9,6 +9,8 @@ output:
     number_sections: false
 ---
 
+<meta name="google-site-verification" content="8Cq3tggs7FRj0Y8WFzVWrfRAvPhRilaLahB5zoDB-WQ" />
+
 <style>
 h2 {
   color: black;
