@@ -47,6 +47,7 @@ Aquí puedes acceder a las especies que se encuentran incluidas a la fecha:
 - [Nymphargus oreonympha](./species/Nymphargus_oreonympha.md)
 - [Rulyrana flavopunctata](./species/Rulyrana_flavopunctata.md)
 - [Rulyrana susatamai](./species/Rulyrana_susatamai.md)
+- [Sachatamia punctulata](./species/Sachatamia_punctulata.md)
 
 # Craugastoridae
 - [Craugastor metriosistus](./species/Craugastor_metriosistus.md)
