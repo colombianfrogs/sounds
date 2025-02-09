@@ -57,13 +57,13 @@ function openTab(evt, tabName) {
 
 <!-- Tabs section -->
 <div class="tab">
-  <button class="tablinks" onclick="openTab(event, 'EspectroLefr')">Espectrograma</button>
-  <button class="tablinks" onclick="openTab(event, 'figLefr')">Figura</button>
-  <button class="tablinks" onclick="openTab(event, 'tabLefr')">Datos</button>
+  <button class="tablinks" onclick="openTab(event, 'Espectro')">Espectrograma</button>
+  <button class="tablinks" onclick="openTab(event, 'fig')">Figura</button>
+  <button class="tablinks" onclick="openTab(event, 'tab')">Datos</button>
 </div>
 
 <!-- Seccion Espectrograma -->
-<div id="EspectroLefr" class="tabcontent" style="text-align: center;">
+<div id="Espectro" class="tabcontent" style="text-align: center;">
   <video width="100%" height="auto" controls>
     <source src="{{ site.baseurl }}/Espectrograms/dyna_Centrolene_hybrida.mp4" type="video/mp4">
     Tu navegador no soporta el elemento de video.
@@ -71,12 +71,12 @@ function openTab(evt, tabName) {
 </div>
 
 <!-- Seccion Figura -->
-<div id="figLefr" class="tabcontent" style="text-align: center;">
+<div id="fig" class="tabcontent" style="text-align: center;">
   <img src="{{ site.baseurl }}/images/spec_Centrolene_hybrida.png" style="width:15cm;">
 </div>
 
 <!-- Seccion Datos -->
-<div id="tabLeft" class="tabcontent">
+<div id="tab" class="tabcontent">
   <p>IAVH-CSA-34238: <a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34238/IAvH-CSA-34238.wav">http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34238/IAvH-CSA-34238.wav</a>.</p>
   <p>IAVH-CSA-34239: <a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34239/IAvH-CSA-34239.wav">http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34239/IAvH-CSA-34239.wav</a>.</p>
   <p>IAVH-CSA-34240: <a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34240/IAvH-CSA-34240.wav">http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34240/IAvH-CSA-34240.wav</a>.</p>
