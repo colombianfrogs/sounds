@@ -85,4 +85,4 @@ function openTab(evt, tabName) {
 
 Publicaciones que incorporan sonidos de esta especie:
 <br><br>
-<strong>Mendoza-Henao, A. M., Duarte-Marin, S., CITA Rada, M. </strong> 2021. Advertisement calls of six glassfrog species in the Colombian Andes, and comments on priorities for future research and conservation. <i>Amphibian and Reptile Conservation</i> 15: 156-171.
+<strong>Mendoza-Henao, A. M., Duarte-Marin, S., and Rada, M. </strong> 2021. Advertisement calls of six glassfrog species in the Colombian Andes, and comments on priorities for future research and conservation. <i>Amphibian and Reptile Conservation</i> 15: 156-171.
