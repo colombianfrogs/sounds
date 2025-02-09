@@ -50,7 +50,7 @@ function openTab(evt, tabName) {
 
 <!-- Species presentation -->
 <div style="text-align: center;">
-  <h2><i>Sachatamiapunctulata</i></h2>
+  <h2><i>Sachatamia punctulata</i></h2>
   <h4>(Ruiz-Carranza and Lynch, 1995)</h4>
   <img src="{{ site.baseurl }}/images/especie_Sachatamia_punctulata.png" style="width:15cm;">
 </div>
