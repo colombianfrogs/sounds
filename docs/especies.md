@@ -46,6 +46,7 @@ Aquí puedes acceder a las especies que se encuentran incluidas a la fecha:
 - [Centrolene hybrida](./species/Centrolene_hybrida.md)
 - [Nymphargus oreonympha](./species/Nymphargus_oreonympha.md)
 - [Rulyrana flavopunctata](./species/Rulyrana_flavopunctata.md)
+- [Rulyrana susatamai](./species/Rulyrana_susatamai.md)
 
 # Craugastoridae
 - [Craugastor metriosistus](./species/Craugastor_metriosistus.md)
