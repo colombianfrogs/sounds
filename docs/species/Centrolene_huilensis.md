@@ -57,13 +57,13 @@ function openTab(evt, tabName) {
 
 <!-- Tabs section -->
 <div class="tab">
-  <button class="tablinks" onclick="openTab(event, 'EspectroLefr')">Espectrograma</button>
-  <button class="tablinks" onclick="openTab(event, 'figLefr')">Figura</button>
-  <button class="tablinks" onclick="openTab(event, 'tabLefr')">Datos</button>
+  <button class="tablinks" onclick="openTab(event, 'Espectro')">Espectrograma</button>
+  <button class="tablinks" onclick="openTab(event, 'fig')">Figura</button>
+  <button class="tablinks" onclick="openTab(event, 'tab')">Datos</button>
 </div>
 
 <!-- Seccion Espectrograma -->
-<div id="EspectroLefr" class="tabcontent" style="text-align: center;">
+<div id="Espectro" class="tabcontent" style="text-align: center;">
   <video width="100%" height="auto" controls>
     <source src="{{ site.baseurl }}/Espectrograms/dyna_Centrolene_huilensis.mp4" type="video/mp4">
     Tu navegador no soporta el elemento de video.
@@ -71,13 +71,17 @@ function openTab(evt, tabName) {
 </div>
 
 <!-- Seccion Figura -->
-<div id="figLefr" class="tabcontent" style="text-align: center;">
+<div id="fig" class="tabcontent" style="text-align: center;">
   <img src="{{ site.baseurl }}/images/spec_Centrolene_huilensis.png" style="width:15cm;">
 </div>
 
 <!-- Seccion Datos -->
-<div id="tabLefr" class="tabcontent">
-  <p>IAVH-CSA <a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34233/IAvH-CSA-34233.wav">http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34233/IAvH-CSA-34233.wav</a>.</p>
+<div id="tab" class="tabcontent">
+  <p>IAVH-CSA-34233 <a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34233/IAvH-CSA-34233.wav">http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34233/IAvH-CSA-34233.wav</a>.</p>
+  <p>IAVH-CSA-34234 <a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34234/IAvH-CSA-34234.wav">http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34234/IAvH-CSA-34234.wav</a>.</p>
+  <p>IAVH-CSA-34235 <a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34235/IAvH-CSA-34235.wav">http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34235/IAvH-CSA-34235.wav</a>.</p>
+  <p>IAVH-CSA-34236 <a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34236/IAvH-CSA-34236.wav">http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34236/IAvH-CSA-34236.wav</a>.</p>
+  <p>IAVH-CSA-34237 <a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34237/IAvH-CSA-34237.wav">http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34237/IAvH-CSA-34237.wav</a>.</p>
 </div>
 
 Publicaciones que incorporan sonidos de esta especie:
