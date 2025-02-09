@@ -53,6 +53,7 @@ Aquí puedes acceder a las especies que se encuentran incluidas a la fecha:
 - [Craugastor metriosistus](./species/Craugastor_metriosistus.md)
 
 # Dendrobatidae
+- [Hyloxalus vergeli](./species/Hyloxalus_vergeli.md)
 - [Leucostethus brachistriatus](./species/Leucostethus_brachistriatus.md)
 - [Leucostethus fraterdanieli](./species/Leucostethus_fraterdanieli.md)
 - [Leucostethus jota](./species/Leucostethus_jota.md)
