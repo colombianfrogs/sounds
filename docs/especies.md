@@ -44,6 +44,7 @@ Aquí puedes acceder a las especies que se encuentran incluidas a la fecha:
 # Centrolenidae
 - [Centrolene huilensis](./species/Centrolene_huilensis.md)
 - [Centrolene hybrida](./species/Centrolene_hybrida.md)
+- [Nymphargus oreonympha](./species/Nymphargus_oreonympha.md)
 
 # Craugastoridae
 - [Craugastor metriosistus](./species/Craugastor_metriosistus.md)
