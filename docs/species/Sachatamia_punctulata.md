@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Sachatamiapunctulata"
+title: "Sachatamia punctulata"
 output: html_document
 ---
 
