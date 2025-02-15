@@ -77,11 +77,24 @@ function openTab(evt, tabName) {
 
 <!-- Seccion Datos -->
 <div id="tab" class="tabcontent">
+  <p>IAVH-CSA</p>
   <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34148/IAvH-CSA-34148.wav">IAVH-CSA-34148</a></p>
-  <p>IAVH-CSA-34234 <a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34234/IAvH-CSA-34234.wav">http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34234/IAvH-CSA-34234.wav</a>.</p>
-  <p>IAVH-CSA-34235 <a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34235/IAvH-CSA-34235.wav">http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34235/IAvH-CSA-34235.wav</a>.</p>
-  <p>IAVH-CSA-34236 <a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34236/IAvH-CSA-34236.wav">http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34236/IAvH-CSA-34236.wav</a>.</p>
-  <p>IAVH-CSA-34237 <a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34237/IAvH-CSA-34237.wav">http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34237/IAvH-CSA-34237.wav</a>.</p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34149/IAvH-CSA-34149.wav">IAVH-CSA-34149</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34150/IAvH-CSA-34150.wav">IAVH-CSA-34150</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34151/IAvH-CSA-34151.wav">IAVH-CSA-34151</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34152/IAvH-CSA-34152.wav">IAVH-CSA-34152</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34153/IAvH-CSA-34153.wav">IAVH-CSA-34153</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34154/IAvH-CSA-34154.wav">IAVH-CSA-34154</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34155/IAvH-CSA-34155.wav">IAVH-CSA-34155</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34156/IAvH-CSA-34156.wav">IAVH-CSA-34156</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34157/IAvH-CSA-34157.wav">IAVH-CSA-34157</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34158/IAvH-CSA-34158.wav">IAVH-CSA-34158</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34159/IAvH-CSA-34159.wav">IAVH-CSA-34159</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34160/IAvH-CSA-34160.wav">IAVH-CSA-34160</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34161/IAvH-CSA-34161.wav">IAVH-CSA-34161</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34162/IAvH-CSA-34162.wav">IAVH-CSA-34162</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34163/IAvH-CSA-34163.wav">IAVH-CSA-34163</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34164/IAvH-CSA-34164.wav">IAVH-CSA-34164</a></p>
 </div>
 
 Publicaciones que incorporan sonidos de esta especie:
