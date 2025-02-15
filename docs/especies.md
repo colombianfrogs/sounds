@@ -41,6 +41,9 @@ p {
 
 Aquí puedes acceder a las especies que se encuentran incluidas a la fecha:
 
+# Bufonidae
+- [Atelopus laetissimus](./species/Atelopus_laetissimus_.md)
+
 # Centrolenidae
 - [Centrolene huilensis](./species/Centrolene_huilensis.md)
 - [Centrolene hybrida](./species/Centrolene_hybrida.md)
