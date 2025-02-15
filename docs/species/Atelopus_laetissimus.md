@@ -77,7 +77,7 @@ function openTab(evt, tabName) {
 
 <!-- Seccion Datos -->
 <div id="tab" class="tabcontent">
-  <p>IAVH-CSA</p>
+  <p>Colección de Sonidos Ambientales IAVH</p>
   <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34148/IAvH-CSA-34148.wav">IAVH-CSA-34148</a></p>
   <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34149/IAvH-CSA-34149.wav">IAVH-CSA-34149</a></p>
   <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34150/IAvH-CSA-34150.wav">IAVH-CSA-34150</a></p>
@@ -99,4 +99,4 @@ function openTab(evt, tabName) {
 
 Publicaciones que incorporan sonidos de esta especie:
 <br><br>
-<strong>Rueda–Solano, L. A., Gonzalez Pérez, Jl., Rivera-Correa, M., CITA Vargas Salinas, F.</strong> 2020. Acoustic signal diversity in the Harlequin Toad <i>Atelopus laetissimus</i> (Anura: Bufonidae). <i>Copeia</i> 108(3): 503–513. <a href="https://doi.org/10.1643/CE-19-251">https://doi.org/10.1643/CE-19-251.</a>
+<strong>Rueda–Solano, L. A., Gonzalez Pérez, Jl., Rivera-Correa, M., and Vargas Salinas, F.</strong> 2020. Acoustic signal diversity in the Harlequin Toad <i>Atelopus laetissimus</i> (Anura: Bufonidae). <i>Copeia</i> 108(3): 503–513. <a href="https://doi.org/10.1643/CE-19-251">https://doi.org/10.1643/CE-19-251.</a>
