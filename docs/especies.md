@@ -47,6 +47,7 @@ Aquí puedes acceder a las especies que se encuentran incluidas a la fecha:
 # Centrolenidae
 - [Centrolene huilensis](./species/Centrolene_huilensis.md)
 - [Centrolene hybrida](./species/Centrolene_hybrida.md)
+- [Hyalinobatrachium chirripoi](./species/Hyalinobatrachium_chirripoi.md)
 - [Nymphargus oreonympha](./species/Nymphargus_oreonympha.md)
 - [Rulyrana flavopunctata](./species/Rulyrana_flavopunctata.md)
 - [Rulyrana susatamai](./species/Rulyrana_susatamai.md)
