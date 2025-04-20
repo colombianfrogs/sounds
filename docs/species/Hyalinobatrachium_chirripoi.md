@@ -82,4 +82,4 @@ function openTab(evt, tabName) {
 
 Publicaciones que incorporan sonidos de esta especie:
 <br><br>
-Sin publicaciones para Colombia. Datos suministrados por <a href="mailto:gchavesp@gmail.com">Giovanni Chaves-Portilla</a>
+Sin publicaciones para Colombia. La foto corresponde al voucher grabado. Datos suministrados por <a href="mailto:gchavesp@gmail.com">Giovanni Chaves-Portilla</a>
