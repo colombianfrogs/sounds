@@ -43,6 +43,7 @@ Aquí puedes acceder a las especies que se encuentran incluidas a la fecha:
 
 # Bufonidae
 - [Atelopus laetissimus](./species/Atelopus_laetissimus.md)
+- [Rhaebo haematiticus](./species/Rhaebo_haematiticus.md)
 
 # Centrolenidae
 - [Centrolene huilensis](./species/Centrolene_huilensis.md)
@@ -57,6 +58,7 @@ Aquí puedes acceder a las especies que se encuentran incluidas a la fecha:
 - [Craugastor metriosistus](./species/Craugastor_metriosistus.md)
 
 # Dendrobatidae
+- [Andinobates supata](./species/Andinobates_supata.md)
 - [Hyloxalus vergeli](./species/Hyloxalus_vergeli.md)
 - [Leucostethus brachistriatus](./species/Leucostethus_brachistriatus.md)
 - [Leucostethus fraterdanieli](./species/Leucostethus_fraterdanieli.md)
@@ -68,7 +70,16 @@ Aquí puedes acceder a las especies que se encuentran incluidas a la fecha:
 # Hylidae
 
 - [Agalychnis terranova](./species/Agalychnis_terranova.md)
+- [Boana boans](./species/Boana_boans.md)
 - [Boana platanera](./species/Boana_platanera.md)
+- [Boana punctata](./species/Boana_punctata.md)
+- [Boana rosenbergi](./species/Boana_rosenbergi.md)
+- [Pseudis paradoxa](./species/Pseudis_paradoxa_.md)
+
+# Leptodactylidae
+
+- [Leptodactylus colombiensis](./species/Leptodactylus_colombiensis.md)
+- [Leptodactylus fragilis](./species/Leptodactylus_fragilis.md)
 
 # Strabomantidae
 
@@ -79,6 +90,7 @@ Aquí puedes acceder a las especies que se encuentran incluidas a la fecha:
 - [Pristimantis piceus](./species/Pristimantis_piceus.md)
 - [Pristimantis simoterus](./species/Pristimantis_simoterus.md)
 - [Pristimantis thectopternus](./species/Pristimantis_thectopternus.md)
+- [Pristimantis viejas](./species/Pristimantis_viejas.md)
 - [Pristimantis zorro](./species/Pristimantis_zorro.md)
 
 
