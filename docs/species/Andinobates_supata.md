@@ -85,4 +85,4 @@ function openTab(evt, tabName) {
 
 Publicaciones que incorporan sonidos de esta especie:
 <br><br>
-Sin publicaciones para Colombia. Datos suministrados por <a href="mailto:gchavesp@gmail.com">Giovani Chaves-Portilla</a>
+Sin artículos publicados para Colombia.
