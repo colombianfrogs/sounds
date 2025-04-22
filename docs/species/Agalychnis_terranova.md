@@ -78,7 +78,7 @@ function openTab(evt, tabName) {
 <!-- Seccion Datos -->
 <div id="tab" class="tabcontent">
   <p><strong>Publicados en Figshare</strong></p>
-  <p>Chaves Portilla, Giovanni (2024). <em>Agalychnis terranova</em>. figshare. Media. 
+  <p>Chaves-Portilla, G. 2024. <em>Agalychnis terranova</em>. figshare. Media. 
     <a href="https://doi.org/10.6084/m9.figshare.27642198.v1"> https://doi.org/10.6084/m9.figshare.27642198.v1</a>
   </p>
 </div>
