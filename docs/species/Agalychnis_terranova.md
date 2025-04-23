@@ -60,6 +60,7 @@ function openTab(evt, tabName) {
   <button class="tablinks" onclick="openTab(event, 'Espectro')">Espectrograma</button>
   <button class="tablinks" onclick="openTab(event, 'fig')">Figura</button>
   <button class="tablinks" onclick="openTab(event, 'tab')">Datos</button>
+  <button class="tablinks" onclick="openTab(event, 'tab')">Publicaciones</button>
 </div>
 
 <!-- Seccion Espectrograma -->
@@ -78,6 +79,13 @@ function openTab(evt, tabName) {
 <!-- Seccion Datos -->
 <div id="tab" class="tabcontent">
   <p><strong>Disponibles en Figshare</strong></p>
+  <p>Chaves-Portilla, G. 2024. <em>Agalychnis terranova</em>. figshare. Media. 
+    <a href="https://doi.org/10.6084/m9.figshare.27642198.v1"> https://doi.org/10.6084/m9.figshare.27642198.v1</a>
+  </p>
+</div>
+
+<!-- Seccion Publicaciones -->
+<div id="tab" class="tabcontent">
   <p>Chaves-Portilla, G. 2024. <em>Agalychnis terranova</em>. figshare. Media. 
     <a href="https://doi.org/10.6084/m9.figshare.27642198.v1"> https://doi.org/10.6084/m9.figshare.27642198.v1</a>
   </p>
