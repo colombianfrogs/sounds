@@ -86,6 +86,6 @@ function openTab(evt, tabName) {
 <br>
 ##### Publicaciones que incorporan sonidos de esta especie:
 <div>
-  <p><em>No existen publicaciones a la fecha</em>
+  <p><em>No existen artículos a la fecha</em>
   </p>
 </div>
