@@ -95,14 +95,9 @@ function openTab(evt, tabName) {
   </a></p>
 </div>
 
-<br>
-##### Publicaciones que incorporan sonidos de esta especie:
-<div>
-  Chaves-Portilla, G., Rueda-Solano, L., Daza, J.M. 2021. First record of 
-  <i>Agalychnis terranova</i> Rivera-Correa, Duarte-Cubides, Rueda-Almonacid and Daza, 2013 
-  (Anura: Phyllomedusidae) from the Sierra Nevada de Santa Marta, Colombia with the description 
-  of its advertisement call. <i>Herpetology Notes</i> 156: 23–27. 
-  <a href="https://doi.org/10.33256/hb156.2327" target="_blank">
-    https://doi.org/10.33256/hb156.2327
-  </a>
+<!-- Tabs section -->
+<div class="tab">
+  <button class="tablinks" onclick="openTab(event, 'Espectro')">Datos</button>
+  <button class="tablinks" onclick="openTab(event, 'fig')">Publicaciones</button>
+  <button class="tablinks" onclick="openTab(event, 'tab')">Observaciones</button>
 </div>
