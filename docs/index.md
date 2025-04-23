@@ -78,7 +78,3 @@ Descarga la tabla completa <a href="https://docs.google.com/spreadsheets/d/11lmO
 **Programación:**<br>
 <a href="mailto:mariaj.guerrero@udea.edu.co">Maria J. Guerrero</a>, 
 <a href="mailto:juanm.daza@udea.edu.co">Juan M. Daza</a>, Grupo Herpetológico de Antioquia<br>
-**Contribuidores:**<br>
-<a href="mailto:mauricio.rivera1@udea.edu.co">Mauricio Rivera-Correa</a><br>
-<a href="mailto:gchavesp@gmail.com">Giovanni Chaves-Portilla</a><br>
-<a href="mailto:sdm950811@gmail.com">Sebastian Duarte-Marín</a>
