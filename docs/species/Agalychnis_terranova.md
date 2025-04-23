@@ -59,8 +59,6 @@ function openTab(evt, tabName) {
 <div class="tab">
   <button class="tablinks" onclick="openTab(event, 'Espectro')">Espectrograma</button>
   <button class="tablinks" onclick="openTab(event, 'fig')">Figura</button>
-  <button class="tablinks" onclick="openTab(event, 'tab')">Datos</button>
-  <button class="tablinks" onclick="openTab(event, 'tab')">Publicaciones</button>
 </div>
 
 <!-- Seccion Espectrograma -->
@@ -76,8 +74,17 @@ function openTab(evt, tabName) {
   <img src="{{ site.baseurl }}/images/spec_Agalychnis_terranova.png" style="width:15cm;">
 </div>
 
+<br><br>
+
+<!-- Tabs section -->
+<div class="tab">
+  <button class="tablinks" onclick="openTab(event, 'dat')">Datos</button>
+  <button class="tablinks" onclick="openTab(event, 'pubs')">Publicaciones</button>
+  <button class="tablinks" onclick="openTab(event, 'obs')">Observaciones</button>
+</div>
+
 <!-- Seccion Datos -->
-<div id="tab" class="tabcontent">
+<div id="dat" class="tabcontent">
   <p><strong>Disponibles en Figshare</strong></p>
   <p>Chaves-Portilla, G. 2024. <em>Agalychnis terranova</em>. figshare. Media. 
     <a href="https://doi.org/10.6084/m9.figshare.27642198.v1"> https://doi.org/10.6084/m9.figshare.27642198.v1</a>
@@ -85,7 +92,7 @@ function openTab(evt, tabName) {
 </div>
 
 <!-- Seccion Publicaciones -->
-<div id="tab" class="tabcontent">
+<div id="pubs" class="tabcontent">
   <p>Chaves-Portilla, G., Rueda-Solano, L., Daza, J.M. 2021. First record of 
   <i>Agalychnis terranova</i> Rivera-Correa, Duarte-Cubides, Rueda-Almonacid and Daza, 2013 
   (Anura: Phyllomedusidae) from the Sierra Nevada de Santa Marta, Colombia with the description 
@@ -95,9 +102,8 @@ function openTab(evt, tabName) {
   </a></p>
 </div>
 
-<!-- Tabs section -->
-<div class="tab">
-  <button class="tablinks" onclick="openTab(event, 'Espectro')">Datos</button>
-  <button class="tablinks" onclick="openTab(event, 'fig')">Publicaciones</button>
-  <button class="tablinks" onclick="openTab(event, 'tab')">Observaciones</button>
+<!-- Seccion Observaciones -->
+<div id="obs" class="tabcontent">
+  <p>El artículo donde se describe el llamado de advertencia no disponibiliza los audios
+  </p>
 </div>
