@@ -86,9 +86,13 @@ function openTab(evt, tabName) {
 
 <!-- Seccion Publicaciones -->
 <div id="tab" class="tabcontent">
-  <p>Chaves-Portilla, G. 2024. <em>Agalychnis terranova</em>. figshare. Media. 
-    <a href="https://doi.org/10.6084/m9.figshare.27642198.v1"> https://doi.org/10.6084/m9.figshare.27642198.v1</a>
-  </p>
+  <p>Chaves-Portilla, G., Rueda-Solano, L., Daza, J.M. 2021. First record of 
+  <i>Agalychnis terranova</i> Rivera-Correa, Duarte-Cubides, Rueda-Almonacid and Daza, 2013 
+  (Anura: Phyllomedusidae) from the Sierra Nevada de Santa Marta, Colombia with the description 
+  of its advertisement call. <i>Herpetology Notes</i> 156: 23–27. 
+  <a href="https://doi.org/10.33256/hb156.2327" target="_blank">
+    https://doi.org/10.33256/hb156.2327
+  </a></p>
 </div>
 
 <br>
