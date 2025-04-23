@@ -85,9 +85,7 @@ function openTab(evt, tabName) {
 
 <br>
 ##### Publicaciones que incorporan sonidos de esta especie:
-
 <div>
-  <p>Chaves-Portilla, G. 2024. <em>Agalychnis terranova</em>. figshare. Media. 
-    <a href="https://doi.org/10.6084/m9.figshare.27642198.v1"> https://doi.org/10.6084/m9.figshare.27642198.v1</a>
+  <p><em>No existen publicaciones a la fecha</em>
   </p>
 </div>
