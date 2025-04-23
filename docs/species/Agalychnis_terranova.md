@@ -93,7 +93,7 @@ function openTab(evt, tabName) {
 
 <!-- Seccion Publicaciones -->
 <div id="pubs" class="tabcontent">
-  <p>Chaves-Portilla, G., Rueda-Solano, L., Daza, J.M. 2021. First record of 
+  <p><strong>Chaves-Portilla, G., Rueda-Solano, L., Daza, J.M.</strong> 2021. First record of 
   <i>Agalychnis terranova</i> Rivera-Correa, Duarte-Cubides, Rueda-Almonacid and Daza, 2013 
   (Anura: Phyllomedusidae) from the Sierra Nevada de Santa Marta, Colombia with the description 
   of its advertisement call. <i>Herpetology Notes</i> 156: 23–27. 
