@@ -55,13 +55,13 @@ function openTab(evt, tabName) {
   <img src="{{ site.baseurl }}/images/especie_Agalychnis_terranova.png" style="width:15cm;">
 </div>
 
+#### Señal acústica
+
 <!-- Tabs section -->
 <div class="tab">
   <button class="tablinks" onclick="openTab(event, 'Espectro')">Espectrograma</button>
   <button class="tablinks" onclick="openTab(event, 'fig')">Figura</button>
 </div>
-
-#### Señal acústica
 
 <!-- Seccion Espectrograma -->
 <div id="Espectro" class="tabcontent" style="text-align: center;">
