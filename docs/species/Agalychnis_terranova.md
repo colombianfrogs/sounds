@@ -61,6 +61,8 @@ function openTab(evt, tabName) {
   <button class="tablinks" onclick="openTab(event, 'fig')">Figura</button>
 </div>
 
+#### Señal acústica
+
 <!-- Seccion Espectrograma -->
 <div id="Espectro" class="tabcontent" style="text-align: center;">
   <video width="100%" height="auto" controls>
@@ -74,13 +76,12 @@ function openTab(evt, tabName) {
   <img src="{{ site.baseurl }}/images/spec_Agalychnis_terranova.png" style="width:15cm;">
 </div>
 
-<br><br>
+#### Disponibilidad de datos
 
 <!-- Tabs section -->
 <div class="tab">
   <button class="tablinks" onclick="openTab(event, 'dat')">Datos</button>
   <button class="tablinks" onclick="openTab(event, 'pubs')">Publicaciones</button>
-  <button class="tablinks" onclick="openTab(event, 'obs')">Observaciones</button>
 </div>
 
 <!-- Seccion Datos -->
@@ -100,10 +101,7 @@ function openTab(evt, tabName) {
   <a href="https://doi.org/10.33256/hb156.2327" target="_blank">
     https://doi.org/10.33256/hb156.2327
   </a></p>
+    <p><strong>***</strong><i>El artículo donde se publicó el canto de advertencia no disponibiliza los audios y datos asociados</i></p>
 </div>
 
-<!-- Seccion Observaciones -->
-<div id="obs" class="tabcontent">
-  <p>El artículo donde se describe el llamado de advertencia no disponibiliza los audios
-  </p>
-</div>
+
