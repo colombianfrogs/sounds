@@ -51,15 +51,16 @@ function openTab(evt, tabName) {
 <!-- Species presentation -->
 <div style="text-align: center;">
   <h2><i>Andinobates supata</i></h2>
-  <h4>Chaves-Portilla, Salazar, Gil, Gil-Acero, Dorado-Correa, M√°rquez, Rueda-Almonacid, and Am√©zquita, 2021</h4>
+  <h4>Chaves-Portilla, Salazar, Gil, Gil-Acero, Dorado-Correa, Márquez, Rueda-Almonacid, and Amézquita, 2021</h4>
   <img src="{{ site.baseurl }}/images/especie_Andinobates_supata.png" style="width:15cm;">
 </div>
+
+#### Se√±al ac√∫stica
 
 <!-- Tabs section -->
 <div class="tab">
   <button class="tablinks" onclick="openTab(event, 'Espectro')">Espectrograma</button>
   <button class="tablinks" onclick="openTab(event, 'fig')">Figura</button>
-  <button class="tablinks" onclick="openTab(event, 'tab')">Datos</button>
 </div>
 
 <!-- Seccion Espectrograma -->
@@ -75,14 +76,25 @@ function openTab(evt, tabName) {
   <img src="{{ site.baseurl }}/images/spec_Andinobates_supata.png" style="width:15cm;">
 </div>
 
+#### Disponibilidad de datos
+
+<!-- Tabs section -->
+<div class="tab">
+  <button class="tablinks" onclick="openTab(event, 'dat')">Datos</button>
+  <button class="tablinks" onclick="openTab(event, 'pubs')">Publicaciones</button>
+</div>
+
 <!-- Seccion Datos -->
-<div id="tab" class="tabcontent">
-  <p><strong>Publicados en Figshare</strong></p>
-  <p>Chaves Portilla, Giovanni (2024). <em>Andinobates supata</em>. figshare. Media. 
-    <a href="https://doi.org/10.6084/m9.figshare.27642402.v1"> https://doi.org/10.6084/m9.figshare.27642402.v1</a>
+<div id="dat" class="tabcontent">
+  <p><strong>Disponibles en Figshare</strong></p>
+  <p>Chaves Portilla, Giovanni (2024). Andinobates supata. figshare. Media. https://doi.org/10.6084/m9.figshare.27642402.v1 
+    <a href="https://doi.org/10.6084/m9.figshare.27642402.v1">URL</a>
   </p>
 </div>
 
-Publicaciones que incorporan sonidos de esta especie:
-<br><br>
-Sin art√≠culos publicados para Colombia.
+<!-- Seccion Publicaciones -->
+<div id="pubs" class="tabcontent">
+  <p>Chaves-Portilla, G.A., Salazar, E.N., Gil-Acero, J., Dorado-Correa, A., Márquez, R., Rueda-Almonacid, J.V. and Amézquita, A. 2021. A new species of Andean golden poison frog (Andinobates, Dendrobatidae) from the Eastern Andes of Colombia. Zootaxa, 5047 (5), 531–546. https://doi.org/10.11646/zootaxa.5047.5.3. 
+  <a href="https://doi.org/10.11646/zootaxa.5047.5.3" target="_blank">{{URL}}</a></p>
+  <p><strong>***</strong><i>El artículo donde se publicó el canto de advertencia no disponibiliza los audios y datos asociados.</i></p>
+</div>
