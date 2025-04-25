@@ -51,7 +51,7 @@ function openTab(evt, tabName) {
 <!-- Species presentation -->
 <div style="text-align: center;">
   <h2><i>Andinobates supata</i></h2>
-  <h4>Chaves-Portilla, Salazar, Gil, Gil-Acero, Dorado-Correa, Márquez, Rueda-Almonacid, and Amézquita, 2021</h4>
+  <h4>Chaves-Portilla, Salazar, Gil, Gil-Acero, Dorado-Correa, Márquez, Rueda-Almonacid, ando Amézquita, 2021</h4>
   <img src="{{ site.baseurl }}/images/especie_Andinobates_supata.png" style="width:15cm;">
 </div>
 
