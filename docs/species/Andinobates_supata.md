@@ -55,7 +55,7 @@ function openTab(evt, tabName) {
   <img src="{{ site.baseurl }}/images/especie_Andinobates_supata.png" style="width:15cm;">
 </div>
 
-#### Se√±al ac√∫stica
+#### Señal acústica
 
 <!-- Tabs section -->
 <div class="tab">
