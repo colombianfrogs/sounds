@@ -51,11 +51,11 @@ function openTab(evt, tabName) {
 <!-- Species presentation -->
 <div style="text-align: center;">
   <h2><i>Andinobates supata</i></h2>
-  <h4>Chaves-Portilla, Salazar, Gil, Gil-Acero, Dorado-Correa, Márquez, Rueda-Almonacid, ando Amézquita, 2021</h4>
+  <h4>Chaves-Portilla, Salazar, Gil, Gil-Acero, Dorado-Correa, M√°rquez, Rueda-Almonacid, and Am√©zquita, 2021</h4>
   <img src="{{ site.baseurl }}/images/especie_Andinobates_supata.png" style="width:15cm;">
 </div>
 
-#### Señal acústica
+#### Se√±al ac√∫stica
 
 <!-- Tabs section -->
 <div class="tab">
@@ -94,7 +94,7 @@ function openTab(evt, tabName) {
 
 <!-- Seccion Publicaciones -->
 <div id="pubs" class="tabcontent">
-  <p>Chaves-Portilla, G.A., Salazar, E.N., Gil-Acero, J., Dorado-Correa, A., Márquez, R., Rueda-Almonacid, J.V. and Amézquita, A. 2021. A new species of Andean golden poison frog (Andinobates, Dendrobatidae) from the Eastern Andes of Colombia. Zootaxa, 5047 (5), 531–546. https://doi.org/10.11646/zootaxa.5047.5.3. 
+  <p>Chaves-Portilla, G.A., Salazar, E.N., Gil-Acero, J., Dorado-Correa, A., M√°rquez, R., Rueda-Almonacid, J.V. and Am√©zquita, A. 2021. A new species of Andean golden poison frog (Andinobates, Dendrobatidae) from the Eastern Andes of Colombia. Zootaxa, 5047 (5), 531‚Äì546. https://doi.org/10.11646/zootaxa.5047.5.3. 
   <a href="https://doi.org/10.11646/zootaxa.5047.5.3" target="_blank">{{URL}}</a></p>
-  <p><strong>***</strong><i>El artículo donde se publicó el canto de advertencia no disponibiliza los audios y datos asociados.</i></p>
+  <p><strong>***</strong><i>El art√≠culo donde se public√≥ el canto de advertencia no disponibiliza los audios y datos asociados.</i></p>
 </div>
