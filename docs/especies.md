@@ -38,7 +38,7 @@ p {
 
 </style>
 
-En esta sección incorporamos especies individuales conforme identificamos datos disponibles provenientes de poblaciones colombianas. No buscamos construir fichas completas por especie, sino destacar aquellas que ya cuentan con información accesible en repositorios, facilitando así su reutilización por parte de la comunidad herpetológica. Además, esta sección puede ser útil para familiarizarse con los cantos de las especies, tanto en su aspecto acústico como visual (forma de la señal). Finalmente, indicamos no solo los repositorios donde se encuentran los audios, sino también las publicaciones científicas que han utilizado los cantos de cada especie.
+En esta sección incorporamos especies individuales conforme identificamos datos disponibles provenientes de poblaciones colombianas. No buscamos construir fichas completas por especie, sino destacar aquellas que ya cuentan con datos e información acústica accesible en repositorios, facilitando así su reutilización por parte de la comunidad herpetológica. Además, esta sección puede ser útil para familiarizarse con los cantos de las especies, tanto en su aspecto acústico como visual (forma de la señal). Finalmente, indicamos no solo los repositorios donde se encuentran los audios, sino también las publicaciones científicas que han utilizado los sonidos de cada especie.
 
 Esperamos que la comunidad herpetológica nos ayude a alimentar esta sección.
 
