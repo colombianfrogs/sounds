@@ -37,10 +37,12 @@ p {
 
 # Dataverso de Sonidos de Anfibios Colombianos
 
+<br>
 <blockquote>
-  <p>If open science is done transparently, it doesn’t have to be done perfectly. You can always refine as you go.</p>
-  <footer>— Aleksandra Lazić</footer>
+  <p><em>"If open science is done transparently, it doesn’t have to be done perfectly. You can always refine as you go."</em></p>
+  <p>— Aleksandra Lazić</p>
 </blockquote>
+<br>
 
 Colombia, con una gran diversidad de anfibios, resulta en una inmensa riqueza de sonidos generados por estos. En la última decada ha habido un gran interés por documentar estos sonidos ([Rivera-Correa et al. 2021](https://www.tandfonline.com/doi/full/10.1080/23766808.2021.1957651)) y la comunidad herpetológica esta aprovechando el sonido emitido por los anfibios para abordar preguntas que van desde la taxonomía, ecología y comportamiento hasta la evolución de señales y el monitoreo de la biodiversidad.
 
