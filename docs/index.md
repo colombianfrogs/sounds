@@ -37,6 +37,11 @@ p {
 
 # Dataverso de Sonidos de Anfibios Colombianos
 
+<blockquote>
+  <p>If open science is done transparently, it doesn’t have to be done perfectly. You can always refine as you go.</p>
+  <footer>— Aleksandra Lazić</footer>
+</blockquote>
+
 Colombia, con una gran diversidad de anfibios, resulta en una inmensa riqueza de sonidos generados por estos. En la última decada ha habido un gran interés por documentar estos sonidos ([Rivera-Correa et al. 2021](https://www.tandfonline.com/doi/full/10.1080/23766808.2021.1957651)) y la comunidad herpetológica esta aprovechando el sonido emitido por los anfibios para abordar preguntas que van desde la taxonomía, ecología y comportamiento hasta la evolución de señales y el monitoreo de la biodiversidad.
 
 Este sitio surge como respuesta al reciente interés de la comunidad herpetológica que reconoce que la accesibilidad a los resultados de estudios acústicos con anfibios colombianos se encuentra dispersa o es de difícil acceso. Los datos aquí contenidos corresponden a los audios, las medidas realizadas por los investigadores y las tablas de selección generadas en diferentes programas  (e.g. [Raven](https://store.birds.cornell.edu/collections/raven-sound-software)). Este sitio busca además:
