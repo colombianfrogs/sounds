@@ -42,6 +42,9 @@ En esta sección incorporamos especies individuales conforme identificamos datos
 
 Esperamos que la comunidad herpetológica nos ayude a alimentar esta sección.
 
+# Aromobatidae
+- [Allobates niputidea](./species/Allobates_niputidea.md)
+
 # Bufonidae
 - [Atelopus laetissimus](./species/Atelopus_laetissimus.md)
 - [Rhaebo haematiticus](./species/Rhaebo_haematiticus.md)
