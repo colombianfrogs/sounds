@@ -55,11 +55,12 @@ function openTab(evt, tabName) {
   <img src="{{ site.baseurl }}/images/especie_Boana_boans.png" style="width:15cm;">
 </div>
 
+#### Señal acústica
+
 <!-- Tabs section -->
 <div class="tab">
   <button class="tablinks" onclick="openTab(event, 'Espectro')">Espectrograma</button>
   <button class="tablinks" onclick="openTab(event, 'fig')">Figura</button>
-  <button class="tablinks" onclick="openTab(event, 'tab')">Datos</button>
 </div>
 
 <!-- Seccion Espectrograma -->
@@ -75,14 +76,23 @@ function openTab(evt, tabName) {
   <img src="{{ site.baseurl }}/images/spec_Boana_boans.png" style="width:15cm;">
 </div>
 
+#### Disponibilidad de datos
+
+<!-- Tabs section -->
+<div class="tab">
+  <button class="tablinks" onclick="openTab(event, 'dat')">Datos</button>
+  <button class="tablinks" onclick="openTab(event, 'pubs')">Publicaciones</button>
+</div>
+
 <!-- Seccion Datos -->
-<div id="tab" class="tabcontent">
-  <p><strong>Publicados en Figshare</strong></p>
-  <p>Chaves Portilla, Giovanni (2024). <em>Boana boans</em>. figshare. Media. 
-    <a href="https://doi.org/10.6084/m9.figshare.27642186.v1"> https://doi.org/10.6084/m9.figshare.27642186.v1</a>
+<div id="dat" class="tabcontent">
+  <p><strong>Disponibles en Figshare</strong></p>
+  <p>Chaves-Portilla, G. (2024). Boana boans. Figshare. Media.  
+    <a href="https://doi.org/10.6084/m9.figshare.27642186.v1">https://doi.org/10.6084/m9.figshare.27642186.v1</a>
   </p>
 </div>
 
-Publicaciones que incorporan sonidos de esta especie:
-<br><br>
-Sin artículos publicados para Colombia.
+<!-- Seccion Publicaciones -->
+<div id="pubs" class="tabcontent">
+  <p><strong>***</strong><i>No existen artículos con sonidos de poblaciones colombianas</i></p>
+</div>
