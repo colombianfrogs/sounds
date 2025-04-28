@@ -108,6 +108,6 @@ function openTab(evt, tabName) {
 
 <!-- Seccion Publicaciones -->
 <div id="pubs" class="tabcontent">
-  <p><strong>Rueda–Solano, L. A., Gonzalez Pérez, Jl., Rivera-Correa, M., and Vargas Salinas, F.</strong> 2020. Acoustic signal diversity in the Harlequin Toad <i>Atelopus laetissimus</i> (Anura: Bufonidae). <i>Copeia</i> 108(3): 503–513. https://doi.org/10.1643/CE-19-251. 
-  <a href="https://doi.org/10.1643/CE-19-251" target="_blank">Link</a></p>
+  <p><strong>Rueda–Solano, L. A., Gonzalez Pérez, Jl., Rivera-Correa, M., and Vargas Salinas, F.</strong> 2020. Acoustic signal diversity in the Harlequin Toad <i>Atelopus laetissimus</i> (Anura: Bufonidae). <i>Copeia</i> 108(3): 503–513.  
+  <a href="https://doi.org/10.1643/CE-19-251" target="_blank">https://doi.org/10.1643/CE-19-251</a></p>
 </div>
