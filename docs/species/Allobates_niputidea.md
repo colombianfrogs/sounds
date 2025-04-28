@@ -90,8 +90,8 @@ function openTab(evt, tabName) {
   <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-18218/IAvH-CSA-18218.wav">IAVH-CSA-18218</a></p>
   <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-18222/IAvH-CSA-18222.wav">IAVH-CSA-18222</a></p>
   <p><strong>Disponibles en Figshare</strong></p>
-  <p>Chaves-Portilla, G. (2024). <i>Allobates niputidea</i>. Figshare. Media. https://doi.org/10.6084/m9.figshare.27640602.v2 
-    <a href="https://doi.org/10.6084/m9.figshare.27640602.v2">URL</a>
+  <p>Chaves-Portilla, G. (2024). <i>Allobates niputidea</i>. Figshare. Media.  
+    <a href="https://doi.org/10.6084/m9.figshare.27640602.v2">https://doi.org/10.6084/m9.figshare.27640602.v2</a>
   </p>
 </div>
 
