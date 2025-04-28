@@ -97,6 +97,6 @@ function openTab(evt, tabName) {
 
 <!-- Seccion Publicaciones -->
 <div id="pubs" class="tabcontent">
-  <p><strong>Ospina-L, A.M., Murillo-Bedoya, D., García-Cobos, D., Colón-Piñeiro, Z., Acosta-Galvis, A.R. </strong>2019. The advertisement call of <i>Allobates niputidea</i> (Anura: Aromobatidae). <i>Zootaxa</i> 4656: 196-200. https://doi.org/10.11646/zootaxa.4656.1.14. 
-  <a href="https://doi.org/10.11646/zootaxa.4656.1.14" target="_blank">Link</a></p>
+  <p><strong>Ospina-L, A.M., Murillo-Bedoya, D., García-Cobos, D., Colón-Piñeiro, Z., Acosta-Galvis, A.R. </strong>2019. The advertisement call of <i>Allobates niputidea</i> (Anura: Aromobatidae). <i>Zootaxa</i> 4656: 196-200. 
+  <a href="https://doi.org/10.11646/zootaxa.4656.1.14" target="_blank">https://doi.org/10.11646/zootaxa.4656.1.14</a></p>
 </div>
