@@ -75,7 +75,6 @@ Esperamos que la comunidad herpetológica nos ayude a alimentar esta sección.
 
 - [Agalychnis terranova](./species/Agalychnis_terranova.md)
 - [Boana boans](./species/Boana_boans.md)
-- [Boana platanera](./species/Boana_platanera.md)
 - [Boana punctata](./species/Boana_punctata.md)
 - [Boana rosenbergi](./species/Boana_rosenbergi.md)
 - [Pseudis paradoxa](./species/Pseudis_paradoxa_.md)
