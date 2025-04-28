@@ -86,7 +86,7 @@ function openTab(evt, tabName) {
 
 <!-- Seccion Datos -->
 <div id="dat" class="tabcontent">
-  <p><strong>Disponibles en CSA-IAVH></p>
+  <p><strong>Disponibles en CSA-IAVH</strong></p>
   <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34148/IAvH-CSA-34148.wav">IAVH-CSA-34148</a></p>
   <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34149/IAvH-CSA-34149.wav">IAVH-CSA-34149</a></p>
   <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34150/IAvH-CSA-34150.wav">IAVH-CSA-34150</a></p>
@@ -110,5 +110,4 @@ function openTab(evt, tabName) {
 <div id="pubs" class="tabcontent">
   <p>Rueda–Solano, L. A., Gonzalez Pérez, Jl., Rivera-Correa, M., and Vargas Salinas, F. 2020. Acoustic signal diversity in the Harlequin Toad <i>Atelopus laetissimus</i> (Anura: Bufonidae). <i>Copeia</i> 108(3): 503–513. https://doi.org/10.1643/CE-19-251. 
   <a href="https://doi.org/10.1643/CE-19-251." target="_blank">{{URL}}</a></p>
-
 </div>
