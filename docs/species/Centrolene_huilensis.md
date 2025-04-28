@@ -87,7 +87,7 @@ function openTab(evt, tabName) {
 <!-- Seccion Datos -->
 <div id="dat" class="tabcontent">
   <p><strong>Disponibles en CSA-IAVH</strong></p>
-  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34233/IAvH-CSA-34233.wav."target="_blank">IAVH-CSA-34233</a>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34233/IAvH-CSA-34233.wav." target="_blank">IAVH-CSA-34233</a>
   </p>
 </div>
 
