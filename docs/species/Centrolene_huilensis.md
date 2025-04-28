@@ -55,11 +55,12 @@ function openTab(evt, tabName) {
   <img src="{{ site.baseurl }}/images/especie_Centrolene_huilensis.png" style="width:15cm;">
 </div>
 
+#### Señal acústica
+
 <!-- Tabs section -->
 <div class="tab">
   <button class="tablinks" onclick="openTab(event, 'Espectro')">Espectrograma</button>
   <button class="tablinks" onclick="openTab(event, 'fig')">Figura</button>
-  <button class="tablinks" onclick="openTab(event, 'tab')">Datos</button>
 </div>
 
 <!-- Seccion Espectrograma -->
@@ -75,15 +76,24 @@ function openTab(evt, tabName) {
   <img src="{{ site.baseurl }}/images/spec_Centrolene_huilensis.png" style="width:15cm;">
 </div>
 
-<!-- Seccion Datos -->
-<div id="tab" class="tabcontent">
-  <p>IAVH-CSA-34233 <a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34233/IAvH-CSA-34233.wav">http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34233/IAvH-CSA-34233.wav</a>.</p>
-  <p>IAVH-CSA-34234 <a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34234/IAvH-CSA-34234.wav">http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34234/IAvH-CSA-34234.wav</a>.</p>
-  <p>IAVH-CSA-34235 <a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34235/IAvH-CSA-34235.wav">http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34235/IAvH-CSA-34235.wav</a>.</p>
-  <p>IAVH-CSA-34236 <a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34236/IAvH-CSA-34236.wav">http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34236/IAvH-CSA-34236.wav</a>.</p>
-  <p>IAVH-CSA-34237 <a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34237/IAvH-CSA-34237.wav">http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34237/IAvH-CSA-34237.wav</a>.</p>
+#### Disponibilidad de datos
+
+<!-- Tabs section -->
+<div class="tab">
+  <button class="tablinks" onclick="openTab(event, 'dat')">Datos</button>
+  <button class="tablinks" onclick="openTab(event, 'pubs')">Publicaciones</button>
 </div>
 
-Publicaciones que incorporan sonidos de esta especie:
-<br><br>
-<strong>Mendoza-Henao, A. M., Duarte-Marin, S., CITA Rada, M. </strong> 2021. Advertisement calls of six glassfrog species in the Colombian Andes, and comments on priorities for future research and conservation. <i>Amphibian and Reptile Conservation</i> 15: 156-171.
+<!-- Seccion Datos -->
+<div id="dat" class="tabcontent">
+  <p><strong>Disponibles en CSA-IAVH</strong></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34233/IAvH-CSA-34233.wav.">IAVH-CSA-34233</a>
+  </p>
+</div>
+
+<!-- Seccion Publicaciones -->
+<div id="pubs" class="tabcontent">
+  <p></strong>Mendoza-Henao, A. M., Duarte-Marin, S., and Rada, M.</strong> 2021. Advertisement calls of six glassfrog species in the Colombian Andes, and comments on priorities for future research and conservation. <i>Amphibian and Reptile Conservation</i> 15: 156-171. 
+  <a href="https://archive.org/details/biostor-286491" target="_blank">https://archive.org/details/biostor-286491</a></p>
+
+</div>
