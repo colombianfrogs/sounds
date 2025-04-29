@@ -55,11 +55,12 @@ function openTab(evt, tabName) {
   <img src="{{ site.baseurl }}/images/especie_Rulyrana_susatamai.png" style="width:15cm;">
 </div>
 
+#### Señal acústica
+
 <!-- Tabs section -->
 <div class="tab">
   <button class="tablinks" onclick="openTab(event, 'Espectro')">Espectrograma</button>
   <button class="tablinks" onclick="openTab(event, 'fig')">Figura</button>
-  <button class="tablinks" onclick="openTab(event, 'tab')">Datos</button>
 </div>
 
 <!-- Seccion Espectrograma -->
@@ -75,13 +76,26 @@ function openTab(evt, tabName) {
   <img src="{{ site.baseurl }}/images/spec_Rulyrana_susatamai.png" style="width:15cm;">
 </div>
 
-<!-- Seccion Datos -->
-<div id="tab" class="tabcontent">
-  <p>IAVH-CSA-34245 <a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34245/IAvH-CSA-34245.wav">http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34245/IAvH-CSA-34245.wav</a>.</p>
-  <p>IAVH-CSA-34246 <a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34246/IAvH-CSA-34246.wav">http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34246/IAvH-CSA-34246.wav</a>.</p>
-  <p>IAVH-CSA-34247 <a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34247/IAvH-CSA-34247.wav">http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34247/IAvH-CSA-34247.wav</a>.</p>
+#### Disponibilidad de datos
+
+<!-- Tabs section -->
+<div class="tab">
+  <button class="tablinks" onclick="openTab(event, 'dat')">Datos</button>
+  <button class="tablinks" onclick="openTab(event, 'pubs')">Publicaciones</button>
 </div>
 
-Publicaciones que incorporan sonidos de esta especie:
-<br><br>
-<strong>Mendoza-Henao, A. M., Duarte-Marin, S., and Rada, M. </strong> 2021. Advertisement calls of six glassfrog species in the Colombian Andes, and comments on priorities for future research and conservation. <i>Amphibian and Reptile Conservation</i> 15: 156-171.
+<!-- Seccion Datos -->
+<div id="dat" class="tabcontent">
+  <p><strong>Disponibles en CSA-IAVH</strong></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34245/IAvH-CSA-34245.wav">IAVH-CSA-34245</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34246/IAvH-CSA-34246.wav">IAVH-CSA-34246</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34247/IAvH-CSA-34247.wav">IAVH-CSA-34247</a></p>
+</div>
+
+<!-- Seccion Publicaciones -->
+<div id="pubs" class="tabcontent">
+  <p><strong>Mendoza-Henao, A. M., Duarte-Marin, S., and Rada, M.</strong> 2021. Advertisement calls of six glassfrog species in the Colombian Andes, and comments on priorities for future research and conservation. <i>Amphibian and Reptile Conservation</i> 15: 156-171.<a href="https://archive.org/details/biostor-286495" target="_blank">{{URL}}</a></p>
+
+  <p><strong>Galindo, C.A., Viuche-Lozano, A. and Bernal, M.H.</strong> 2020. The advertisement call of the Colombian endemic glassfrog <i>Rulyrana susatamai</i> (Anura: Centrolenidae). <i>Zootaxa</i>, 4852 (5), 586–589. <a href="https://doi.org/10.11646/zootaxa.4852.5.8" target="_blank">https://doi.org/10.11646/zootaxa.4852.5.8</a></p> 
+
+</div>
