@@ -55,11 +55,12 @@ function openTab(evt, tabName) {
   <img src="{{ site.baseurl }}/images/especie_Centrolene_hybrida.png" style="width:15cm;">
 </div>
 
+#### Señal acústica
+
 <!-- Tabs section -->
 <div class="tab">
   <button class="tablinks" onclick="openTab(event, 'Espectro')">Espectrograma</button>
   <button class="tablinks" onclick="openTab(event, 'fig')">Figura</button>
-  <button class="tablinks" onclick="openTab(event, 'tab')">Datos</button>
 </div>
 
 <!-- Seccion Espectrograma -->
@@ -75,14 +76,25 @@ function openTab(evt, tabName) {
   <img src="{{ site.baseurl }}/images/spec_Centrolene_hybrida.png" style="width:15cm;">
 </div>
 
+#### Disponibilidad de datos
+
+<!-- Tabs section -->
+<div class="tab">
+  <button class="tablinks" onclick="openTab(event, 'dat')">Datos</button>
+  <button class="tablinks" onclick="openTab(event, 'pubs')">Publicaciones</button>
+</div>
+
 <!-- Seccion Datos -->
-<div id="tab" class="tabcontent">
-  <p>IAVH-CSA-34238: <a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34238/IAvH-CSA-34238.wav">http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34238/IAvH-CSA-34238.wav</a>.</p>
+<div id="dat" class="tabcontent">
+  <p><strong>Disponible en CSA-IAVH</strong></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34238/IAvH-CSA-34238.wav">IAVH-CSA-34238</a></p>
   <p>IAVH-CSA-34239: <a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34239/IAvH-CSA-34239.wav">http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34239/IAvH-CSA-34239.wav</a>.</p>
   <p>IAVH-CSA-34240: <a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34240/IAvH-CSA-34240.wav">http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34240/IAvH-CSA-34240.wav</a>.</p>
 </div>
 
-
-Publicaciones que incorporan sonidos de esta especie:
-<br><br>
-<strong>Mendoza-Henao, A. M., Duarte-Marin, S., and Rada, M. </strong> 2021. Advertisement calls of six glassfrog species in the Colombian Andes, and comments on priorities for future research and conservation. <i>Amphibian and Reptile Conservation</i> 15: 156-171.
+<!-- Seccion Publicaciones -->
+<div id="pubs" class="tabcontent">
+  <p>Mendoza-Henao, A. M., Duarte-Marin, S., and Rada, M. 2021. Advertisement calls of six glassfrog species in the Colombian Andes, and comments on priorities for future research and conservation. Amphibian and Reptile Conservation 15: 156-171.. 
+  <a href="https://archive.org/details/biostor-286492" target="_blank">{{URL}}</a></p>
+  <p><strong>***</strong><i>MIRAR MAS</i></p>
+</div>
