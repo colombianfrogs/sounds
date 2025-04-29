@@ -51,15 +51,16 @@ function openTab(evt, tabName) {
 <!-- Species presentation -->
 <div style="text-align: center;">
   <h2><i>Sachatamia punctulata</i></h2>
-  <h4>(Ruiz-Carranza and Lynch, 1995)</h4>
+  <h4>(Ruiz-Carranza and Duellman, 1995)</h4>
   <img src="{{ site.baseurl }}/images/especie_Sachatamia_punctulata.png" style="width:15cm;">
 </div>
+
+#### Señal acústica
 
 <!-- Tabs section -->
 <div class="tab">
   <button class="tablinks" onclick="openTab(event, 'Espectro')">Espectrograma</button>
   <button class="tablinks" onclick="openTab(event, 'fig')">Figura</button>
-  <button class="tablinks" onclick="openTab(event, 'tab')">Datos</button>
 </div>
 
 <!-- Seccion Espectrograma -->
@@ -75,13 +76,25 @@ function openTab(evt, tabName) {
   <img src="{{ site.baseurl }}/images/spec_Sachatamia_punctulata.png" style="width:15cm;">
 </div>
 
-<!-- Seccion Datos -->
-<div id="tab" class="tabcontent">
-  <p>IAVH-CSA-34248 <a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34248/IAvH-CSA-34248.wav">http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34248/IAvH-CSA-34248.wav</a>.</p>
-  <p>IAVH-CSA-34249 <a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34249/IAvH-CSA-34249.wav">http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34249/IAvH-CSA-34249.wav</a>.</p>
-  <p>IAVH-CSA-34250 <a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34250/IAvH-CSA-34250.wav">http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34250/IAvH-CSA-34250.wav</a>.</p>
+#### Disponibilidad de datos
+
+<!-- Tabs section -->
+<div class="tab">
+  <button class="tablinks" onclick="openTab(event, 'dat')">Datos</button>
+  <button class="tablinks" onclick="openTab(event, 'pubs')">Publicaciones</button>
 </div>
 
-Publicaciones que incorporan sonidos de esta especie:
-<br><br>
-<strong>Mendoza-Henao, A. M., Duarte-Marin, S., and Rada, M. </strong> 2021. Advertisement calls of six glassfrog species in the Colombian Andes, and comments on priorities for future research and conservation. <i>Amphibian and Reptile Conservation</i> 15: 156-171.
+<!-- Seccion Datos -->
+<div id="dat" class="tabcontent">
+  <p><strong>Disponibles en CSA-IAVH</strong></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34248/IAvH-CSA-34248.wav">IAVH-CSA-34248</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34249/IAvH-CSA-34249.wav">IAVH-CSA-34249</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34250/IAvH-CSA-34250.wav">IAVH-CSA-34250</a></p>
+</div>
+
+<!-- Seccion Publicaciones -->
+<div id="pubs" class="tabcontent">
+  <p><strong>Mendoza-Henao, A. M., Duarte-Marin, S., and Rada, M.</strong> 2021. Advertisement calls of six glassfrog species in the Colombian Andes, and comments on priorities for future research and conservation. <i>Amphibian and Reptile Conservation</i> 15: 156-171. 
+  <a href="https://archive.org/details/biostor-286496" target="_blank">{{URL}}</a></p>
+
+</div>
