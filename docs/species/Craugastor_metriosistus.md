@@ -51,19 +51,20 @@ function openTab(evt, tabName) {
 <!-- Species presentation -->
 <div style="text-align: center;">
   <h2><i>Craugastor metriosistus</i></h2>
-  <h4>Ospina-Sarria, Angarita-Sierra, & Pedroza-Banda, 2015</h4>
+  <h4>Ospina-Sarria, Angarita-Sierra, {{AUTHOR}} Pedroza-Banda, 2015</h4>
   <img src="{{ site.baseurl }}/images/especie_Craugastor_metriosistus.png" style="width:15cm;">
 </div>
 
+#### Señal acústica
+
 <!-- Tabs section -->
 <div class="tab">
-  <button class="tablinks" onclick="openTab(event, 'EspectroLefr')">Espectrograma</button>
-  <button class="tablinks" onclick="openTab(event, 'figLefr')">Figura</button>
-  <button class="tablinks" onclick="openTab(event, 'tabLefr')">Datos</button>
+  <button class="tablinks" onclick="openTab(event, 'Espectro')">Espectrograma</button>
+  <button class="tablinks" onclick="openTab(event, 'fig')">Figura</button>
 </div>
 
 <!-- Seccion Espectrograma -->
-<div id="EspectroLefr" class="tabcontent" style="text-align: center;">
+<div id="Espectro" class="tabcontent" style="text-align: center;">
   <video width="100%" height="auto" controls>
     <source src="{{ site.baseurl }}/Espectrograms/dyna_Craugastor_metriosistus.mp4" type="video/mp4">
     Tu navegador no soporta el elemento de video.
@@ -71,15 +72,30 @@ function openTab(evt, tabName) {
 </div>
 
 <!-- Seccion Figura -->
-<div id="figLefr" class="tabcontent" style="text-align: center;">
+<div id="fig" class="tabcontent" style="text-align: center;">
   <img src="{{ site.baseurl }}/images/spec_Craugastor_metriosistus.png" style="width:15cm;">
 </div>
 
-<!-- Seccion Datos -->
-<div id="tabLefr" class="tabcontent">
-  <p>Figshare <a href="https://doi.org/10.6084/m9.figshare.27798534.v3">https://doi.org/10.6084/m9.figshare.27798534.v3</a>.</p>
+#### Disponibilidad de datos
+
+<!-- Tabs section -->
+<div class="tab">
+  <button class="tablinks" onclick="openTab(event, 'dat')">Datos</button>
+  <button class="tablinks" onclick="openTab(event, 'pubs')">Publicaciones</button>
 </div>
 
-Publicaciones que incorporan sonidos de esta especie:
-<br><br>
-<strong>Ospina-Sarria, J. J., Angarita-Sierra, T., & Pedroza-Banda, R.</strong> 2015. A new species of <i>Craugastor</i> (Anura: Craugastoridae) from the Magdalena River Valley, Colombia, with evaluation of the characters used to identify species of the <i>Craugastor fitzingeri</i> group. <i>South American Journal of Herpetology</i> 10: 1653--177. <a href="http://dx.doi.org/10.2994/SAJH-D-14-00014.1 ">http://dx.doi.org/10.2994/SAJH-D-14-00014.1</a>
+<!-- Seccion Datos -->
+<div id="dat" class="tabcontent">
+  <p><strong>Disponible en Figshare</strong></p>
+  <p>Rivera-Correa, M. (2024). Craugastor metriosistus. figshare. Media. 
+    <a href="https://doi.org/10.6084/m9.figshare.27798534.v4" target="_blank">https://doi.org/10.6084/m9.figshare.27798534.v3</a>
+  </p>
+</div>
+
+<!-- Seccion Publicaciones -->
+<div id="pubs" class="tabcontent">
+  <p>Ospina-Sarria, J. J., Angarita-Sierra, T., and Pedroza-Banda, R. 2015. A new species of Craugastor (Anura: Craugastoridae) from the Magdalena River Valley, Colombia, with evaluation of the characters used to identify species of the <i>Craugastor fitzingeri</i> group. <i>South American Journal of Herpetology</i> 10: 1653–177.  
+  <a href="https://doi.org/10.2994/SAJH-D-14-00014.1" target="_blank">http://doi.org/10.2994/SAJH-D-14-00014.1.</a></p>
+  <p><strong>***</strong><i>El artículo donde se publicó el canto de advertencia no disponibiliza los audios y datos asociados.</i></p>
+  <p><strong>***</strong><i>El audio disponible en Figshare corresponde al voucher de Sarria et al. 2015</i></p>  
+</div>
