@@ -55,11 +55,12 @@ function openTab(evt, tabName) {
   <img src="{{ site.baseurl }}/images/especie_Hyalinobatrachium_chirripoi.png" style="width:15cm;">
 </div>
 
+#### Señal acústica
+
 <!-- Tabs section -->
 <div class="tab">
   <button class="tablinks" onclick="openTab(event, 'Espectro')">Espectrograma</button>
   <button class="tablinks" onclick="openTab(event, 'fig')">Figura</button>
-  <button class="tablinks" onclick="openTab(event, 'tab')">Datos</button>
 </div>
 
 <!-- Seccion Espectrograma -->
@@ -75,11 +76,24 @@ function openTab(evt, tabName) {
   <img src="{{ site.baseurl }}/images/spec_Hyalinobatrachium_chirripoi.png" style="width:15cm;">
 </div>
 
-<!-- Seccion Datos -->
-<div id="tab" class="tabcontent">
-  <p>Figshare <a href="https://doi.org/10.6084/m9.figshare.28559621.v2">https://doi.org/10.6084/m9.figshare.28559621.v2</a>.</p>
+#### Disponibilidad de datos
+
+<!-- Tabs section -->
+<div class="tab">
+  <button class="tablinks" onclick="openTab(event, 'dat')">Datos</button>
+  <button class="tablinks" onclick="openTab(event, 'pubs')">Publicaciones</button>
 </div>
 
-Publicaciones que incorporan sonidos de esta especie:
-<br><br>
-Sin publicaciones para Colombia. La foto corresponde al voucher grabado. Datos suministrados por <a href="mailto:gchavesp@gmail.com">Giovanni Chaves-Portilla</a>
+<!-- Seccion Datos -->
+<div id="dat" class="tabcontent">
+  <p><strong>Disponible en Figshare</strong></p>
+  <p>Chaves-Portilla, G. (2025). Hyalinobatrachium chirripoi. figshare. Media.  
+    <a href="https://doi.org/10.6084/m9.figshare.28559621.v3">https://doi.org/10.6084/m9.figshare.28559621.v2</a>
+  </p>
+</div>
+
+<!-- Seccion Publicaciones -->
+<div id="pubs" class="tabcontent">
+  <p><strong>***</strong><i>No existen artículos con sonidos de poblaciones colombianas.</i></p>
+  <p><strong>***</strong><i>El audio en Figshare corresponde al individuo de la foto .</i></p>
+</div>
