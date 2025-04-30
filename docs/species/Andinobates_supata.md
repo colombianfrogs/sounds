@@ -86,15 +86,15 @@ function openTab(evt, tabName) {
 
 <!-- Seccion Datos -->
 <div id="dat" class="tabcontent">
-  <p><strong>Disponibles en Figshare</strong></p>
-  <p>Chaves Portilla, Giovanni (2024). Andinobates supata. figshare. Media. https://doi.org/10.6084/m9.figshare.27642402.v1 
-    <a href="https://doi.org/10.6084/m9.figshare.27642402.v1">URL</a>
+  <p><strong>Disponible en Figshare</strong></p>
+  <p>Chaves Portilla, Giovanni (2024). Andinobates supata. figshare. Media.  
+    <a href="https://doi.org/10.6084/m9.figshare.27642402.v1" target="_blank">https://doi.org/10.6084/m9.figshare.27642402.v1</a>
   </p>
 </div>
 
 <!-- Seccion Publicaciones -->
 <div id="pubs" class="tabcontent">
-  <p>Chaves-Portilla, G.A., Salazar, E.N., Gil-Acero, J., Dorado-Correa, A., Márquez, R., Rueda-Almonacid, J.V. and Amézquita, A. 2021. A new species of Andean golden poison frog (Andinobates, Dendrobatidae) from the Eastern Andes of Colombia. Zootaxa, 5047 (5), 531–546. https://doi.org/10.11646/zootaxa.5047.5.3. 
-  <a href="https://doi.org/10.11646/zootaxa.5047.5.3" target="_blank">{{URL}}</a></p>
-  <p><strong>***</strong><i>El artículo donde se publicó el canto de advertencia no disponibiliza los audios y datos asociados.</i></p>
+  <p><strong>Chaves-Portilla, G.A., Salazar, E.N., Gil-Acero, J., Dorado-Correa, A., Márquez, R., Rueda-Almonacid, J.V. and Amézquita, A.</strong> 2021. A new species of Andean golden poison frog (<i>Andinobates</i>, Dendrobatidae) from the Eastern Andes of Colombia. <i>Zootaxa</i>, 5047 (5), 531–546.  
+  <a href="https://doi.org/10.11646/zootaxa.5047.5.3" target="_blank">https://doi.org/10.11646/zootaxa.5047.5.3.</a></p>
+  <p><strong>***</strong> <i>El artículo donde se publicó el canto de advertencia no disponibiliza los audios y datos asociados.</i></p>
 </div>
