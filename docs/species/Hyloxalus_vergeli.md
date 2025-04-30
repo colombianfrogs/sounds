@@ -94,6 +94,6 @@ function openTab(evt, tabName) {
 <!-- Seccion Publicaciones -->
 <div id="pubs" class="tabcontent">
   <p><strong>Mendoza-Henao, A. M., Acevedo-Charry, O., and Galeano, S.P.</strong> 2022. Advertisement call of <i>Hyloxalus vergeli</i> (Anura: Dendrobatidae) from the interandean Magdalena valley of Colombia. <i>Zootaxa</i> 5141(4): 394-400. 
-  <a href="https://doi.org/10.11646/zootaxa.5141.4.7." target="_blank">https://doi.org/10.11646/zootaxa.5141.4.7</a></p>
+  <a href="https://doi.org/10.11646/zootaxa.5141.4.7" target="_blank">https://doi.org/10.11646/zootaxa.5141.4.7</a></p>
 
 </div>
