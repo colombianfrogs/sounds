@@ -51,19 +51,20 @@ function openTab(evt, tabName) {
 <!-- Species presentation -->
 <div style="text-align: center;">
   <h2><i>Leucostethus brachistriatus</i></h2>
-  <h4>(Rivero & Serna, 1986)</h4>
+  <h4>(Rivero {{AUTHOR}} Serna, 1986)</h4>
   <img src="{{ site.baseurl }}/images/especie_Leucostethus_brachistriatus.png" style="width:15cm;">
 </div>
 
+#### Señal acústica
+
 <!-- Tabs section -->
 <div class="tab">
-  <button class="tablinks" onclick="openTab(event, 'EspectroLefr')">Espectrograma</button>
-  <button class="tablinks" onclick="openTab(event, 'figLefr')">Figura</button>
-  <button class="tablinks" onclick="openTab(event, 'tabLefr')">Datos</button>
+  <button class="tablinks" onclick="openTab(event, 'Espectro')">Espectrograma</button>
+  <button class="tablinks" onclick="openTab(event, 'fig')">Figura</button>
 </div>
 
 <!-- Seccion Espectrograma -->
-<div id="EspectroLefr" class="tabcontent" style="text-align: center;">
+<div id="Espectro" class="tabcontent" style="text-align: center;">
   <video width="100%" height="auto" controls>
     <source src="{{ site.baseurl }}/Espectrograms/dyna_Leucostethus_brachistriatus.mp4" type="video/mp4">
     Tu navegador no soporta el elemento de video.
@@ -71,15 +72,28 @@ function openTab(evt, tabName) {
 </div>
 
 <!-- Seccion Figura -->
-<div id="figLefr" class="tabcontent" style="text-align: center;">
+<div id="fig" class="tabcontent" style="text-align: center;">
   <img src="{{ site.baseurl }}/images/spec_Leucostethus_brachistriatus.png" style="width:15cm;">
 </div>
 
-<!-- Seccion Datos -->
-<div id="tabLefr" class="tabcontent">
-  <p>Figshare <a href="https://doi.org/10.6084/m9.figshare.25321657.v2">https://doi.org/10.6084/m9.figshare.25321657.v2</a>.</p>
+#### Disponibilidad de datos
+
+<!-- Tabs section -->
+<div class="tab">
+  <button class="tablinks" onclick="openTab(event, 'dat')">Datos</button>
+  <button class="tablinks" onclick="openTab(event, 'pubs')">Publicaciones</button>
 </div>
 
-Publicaciones que incorporan sonidos de esta especie:
-<br><br>
-Sin publicaciones para Colombia. Datos suministrados por <a href="mailto:sdm950811@gmail.com">Sebastian Duarte-Marín</a>
+<!-- Seccion Datos -->
+<div id="dat" class="tabcontent">
+  <p><strong>Disponible en Figshare</strong></p>
+  <p>Duarte-Marín, S. (2024). Leucostethus brachistriatus.mp3. figshare. Media.  
+    <a href="https://doi.org/10.6084/m9.figshare.25321657.v2" target="_blank">https://doi.org/10.6084/m9.figshare.25321657.v2</a>
+  </p>
+</div>
+
+<!-- Seccion Publicaciones -->
+<div id="pubs" class="tabcontent">
+
+  <p><strong>***</strong><i>No existen artículos con sonidos de poblaciones colombianas.</i></p>
+</div>
