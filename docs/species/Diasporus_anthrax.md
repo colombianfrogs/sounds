@@ -95,6 +95,6 @@ function openTab(evt, tabName) {
 <!-- Seccion Publicaciones -->
 <div id="pubs" class="tabcontent">
   <p><strong>Jiménez-Rivillas, C., L.M. Vargas-Ortíz, J.M. Fang-Ortega, J. Difilippo-Taborda and J.M. Daza.</strong> 2013. Advertisement call of <i>Diasporus anthrax</i> Lynch, 2001 (Anura: Eleutherodactylidae) with comparison to calls of congeneric species. <i>South American Journal of Herpetology</i> 8: 1–4.  
-  <a href="http://dx.doi.org/10.2994/SAJH-D-12-00020.2" target="_blank">http://dx.doi.org/10.2994/SAJH-D-12-00020.1.</a></p>
+  <a href="http://dx.doi.org/10.2994/SAJH-D-12-00020.1" target="_blank">http://dx.doi.org/10.2994/SAJH-D-12-00020.1.</a></p>
 
 </div>
