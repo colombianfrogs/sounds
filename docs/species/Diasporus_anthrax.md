@@ -55,15 +55,16 @@ function openTab(evt, tabName) {
   <img src="{{ site.baseurl }}/images/especie_Diasporus_anthrax.png" style="width:15cm;">
 </div>
 
+#### Señal acústica
+
 <!-- Tabs section -->
 <div class="tab">
-  <button class="tablinks" onclick="openTab(event, 'EspectroLefr')">Espectrograma</button>
-  <button class="tablinks" onclick="openTab(event, 'figLefr')">Figura</button>
-  <button class="tablinks" onclick="openTab(event, 'tabLefr')">Datos</button>
+  <button class="tablinks" onclick="openTab(event, 'Espectro')">Espectrograma</button>
+  <button class="tablinks" onclick="openTab(event, 'fig')">Figura</button>
 </div>
 
 <!-- Seccion Espectrograma -->
-<div id="EspectroLefr" class="tabcontent" style="text-align: center;">
+<div id="Espectro" class="tabcontent" style="text-align: center;">
   <video width="100%" height="auto" controls>
     <source src="{{ site.baseurl }}/Espectrograms/dyna_Diasporus_anthrax.mp4" type="video/mp4">
     Tu navegador no soporta el elemento de video.
@@ -71,15 +72,29 @@ function openTab(evt, tabName) {
 </div>
 
 <!-- Seccion Figura -->
-<div id="figLefr" class="tabcontent" style="text-align: center;">
+<div id="fig" class="tabcontent" style="text-align: center;">
   <img src="{{ site.baseurl }}/images/spec_Diasporus_anthrax.png" style="width:15cm;">
 </div>
 
-<!-- Seccion Datos -->
-<div id="tabLefr" class="tabcontent">
-  <p>Figshare <a href="https://doi.org/10.6084/m9.figshare.27985289">https://doi.org/10.6084/m9.figshare.27985289</a>.</p>
+#### Disponibilidad de datos
+
+<!-- Tabs section -->
+<div class="tab">
+  <button class="tablinks" onclick="openTab(event, 'dat')">Datos</button>
+  <button class="tablinks" onclick="openTab(event, 'pubs')">Publicaciones</button>
 </div>
 
-Publicaciones que incorporan sonidos de esta especie:
-<br><br>
-<strong>Jiménez-Rivillas, C., L.M. Vargas-Ortíz, J.M. Fang-Ortega, J. Difilippo-Taborda & J.M. Daza.</strong> 2013. Advertisement call of <i>Diasporus anthrax</i> Lynch, 2001 (Anura: Eleutherodactylidae) with comparison to calls of congeneric species. <i>South American Journal of Herpetology</i> 8: 1--4. <a href="http://dx.doi.org/10.2994/SAJH-D-12-00020.1 ">http://dx.doi.org/10.2994/SAJH-D-12-00020.1</a>
+<!-- Seccion Datos -->
+<div id="dat" class="tabcontent">
+  <p><strong>Disponible en Figshare</strong></p>
+  <p>Daza, J.M. (2024). Diasporus anthrax (Anura: Eleutherodactylidae) advertisement call. figshare. Media.  
+    <a href="https://doi.org/10.6084/m9.figshare.27985289.v1">https://doi.org/10.6084/m9.figshare.27985289.v1</a>
+  </p>
+</div>
+
+<!-- Seccion Publicaciones -->
+<div id="pubs" class="tabcontent">
+  <p><strong>Jiménez-Rivillas, C., L.M. Vargas-Ortíz, J.M. Fang-Ortega, J. Difilippo-Taborda and J.M. Daza.</strong> 2013. Advertisement call of <i>Diasporus anthrax</i> Lynch, 2001 (Anura: Eleutherodactylidae) with comparison to calls of congeneric species. <i>South American Journal of Herpetology</i> 8: 1–4.  
+  <a href="http://dx.doi.org/10.2994/SAJH-D-12-00020.2" target="_blank">http://dx.doi.org/10.2994/SAJH-D-12-00020.1.</a></p>
+
+</div>
