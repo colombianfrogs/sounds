@@ -88,7 +88,7 @@ function openTab(evt, tabName) {
 <div id="dat" class="tabcontent">
   <p><strong>Disponible en Figshare</strong></p>
   <p>Daza, J.M. (2024). Diasporus anthrax (Anura: Eleutherodactylidae) advertisement call. figshare. Media.  
-    <a href="https://doi.org/10.6084/m9.figshare.27985289.v1">https://doi.org/10.6084/m9.figshare.27985289.v1</a>
+    <a href="https://doi.org/10.6084/m9.figshare.27985289.v1" target="_blank">https://doi.org/10.6084/m9.figshare.27985289.v1</a>
   </p>
 </div>
 
