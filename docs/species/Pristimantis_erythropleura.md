@@ -55,15 +55,16 @@ function openTab(evt, tabName) {
   <img src="{{ site.baseurl }}/images/especie_Pristimantis_erythropleura.png" style="width:15cm;">
 </div>
 
+#### Señal acústica
+
 <!-- Tabs section -->
 <div class="tab">
-  <button class="tablinks" onclick="openTab(event, 'EspectroLefr')">Espectrograma</button>
-  <button class="tablinks" onclick="openTab(event, 'figLefr')">Figura</button>
-  <button class="tablinks" onclick="openTab(event, 'tabLefr')">Datos</button>
+  <button class="tablinks" onclick="openTab(event, 'Espectro')">Espectrograma</button>
+  <button class="tablinks" onclick="openTab(event, 'fig')">Figura</button>
 </div>
 
 <!-- Seccion Espectrograma -->
-<div id="EspectroLefr" class="tabcontent" style="text-align: center;">
+<div id="Espectro" class="tabcontent" style="text-align: center;">
   <video width="100%" height="auto" controls>
     <source src="{{ site.baseurl }}/Espectrograms/dyna_Pristimantis_erythropleura.mp4" type="video/mp4">
     Tu navegador no soporta el elemento de video.
@@ -71,15 +72,34 @@ function openTab(evt, tabName) {
 </div>
 
 <!-- Seccion Figura -->
-<div id="figLefr" class="tabcontent" style="text-align: center;">
+<div id="fig" class="tabcontent" style="text-align: center;">
   <img src="{{ site.baseurl }}/images/spec_Pristimantis_erythropleura.png" style="width:15cm;">
 </div>
 
-<!-- Seccion Datos -->
-<div id="tabLefr" class="tabcontent">
-  <p>Figshare <a href="https://doi.org/10.6084/m9.figshare.25321690.v2">https://doi.org/10.6084/m9.figshare.25321690.v2</a>.</p>
+#### Disponibilidad de datos
+
+<!-- Tabs section -->
+<div class="tab">
+  <button class="tablinks" onclick="openTab(event, 'dat')">Datos</button>
+  <button class="tablinks" onclick="openTab(event, 'pubs')">Publicaciones</button>
 </div>
 
-Publicaciones que incorporan sonidos de esta especie:
-<br><br>
-<strong>Duarte-Marín & Arango-Ospina.</strong> 2019. The advertisement call of <i>Pristimantis erythropleura</i> (Boulenger, 1896) (Craugastoridae) from a population in the central Andes of Colombia. <i>The Herpetological Bulletin</i> 148: 33--34. <a href="https://www.thebhs.org/publications/the-herpetological-bulletin/issue-number-148-summer-2019/1947-08-the-advertisement-call-of-i-pristimantis-erythropleura-i-boulenger-1896-craugastoridae-from-a-population-in-the-central-andes-of-colombia/file">link</a>
+<!-- Seccion Datos -->
+<div id="dat" class="tabcontent">
+  <p><strong>Disponible en IAVH-CSA</strong></p>
+  <p><a href="https://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-18275/IAvH-CSA-18275.wav" target="_blank">IAvH-CSA 18275</a>
+  </p>
+  <p><a href="https://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-18275/IAvH-CSA-18276.wav" target="_blank">IAvH-CSA 18276</a>
+  </p>
+  <p><strong>Disponible en Figshare</strong></p>
+  <p>Duarte-Marín, S. (2024). Pristimantis erythropleura. figshare. Media.  
+    <a href="https://doi.org/10.6084/m9.figshare.25321690.v2" target="_blank">https://doi.org/10.6084/m9.figshare.25321690.v2</a>
+  </p>
+</div>
+
+<!-- Seccion Publicaciones -->
+<div id="pubs" class="tabcontent">
+  <p><strong>Duarte-Marín, S. and Arango-Ospina.</strong> 2019. The advertisement call of <i>Pristimantis erythropleura</i> (Boulenger, 1896) (Craugastoridae) from a population in the central Andes of Colombia. <i>The Herpetological Bulletin</i> 148: 33–34.  
+  <a href="https://doi.org/10.33256/hb148.3334" target="_blank">https://doi.org/10.33256/hb148.3334.</a></p>
+
+</div>
