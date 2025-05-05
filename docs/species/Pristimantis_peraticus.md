@@ -55,15 +55,16 @@ function openTab(evt, tabName) {
   <img src="{{ site.baseurl }}/images/especie_Pristimantis_peraticus.png" style="width:15cm;">
 </div>
 
+#### Señal acústica
+
 <!-- Tabs section -->
 <div class="tab">
-  <button class="tablinks" onclick="openTab(event, 'EspectroLefr')">Espectrograma</button>
-  <button class="tablinks" onclick="openTab(event, 'figLefr')">Figura</button>
-  <button class="tablinks" onclick="openTab(event, 'tabLefr')">Datos</button>
+  <button class="tablinks" onclick="openTab(event, 'Espectro')">Espectrograma</button>
+  <button class="tablinks" onclick="openTab(event, 'fig')">Figura</button>
 </div>
 
 <!-- Seccion Espectrograma -->
-<div id="EspectroLefr" class="tabcontent" style="text-align: center;">
+<div id="Espectro" class="tabcontent" style="text-align: center;">
   <video width="100%" height="auto" controls>
     <source src="{{ site.baseurl }}/Espectrograms/dyna_Pristimantis_peraticus.mp4" type="video/mp4">
     Tu navegador no soporta el elemento de video.
@@ -71,15 +72,29 @@ function openTab(evt, tabName) {
 </div>
 
 <!-- Seccion Figura -->
-<div id="figLefr" class="tabcontent" style="text-align: center;">
+<div id="fig" class="tabcontent" style="text-align: center;">
   <img src="{{ site.baseurl }}/images/spec_Pristimantis_peraticus.png" style="width:15cm;">
 </div>
 
-<!-- Seccion Datos -->
-<div id="tabLefr" class="tabcontent">
-  <p>Figshare <a href="https://doi.org/10.6084/m9.figshare.25321696.v2">https://doi.org/10.6084/m9.figshare.25321696.v2</a>.</p>
+#### Disponibilidad de datos
+
+<!-- Tabs section -->
+<div class="tab">
+  <button class="tablinks" onclick="openTab(event, 'dat')">Datos</button>
+  <button class="tablinks" onclick="openTab(event, 'pubs')">Publicaciones</button>
 </div>
 
-Publicaciones que incorporan sonidos de esta especie:
-<br><br>
-<strong>Duarte-Marín, S.</strong> 2024. The advertisement call of the robber frog <i>Pristimantis peraticus</i> in a population from the eastern slope of the Colombian central Andes. <i>The Herpetological Bulletin</i> 170: 38--41.
+<!-- Seccion Datos -->
+<div id="dat" class="tabcontent">
+  <p><strong>Disponible en Figshare</strong></p>
+  <p>Duarte-Marín, S. (2024). Pristimantis peraticus. figshare. Media.  
+    <a href="https://doi.org/10.6084/m9.figshare.25321696.v2" target="_blank">https://doi.org/10.6084/m9.figshare.25321696.v2</a>
+  </p>
+</div>
+
+<!-- Seccion Publicaciones -->
+<div id="pubs" class="tabcontent">
+  <p><strong>Duarte-Marín, S.</strong> 2024. The advertisement call of the robber frog <i>Pristimantis peraticus</i> in a population from the eastern slope of the Colombian central Andes. <i>The Herpetological Bulletin</i> 170: 38–41.  
+  <a href="https://doi.org/10.33256/hb170.3841" target="_blank">https://doi.org/10.33256/hb170.3841.</a></p>
+
+</div>
