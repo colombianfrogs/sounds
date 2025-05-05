@@ -89,7 +89,7 @@ function openTab(evt, tabName) {
   <p><strong>Disponible en IAVH-CSA</strong></p>
   <p><a href="https://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-18275/IAvH-CSA-18275.wav" target="_blank">IAvH-CSA 18275</a>
   </p>
-  <p><a href="https://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-18275/IAvH-CSA-18276.wav" target="_blank">IAvH-CSA 18276</a>
+  <p><a href="https://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-18276/IAvH-CSA-18276.wav" target="_blank">IAvH-CSA 18276</a>
   </p>
   <p><strong>Disponible en Figshare</strong></p>
   <p>Duarte-Marín, S. (2024). Pristimantis erythropleura. figshare. Media.  
