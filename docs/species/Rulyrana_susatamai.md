@@ -97,6 +97,6 @@ function openTab(evt, tabName) {
 
   <p><strong>Galindo, C.A., Viuche-Lozano, A. and Bernal, M.H.</strong> 2020. The advertisement call of the Colombian endemic glassfrog <i>Rulyrana susatamai</i> (Anura: Centrolenidae). <i>Zootaxa</i>, 4852 (5), 586–589. <a href="https://doi.org/10.11646/zootaxa.4852.5.8" target="_blank">https://doi.org/10.11646/zootaxa.4852.5.8</a></p> 
   
-  <p><strong>Mendoza-Henao, A. M., Duarte-Marin, S., and Rada, M.</strong> 2021. Advertisement calls of six glassfrog species in the Colombian Andes, and comments on priorities for future research and conservation. <i>Amphibian and Reptile Conservation</i> 15: 156-171.<a href="https://archive.org/details/biostor-286495" target="_blank">https://archive.org/details/biostor-286495</a></p>
+  <p><strong>Mendoza-Henao, A. M., Duarte-Marin, S., and Rada, M.</strong> 2021. Advertisement calls of six glassfrog species in the Colombian Andes, and comments on priorities for future research and conservation. <i>Amphibian and Reptile Conservation</i> 15: 156-171.<a href="https://archive.org/details/biostor-286491" target="_blank">https://archive.org/details/biostor-286491</a></p>
 
 </div>
