@@ -88,7 +88,7 @@ function openTab(evt, tabName) {
 <div id="dat" class="tabcontent">
   <p><strong>Disponible en Figshare</strong></p>
   <p>Duarte-Marín, S. (2024). Pristimantis piceus. figshare. Media.  
-    <a href="https://doi.org/10.6084/m9.figshare.25321702.v3" target="_blank">https://doi.org/10.6084/m9.figshare.25321702.v2</a>
+    <a href="https://doi.org/10.6084/m9.figshare.25321702.v2" target="_blank">https://doi.org/10.6084/m9.figshare.25321702.v2</a>
   </p>
 </div>
 
