@@ -88,7 +88,7 @@ function openTab(evt, tabName) {
 <div id="dat" class="tabcontent">
   <p><strong>Disponible en Figshare</strong></p>
   <p>Chaves-Portilla, G. (2025). Hyalinobatrachium chirripoi. figshare. Media.  
-    <a href="https://doi.org/10.6084/m9.figshare.28559621.v2">https://doi.org/10.6084/m9.figshare.28559621.v2</a>
+    <a href="https://doi.org/10.6084/m9.figshare.28559621.v2" target="_blank">https://doi.org/10.6084/m9.figshare.28559621.v2</a>
   </p>
 </div>
 
