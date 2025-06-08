@@ -54,6 +54,7 @@ Esperamos que la comunidad herpetológica nos ayude a alimentar esta sección.
 - [Centrolene huilensis](./species/Centrolene_huilensis.md)
 - [Centrolene hybrida](./species/Centrolene_hybrida.md)
 - [Hyalinobatrachium chirripoi](./species/Hyalinobatrachium_chirripoi.md)
+- [Hyalinobatrachium tatayoi](./species/Hyalinobatrachium_tatayoi.md)
 - [Nymphargus oreonympha](./species/Nymphargus_oreonympha.md)
 - [Rulyrana flavopunctata](./species/Rulyrana_flavopunctata.md)
 - [Rulyrana susatamai](./species/Rulyrana_susatamai.md)
