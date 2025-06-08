@@ -48,6 +48,7 @@ Esperamos que la comunidad herpetológica nos ayude a alimentar esta sección.
 # Bufonidae
 - [Atelopus laetissimus](./species/Atelopus_laetissimus.md)
 - [Rhaebo haematiticus](./species/Rhaebo_haematiticus.md)
+- [Rhinella horribilis](./species/Rhinella_horribilis.md)
 
 # Centrolenidae
 - [Centrolene huilensis](./species/Centrolene_huilensis.md)
