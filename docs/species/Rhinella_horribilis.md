@@ -88,7 +88,7 @@ function openTab(evt, tabName) {
 <div id="dat" class="tabcontent">
   <p><strong>Disponibles en Figshare</strong></p>
   <p>Chaves-Portilla, G. (2024). Rhinella horribilis. figshare. Media. https://doi.org/10.6084/m9.figshare.27640617.v2 
-    <a href="https://doi.org/10.6084/m9.figshare.27640617.v3">URL</a>
+    <a href="https://doi.org/10.6084/m9.figshare.27640617.v3" target="_blank">https://doi.org/10.6084/m9.figshare.27640617.v3</a>
   </p>
 </div>
 
