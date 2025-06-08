@@ -94,7 +94,7 @@ function openTab(evt, tabName) {
 
 <!-- Seccion Publicaciones -->
 <div id="pubs" class="tabcontent">
-  <p>Bernal, M.H., Montealegre, D.P., Páez, C.A. (2004). Estudio de la vocalización de trece especies de anuros del municipio de Ibagué, Colombia. Revista de la Academia Colombiana de Ciencias Exactas, Físicas y Naturales 28: 385-390.. 
-  <a href="https://raccefyn.co/index.php/raccefyn/article/view/2135" target="_blank">{{URL}}</a></p>
+  <p><strong>Bernal, M.H., Montealegre, D.P., Páez, C.A.</strong> 2004. Estudio de la vocalización de trece especies de anuros del municipio de Ibagué, Colombia. <i>Revista de la Academia Colombiana de Ciencias Exactas, Físicas y Naturales</i> 28: 385-390. 
+  <a href="https://raccefyn.co/index.php/raccefyn/article/view/2135" target="_blank">https://raccefyn.co/index.php/raccefyn/article/view/2135</a></p>
   <p><strong>***</strong><i>Bernal et al. (2004) no disponibiliza los audios y datos asociados.</i></p>
 </div>
