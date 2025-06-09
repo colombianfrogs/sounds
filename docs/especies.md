@@ -79,6 +79,7 @@ Esperamos que la comunidad herpetológica nos ayude a alimentar esta sección.
 - [Boana boans](./species/Boana_boans.md)
 - [Boana punctata](./species/Boana_punctata.md)
 - [Boana rosenbergi](./species/Boana_rosenbergi.md)
+- [Hyloscirtus larinopygion](./species/Hyloscirtus_larinopygion.md)
 - [Pseudis paradoxa](./species/Pseudis_paradoxa.md)
 
 # Leptodactylidae
