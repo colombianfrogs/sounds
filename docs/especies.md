@@ -44,7 +44,6 @@ En esta sección incorporamos especies individuales conforme vamos identificando
 
 Acceda a la tabla [aquí](https://figshare.com/articles/dataset/Cantos_de_las_ranas_y_los_sapos_de_Colombia/15050367?file=28945329)
 
-Esperamos que la comunidad herpetológica nos ayude a alimentar esta sección.
 
 # Aromobatidae
 - [Allobates niputidea](./species/Allobates_niputidea.md)
