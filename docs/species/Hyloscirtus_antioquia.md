@@ -95,7 +95,7 @@ function openTab(evt, tabName) {
 <!-- Seccion Publicaciones -->
 <div id="pubs" class="tabcontent">
   
-  <p><strong>Rivera-Correa, M., Vargas-Salinas, F., Grant, T.</strong> 2017. Statistical differences and biological implications: a comparative analysis of the advertisement calls of two Andean stream treefrogs (Hylidae: <i>Hyloscirtus</i>) and the evolution of acoustic characters. <a href="https://www.salamandra-journal.com/index.php/contents/2017-vol-53/1827-rivera-correa-m-f-vargas-salinas-t-grant" target="_blank"><i>Salamandra</i> 53: 237-244</a></p>
+  <p><strong>Rivera-Correa, M., Vargas-Salinas, F., Grant, T.</strong> 2017. Statistical differences and biological implications: a comparative analysis of the advertisement calls of two Andean stream treefrogs (Hylidae: <i>Hyloscirtus</i>) and the evolution of acoustic characters. <a href="https://www.salamandra-journal.com/index.php/contents/2017-vol-53/1827-rivera-correa-m-f-vargas-salinas-t-grant" target="_blank"><i>Salamandra</i> 53: 237-244.</a></p>
   
   <p><strong>***</strong><i>El artículo donde se publicó el canto de advertencia no disponibiliza los audios o datos asociados.</i></p>
 </div>
