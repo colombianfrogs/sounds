@@ -82,6 +82,7 @@ Acceda a la tabla [aquí](https://figshare.com/articles/dataset/Cantos_de_las_ra
 - [Boana boans](./species/Boana_boans.md)
 - [Boana punctata](./species/Boana_punctata.md)
 - [Boana rosenbergi](./species/Boana_rosenbergi.md)
+- [Hyloscirtus antioquia](./species/Hyloscirtus_antioquia.md)
 - [Hyloscirtus larinopygion](./species/Hyloscirtus_larinopygion.md)
 - [Pseudis paradoxa](./species/Pseudis_paradoxa.md)
 
