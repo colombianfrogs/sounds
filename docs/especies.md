@@ -40,9 +40,7 @@ p {
 
 En esta sección incorporamos especies individuales conforme vamos identificando datos disponibles provenientes de poblaciones colombianas. No buscamos construir fichas completas por especie, sino destacar aquellas que ya cuentan con datos e información acústica accesible en repositorios, facilitando así su reutilización por parte de la comunidad herpetológica. Además, esta sección puede ser útil para familiarizarse con los cantos de las especies, tanto en su aspecto acústico como visual (forma de la señal). Finalmente, indicamos no solo los repositorios donde se encuentran los audios, sino también las publicaciones científicas que han utilizado los sonidos de cada especie.
 
-[Rivera-Correa et al. 2021](https://www.tandfonline.com/doi/full/10.1080/23766808.2021.1957651) realizaron un análisis sobre el estado de la bioacústica de anfibios en el país y disponibilizaron información relevante que permite identificar cuales especies presentan cantos publicados (aunque no necesariamente sus datos). Esta información guiará nuevos estudios sobre los cantos de anuros colombianos y motivará la publicación de los datos asociados a estos estudios.
-
-Acceda a la tabla [aquí](https://figshare.com/articles/dataset/Cantos_de_las_ranas_y_los_sapos_de_Colombia/15050367?file=28945329)
+[Rivera-Correa et al. 2021](https://www.tandfonline.com/doi/full/10.1080/23766808.2021.1957651) realizaron un análisis sobre el estado de la bioacústica de anfibios en el país y disponibilizaron información relevante que permite identificar cuales especies presentan cantos publicados (aunque no necesariamente sus datos). Esta información guiará nuevos estudios sobre los cantos de anuros colombianos y motivará la publicación de los datos asociados a estos estudios. Acceda a la tabla [aquí](https://figshare.com/articles/dataset/Cantos_de_las_ranas_y_los_sapos_de_Colombia/15050367?file=28945329)
 
 
 # Aromobatidae
