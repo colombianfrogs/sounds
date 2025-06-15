@@ -87,7 +87,7 @@ function openTab(evt, tabName) {
 <!-- Seccion Datos -->
 <div id="dat" class="tabcontent">
   <p><strong>Disponibles en Figshare</strong></p>
-  <p>Rivera-Correa, M. (2024). Hyloscirtus antioquia. figshare. Media.  
+  <p>Rivera-Correa, M. (2024). Hyloscirtus medellin. figshare. Media.  
     <a href="https://doi.org/10.6084/m9.figshare.27798693.v4" target="_blank">https://doi.org/10.6084/m9.figshare.27798693.v4</a>
   </p>
 </div>
