@@ -73,7 +73,7 @@ function openTab(evt, tabName) {
 
 <!-- Seccion Figura -->
 <div id="fig" class="tabcontent" style="text-align: center;">
-  <img src="{{ site.baseurl }}/images/spec_Andinobates_cassidyhornae.png" style="width:15cm;">
+  <img src="{{ site.baseurl }}/images/spec_Andinobates_cassidyhornae.jpg" style="width:15cm;">
 </div>
 
 #### Disponibilidad de datos
