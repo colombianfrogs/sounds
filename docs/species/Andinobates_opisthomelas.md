@@ -94,7 +94,7 @@ function openTab(evt, tabName) {
 
   <p><strong>Disponibles en </strong><a href="https://www.inaturalist.org/observations?sounds&taxon_id=135045" target="_blank">iNaturalist</a></p>
   
-  <p><a href="https://static.inaturalist.org/sounds/48803.mp3?1571616401" target="_blank>iNat_obs_</a></p>
+  <p><a href="https://static.inaturalist.org/sounds/48803.mp3?1571616401" target="_blank">iNat_obs_</a></p>
   <p><a href="https://static.inaturalist.org/sounds/327127.mp3?1636399406" target="_blank">iNat_obs_</a></p>
   <p><a href="https://static.inaturalist.org/sounds/765147.mp3?1688976288" target="_blank">iNat_obs_</a></p>
   <p><a href="https://static.inaturalist.org/sounds/1122209.mp3?1720220343" target="_blank">iNat_obs_</a></p>
