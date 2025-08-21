@@ -65,8 +65,9 @@ En esta sección incorporamos especies individuales conforme vamos identificando
 - [Craugastor metriosistus](./species/Craugastor_metriosistus.md)
 
 # Dendrobatidae
-- [Andinobates supata](./species/Andinobates_supata.md)
 - [Andinobates cassidyhornae](./species/Andinobates_cassidyhornae.md)
+- [Andinobates opisthomelas](./species/Andinobates_opisthomelas.md)
+- [Andinobates supata](./species/Andinobates_supata.md)
 - [Colostethus pratti](./species/Colostethus_pratti.md)
 - [Hyloxalus vergeli](./species/Hyloxalus_vergeli.md)
 - [Leucostethus brachistriatus](./species/Leucostethus_brachistriatus.md)
