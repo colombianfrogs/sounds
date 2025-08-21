@@ -86,15 +86,16 @@ function openTab(evt, tabName) {
 
 <!-- Seccion Datos -->
 <div id="dat" class="tabcontent">
-  <p><strong>Disponibles en Figshare</strong></p>
-  <p>NA 
-    <a href="https://static.inaturalist.org/sounds/327213.wav?1636410614">URL</a>
-  </p>
+
+  <p><strong>Disponibles en </strong><a href="https://www.inaturalist.org/observations?sounds&taxon_id=21108" target="_blank">iNaturalist</a></p>
+
 </div>
 
 <!-- Seccion Publicaciones -->
 <div id="pubs" class="tabcontent">
-  <p>NA. 
-  <a href="NA" target="_blank">{{URL}}</a></p>
-  <p><strong>***</strong><i>No existen artículos con sonidos de poblaciones colombianas.</i></p>
+  <p><strong>Jiménez-Bolaño, J. D., A. C. Montes-Correa, F. Leonhardt and J. M. Renjifo</strong> 2020. Advertisement call of Pratt's rocket frog, <i>Colostethus pratti</i>, from the western Andes of Colombia (Anura: Dendrobatidae). <i>Salamandra</i> 56: 395-400.  
+  <a href="https://www.salamandra-journal.com/index.php/contents/2020-vol-56/2001-jimenez-bolano-j-d-a-c-montes-correa-f-leonhardt-j-m-renjifo?category_access=1" target="_blank">url</a></p>
+  <p><strong>***</strong><i>El artículo donde se publicó el canto de advertencia no disponibiliza los audios o datos asociados.</i></p>
+</div>
+
 </div>
