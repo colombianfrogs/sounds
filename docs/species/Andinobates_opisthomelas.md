@@ -92,7 +92,7 @@ function openTab(evt, tabName) {
   <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-3/IAvH-CSA-34763.wav" target="_blank>IAVH-CSA-34763</a></p>
   <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34765/IAvH-CSA-34765.wav" target="_blank>IAVH-CSA-34765</a></p>
 
-  <p><strong>Disponibles en iNaturalist</strong></p>
+  <p><strong>Disponibles en </strong><a href="https://www.inaturalist.org/observations?sounds&taxon_id=135045" target="_blank>iNaturalist</a></p>
   
   <p><a href="https://static.inaturalist.org/sounds/48803.mp3?1571616401" target="_blank>iNat_obs_</a></p>
   <p><a href="https://static.inaturalist.org/sounds/327127.mp3?1636399406" target="_blank>iNat_obs_</a></p>
