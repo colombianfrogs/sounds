@@ -98,4 +98,3 @@ function openTab(evt, tabName) {
   <p><strong>***</strong><i>El artículo donde se publicó el canto de advertencia no disponibiliza los audios o datos asociados.</i></p>
 </div>
 
-</div>
