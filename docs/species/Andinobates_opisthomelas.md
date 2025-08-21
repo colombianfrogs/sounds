@@ -87,25 +87,25 @@ function openTab(evt, tabName) {
 <!-- Seccion Datos -->
 <div id="dat" class="tabcontent">
   <p><strong>Disponibles en CSA-IAVH</strong></p>
-  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34760/IAvH-CSA-34760.wav" target="_blank>IAVH-CSA-34760</a></p>
-  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34762/IAvH-CSA-34762.wav" target="_blank>IAVH-CSA-34762</a></p>
-  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-3/IAvH-CSA-34763.wav" target="_blank>IAVH-CSA-34763</a></p>
-  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34765/IAvH-CSA-34765.wav" target="_blank>IAVH-CSA-34765</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34760/IAvH-CSA-34760.wav" target="_blank">IAVH-CSA-34760</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34762/IAvH-CSA-34762.wav" target="_blank">IAVH-CSA-34762</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-3/IAvH-CSA-34763.wav" target="_blank">IAVH-CSA-34763</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34765/IAvH-CSA-34765.wav" target="_blank">IAVH-CSA-34765</a></p>
 
-  <p><strong>Disponibles en </strong><a href="https://www.inaturalist.org/observations?sounds&taxon_id=135045" target="_blank>iNaturalist</a></p>
+  <p><strong>Disponibles en </strong><a href="https://www.inaturalist.org/observations?sounds&taxon_id=135045" target="_blank">iNaturalist</a></p>
   
   <p><a href="https://static.inaturalist.org/sounds/48803.mp3?1571616401" target="_blank>iNat_obs_</a></p>
-  <p><a href="https://static.inaturalist.org/sounds/327127.mp3?1636399406" target="_blank>iNat_obs_</a></p>
-  <p><a href="https://static.inaturalist.org/sounds/765147.mp3?1688976288" target="_blank>iNat_obs_</a></p>
-  <p><a href="https://static.inaturalist.org/sounds/1122209.mp3?1720220343" target="_blank>iNat_obs_</a></p>
-  <p><a href="https://static.inaturalist.org/sounds/1207345.wav?1726941892" target="_blank>iNat_obs_</a></p>
-  <p><a href="https://static.inaturalist.org/sounds/1208549.wav?1727025029" target="_blank>iNat_obs_</a></p>
-  <p><a href="https://static.inaturalist.org/sounds/1208550.wav?1727025058" target="_blank>iNat_obs_</a></p>
-  <p><a href="https://static.inaturalist.org/sounds/1208551.wav?1727025148" target="_blank>iNat_obs_</a></p>
-  <p><a href="https://static.inaturalist.org/sounds/1208552.wav?1727025377" target="_blank>iNat_obs_</a></p>
-  <p><a href="https://static.inaturalist.org/sounds/1208572.wav?1727026112" target="_blank>iNat_obs_</a></p>
-  <p><a href="https://static.inaturalist.org/sounds/1211316.wav?1727299777" target="_blank>iNat_obs_</a></p>
-  <p><a href="https://static.inaturalist.org/sounds/1212155.wav?1727372844" target="_blank>iNat_obs_</a></p>
+  <p><a href="https://static.inaturalist.org/sounds/327127.mp3?1636399406" target="_blank">iNat_obs_</a></p>
+  <p><a href="https://static.inaturalist.org/sounds/765147.mp3?1688976288" target="_blank">iNat_obs_</a></p>
+  <p><a href="https://static.inaturalist.org/sounds/1122209.mp3?1720220343" target="_blank">iNat_obs_</a></p>
+  <p><a href="https://static.inaturalist.org/sounds/1207345.wav?1726941892" target="_blank">iNat_obs_</a></p>
+  <p><a href="https://static.inaturalist.org/sounds/1208549.wav?1727025029" target="_blank">iNat_obs_</a></p>
+  <p><a href="https://static.inaturalist.org/sounds/1208550.wav?1727025058" target="_blank">iNat_obs_</a></p>
+  <p><a href="https://static.inaturalist.org/sounds/1208551.wav?1727025148" target="_blank">iNat_obs_</a></p>
+  <p><a href="https://static.inaturalist.org/sounds/1208552.wav?1727025377" target="_blank">iNat_obs_</a></p>
+  <p><a href="https://static.inaturalist.org/sounds/1208572.wav?1727026112" target="_blank">iNat_obs_</a></p>
+  <p><a href="https://static.inaturalist.org/sounds/1211316.wav?1727299777" target="_blank">iNat_obs_</a></p>
+  <p><a href="https://static.inaturalist.org/sounds/1212155.wav?1727372844" target="_blank">iNat_obs_</a></p>
 
 </div>
 
