@@ -66,6 +66,7 @@ En esta sección incorporamos especies individuales conforme vamos identificando
 
 # Dendrobatidae
 - [Andinobates supata](./species/Andinobates_supata.md)
+- [Colostethus pratti](./species/Colostethus_pratti.md)
 - [Hyloxalus vergeli](./species/Hyloxalus_vergeli.md)
 - [Leucostethus brachistriatus](./species/Leucostethus_brachistriatus.md)
 - [Leucostethus fraterdanieli](./species/Leucostethus_fraterdanieli.md)
