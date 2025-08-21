@@ -93,7 +93,7 @@ function openTab(evt, tabName) {
 
 <!-- Seccion Publicaciones -->
 <div id="pubs" class="tabcontent">
-  <p><strong>Amezquita, A., Márquez, R., Medina, R., Mejia-Vargas, D., Kahn, T.R., Suarez, G., Mazariegos, L. </strong>(2013). A new species of Andean poison frog, <i>Andinobates</i> (Anura: Dendrobatidae), from the northwestern Andes of Colombia. <i>Zootaxa</i> 3620: 163-178.  
+  <p><strong>Amezquita, A., Márquez, R., Medina, R., Mejia-Vargas, D., Kahn, T.R., Suarez, G., Mazariegos, L. </strong>2013. A new species of Andean poison frog, <i>Andinobates</i> (Anura: Dendrobatidae), from the northwestern Andes of Colombia. <i>Zootaxa</i> 3620: 163-178.  
   <a href="https://doi.org/10.11646/zootaxa.3620.1.8" target="_blank">https://doi.org/10.11646/zootaxa.3620.1.8.</a></p>
   <p><strong>***</strong><i>El artículo donde se publicó el canto de advertencia no disponibiliza los audios y datos asociados.</i></p>
 </div>
