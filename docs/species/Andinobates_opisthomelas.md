@@ -52,7 +52,7 @@ function openTab(evt, tabName) {
 <div style="text-align: center;">
   <h2><i>Andinobates opisthomelas</i></h2>
   <h4>(Boulenger, 1899)</h4>
-  <img src="{{ site.baseurl }}/images/especie_Andinobates_opisthomelas.jpg" style="width:15cm;">
+  <img src="{{ site.baseurl }}/images/especie_Andinobates_opisthomelas.png" style="width:15cm;">
 </div>
 
 #### Señal acústica
