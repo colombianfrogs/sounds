@@ -113,7 +113,7 @@ function openTab(evt, tabName) {
 <div id="pubs" class="tabcontent">
   <p><strong>Brown, J.L., Twomey, E., Amezquita, A., de Souza, M.B., Caldwell, J.P., Lötters, S., von May, R., Melo-Sampaio, P.R., Mejia-Vargas, D., Perez-Peña, P., Pepper, M., Poelman, E.H., Sanchez-Rodriguez, M., Summers, K. </strong>2011. A taxonomic revision of the Neotropical poison frog genus <i>Ranitomeya</i> (Amphibia: Dendrobatidae). <i>Zootaxa</i> 3083: 1-120. <a href="https://doi.org/10.11646/zootaxa.3083.1.1" target="_blank">https://doi.org/10.11646/zootaxa.3083.1.1</a></p>
   
-  <p><strong>Rivera-Correa, M., Urbina, J., Galeano, S.P., Kahn, T.R. </strong>2016b. Andean poison frog <i>Andinobates opisthomelas</i> Boulenger, 1899. In T.R. Kahn, E. La Marca, S. Lötters, J.L. Brown, E. Twomey, and A. Amézquita (Eds.), Aposematic poison frogs (Dendrobatidae) of the Andean countries: Bolivia, Colombia, Ecuador, Perú and Venezuela. Tropical field guide series (pp. 284-289). Arlington, USA: Conservation International.</p>
+  <p><strong>Rivera-Correa, M., Urbina, J., Galeano, S.P., Kahn, T.R. </strong>2016. Andean poison frog <i>Andinobates opisthomelas</i> Boulenger, 1899. In T.R. Kahn, E. La Marca, S. Lötters, J.L. Brown, E. Twomey, and A. Amézquita (Eds.), Aposematic poison frogs (Dendrobatidae) of the Andean countries: Bolivia, Colombia, Ecuador, Perú and Venezuela. Tropical field guide series (pp. 284-289). Arlington, USA: Conservation International.</p>
   
   <p><strong>***</strong><i>El artículo donde se publicó el canto de advertencia no disponibiliza los audios y datos asociados.</i></p>
 </div>
