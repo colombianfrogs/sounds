@@ -86,15 +86,14 @@ function openTab(evt, tabName) {
 
 <!-- Seccion Datos -->
 <div id="dat" class="tabcontent">
-  <p><strong>Disponibles en Figshare</strong></p>
-  <p>NA 
-    <a href="https://static.inaturalist.org/sounds/462826.wav?1654475730">URL</a>
+  <p><strong>Disponible en iNaturalist</strong></p>
+    <a href="https://static.inaturalist.org/sounds/462826.wav?1654475730"target="_blank">iNat_obsXXX</a>
   </p>
 </div>
 
 <!-- Seccion Publicaciones -->
 <div id="pubs" class="tabcontent">
-  <p>Amezquita, A., Márquez, R., Medina, R., Mejia-Vargas, D., Kahn, T.R., Suarez, G., Mazariegos, L. (2013). A new species of Andean poison frog, Andinobates (Anura: Dendrobatidae), from the northwestern Andes of Colombia. Zootaxa 3620: 163-178. https://doi.org/10.11646/zootaxa.3620.1.8. 
-  <a href="https://doi.org/10.11646/zootaxa.3620.1.8" target="_blank">{{URL}}</a></p>
+  <p><strong>Amezquita, A., Márquez, R., Medina, R., Mejia-Vargas, D., Kahn, T.R., Suarez, G., Mazariegos, L. </strong>(2013). A new species of Andean poison frog, <i>Andinobates</i> (Anura: Dendrobatidae), from the northwestern Andes of Colombia. <i>Zootaxa</i> 3620: 163-178.  
+  <a href="https://doi.org/10.11646/zootaxa.3620.1.8" target="_blank">https://doi.org/10.11646/zootaxa.3620.1.8.</a></p>
   <p><strong>***</strong><i>El artículo donde se publicó el canto de advertencia no disponibiliza los audios y datos asociados.</i></p>
 </div>
