@@ -52,7 +52,7 @@ function openTab(evt, tabName) {
 <div style="text-align: center;">
   <h2><i>Andinobates cassidyhornae</i></h2>
   <h4>Amézquita, Márquez, Mejía-Vargas, Kahn, Suárez, and Mazariegos, 2013</h4>
-  <img src="{{ site.baseurl }}/images/especie_Andinobates_cassidyhornae.png" style="width:15cm;">
+  <img src="{{ site.baseurl }}/images/especie_Andinobates_cassidyhornae.jpg" style="width:15cm;">
 </div>
 
 #### Señal acústica
@@ -73,7 +73,7 @@ function openTab(evt, tabName) {
 
 <!-- Seccion Figura -->
 <div id="fig" class="tabcontent" style="text-align: center;">
-  <img src="{{ site.baseurl }}/images/spec_Andinobates_cassidyhornae.jpg" style="width:15cm;">
+  <img src="{{ site.baseurl }}/images/spec_Andinobates_cassidyhornae.png" style="width:15cm;">
 </div>
 
 #### Disponibilidad de datos
@@ -88,7 +88,6 @@ function openTab(evt, tabName) {
 <div id="dat" class="tabcontent">
   <p><strong>Disponible en iNaturalist</strong></p>
     <a href="https://static.inaturalist.org/sounds/462826.wav?1654475730" target="_blank">iNat_obs120468080</a>
-  </p>
 </div>
 
 <!-- Seccion Publicaciones -->
