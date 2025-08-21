@@ -94,7 +94,7 @@ function openTab(evt, tabName) {
 <!-- Seccion Publicaciones -->
 <div id="pubs" class="tabcontent">
   <p><strong>Jiménez-Bolaño, J. D., A. C. Montes-Correa, F. Leonhardt and J. M. Renjifo</strong> 2020. Advertisement call of Pratt's rocket frog, <i>Colostethus pratti</i>, from the western Andes of Colombia (Anura: Dendrobatidae). <i>Salamandra</i> 56: 395-400.  
-  <a href="https://www.salamandra-journal.com/index.php/contents/2020-vol-56/2001-jimenez-bolano-j-d-a-c-montes-correa-f-leonhardt-j-m-renjifo?category_access=1" target="_blank">url</a></p>
+  <a href="https://www.salamandra-journal.com/index.php/contents/2020-vol-56/2001-jimenez-bolano-j-d-a-c-montes-correa-f-leonhardt-j-m-renjifo?category_access=1" target="_blank">Salamandra 56: 395-400</a></p>
   <p><strong>***</strong><i>El artículo donde se publicó el canto de advertencia no disponibiliza los audios o datos asociados.</i></p>
 </div>
 
