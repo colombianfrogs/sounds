@@ -87,7 +87,7 @@ function openTab(evt, tabName) {
 <!-- Seccion Datos -->
 <div id="dat" class="tabcontent">
   <p><strong>Disponible en iNaturalist</strong></p>
-    <a href="https://static.inaturalist.org/sounds/462826.wav?1654475730"target="_blank">iNat_obsXXX</a>
+    <a href="https://static.inaturalist.org/sounds/462826.wav?1654475730" target="_blank">iNat_obsXXX</a>
   </p>
 </div>
 
