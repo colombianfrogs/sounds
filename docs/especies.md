@@ -68,6 +68,7 @@ En esta sección incorporamos especies individuales conforme vamos identificando
 - [Andinobates cassidyhornae](./species/Andinobates_cassidyhornae.md)
 - [Andinobates dorisswansonae](./species/Andinobates_dorisswansonae.md)
 - [Andinobates opisthomelas](./species/Andinobates_opisthomelas.md)
+- [Andinobates victimatus](./species/Andinobates_victimatus.md)
 - [Andinobates supata](./species/Andinobates_supata.md)
 - [Colostethus pratti](./species/Colostethus_pratti.md)
 - [Hyloxalus vergeli](./species/Hyloxalus_vergeli.md)
