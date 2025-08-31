@@ -93,7 +93,7 @@ function openTab(evt, tabName) {
 
 <!-- Seccion Publicaciones -->
 <div id="pubs" class="tabcontent">
-  <p><strong>Márquez, R., Mejia-Vargas, D., Palacios-Rodriguez, P., Ramirez-Castaneda, V., Amezquita, A.</strong> 2017). A new species of <i>Andinobates</i> (Anura: Dendrobatidae) from the Urabá region of Colombia. <i>Zootaxa</i> 4290: 531-546. 
+  <p><strong>Márquez, R., Mejia-Vargas, D., Palacios-Rodriguez, P., Ramirez-Castaneda, V., Amezquita, A.</strong> 2017. A new species of <i>Andinobates</i> (Anura: Dendrobatidae) from the Urabá region of Colombia. <i>Zootaxa</i> 4290: 531-546. 
   <a href="https://doi.org/10.11646/zootaxa.4290.3.7" target="_blank">https://doi.org/10.11646/zootaxa.4290.3.7</a></p>
   <p><strong>***</strong><i>El artículo donde se publicó el canto de advertencia no disponibiliza los audios y datos asociados.</i></p>
 </div>
