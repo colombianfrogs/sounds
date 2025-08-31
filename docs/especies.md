@@ -66,6 +66,7 @@ En esta sección incorporamos especies individuales conforme vamos identificando
 
 # Dendrobatidae
 - [Andinobates cassidyhornae](./species/Andinobates_cassidyhornae.md)
+- [Andinobates dorisswansonae](./species/Andinobates_dorisswansonae.md)
 - [Andinobates opisthomelas](./species/Andinobates_opisthomelas.md)
 - [Andinobates supata](./species/Andinobates_supata.md)
 - [Colostethus pratti](./species/Colostethus_pratti.md)
