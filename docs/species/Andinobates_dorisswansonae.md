@@ -87,16 +87,15 @@ function openTab(evt, tabName) {
 <!-- Seccion Datos -->
 <div id="dat" class="tabcontent">
   <p><strong>Disponibles en iNaturalist</strong></p>
-  <p>NA 
-    <a href="https://www.inaturalist.org/observations?place_id=7196&sounds&taxon_id=135042" target="_blank">iNat</a>
+  <p><a href="https://www.inaturalist.org/observations?place_id=7196&sounds&taxon_id=135042" target="_blank">iNat</a>
   </p>
 </div>
 
 <!-- Seccion Publicaciones -->
 <div id="pubs" class="tabcontent">
-  <p><strong>Brown, J.L., Twomey, E., Amezquita, A., de Souza, M.B., Caldwell, J.P., Lötters, S., von May, R., Melo-Sampaio, P.R., Mejia-Vargas, D., Perez-Peña, P., Pepper, M., Poelman, E.H., Sanchez-Rodriguez, M., Summers, K. </strong>. 2011. A taxonomic revision of the Neotropical poison frog genus <i>Ranitomeya</i> (Amphibia: Dendrobatidae). <i>Zootaxa</i> 3083: 1-120. <a href="https://doi.org/10.11646/zootaxa.3083.1.1" target="_blank">https://doi.org/10.11646/zootaxa.3083.1.1</a></p> 
+  <p><strong>Brown, J.L., Twomey, E., Amezquita, A., de Souza, M.B., Caldwell, J.P., Lötters, S., von May, R., Melo-Sampaio, P.R., Mejia-Vargas, D., Perez-Peña, P., Pepper, M., Poelman, E.H., Sanchez-Rodriguez, M., Summers, K.</strong> 2011. A taxonomic revision of the Neotropical poison frog genus <i>Ranitomeya</i> (Amphibia: Dendrobatidae). <i>Zootaxa</i> 3083: 1-120. <a href="https://doi.org/10.11646/zootaxa.3083.1.1" target="_blank">https://doi.org/10.11646/zootaxa.3083.1.1</a></p> 
   
-  <p><strong>Luna-Mora, V.F., Bernal, M.H., Gallego-Carvajal, O.J., Kahn, T.R. </strong>. 2016. Doris Swanson's poison frog Andinobates dorisswansonae Rueda-Almonacid, Rada, Sánchez-Pacheco, Velásquez-Álvarez, and Quevedo-Gil, 2006. In T.R. Kahn, E. La Marca, S. Lötters, J.L. Brown, E. Twomey and A. Amézquita (Eds.), Aposematic poison frogs (Dendrobatidae) of the Andean countries: Bolivia, Colombia, Ecuador, Perú and Venezuela. Tropical field guide series (pp. 268-273). Arlington, USA: Conservation International.</p>
+  <p><strong>Luna-Mora, V.F., Bernal, M.H., Gallego-Carvajal, O.J., Kahn, T.R.</strong> 2016. Doris Swanson's poison frog Andinobates dorisswansonae Rueda-Almonacid, Rada, Sánchez-Pacheco, Velásquez-Álvarez, and Quevedo-Gil, 2006. In T.R. Kahn, E. La Marca, S. Lötters, J.L. Brown, E. Twomey and A. Amézquita (Eds.), Aposematic poison frogs (Dendrobatidae) of the Andean countries: Bolivia, Colombia, Ecuador, Perú and Venezuela. Tropical field guide series (pp. 268-273). Arlington, USA: Conservation International.</p>
   
   <p><strong>***</strong><i>El artículo donde se publicó el canto de advertencia no disponibiliza los audios o datos asociados.</i></p>
 </div>
