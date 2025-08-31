@@ -94,6 +94,10 @@ En esta sección incorporamos especies individuales conforme vamos identificando
 - [Leptodactylus colombiensis](./species/Leptodactylus_colombiensis.md)
 - [Leptodactylus fragilis](./species/Leptodactylus_fragilis.md)
 
+# Ranidae
+
+- [Aquarana catesbeiana](./species/Aquarana_catesbeiana.md)
+
 # Strabomantidae
 
 - [Pristimantis cryptopictus](./species/Pristimantis_cryptopictus.md)
