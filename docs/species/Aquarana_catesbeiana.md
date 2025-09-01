@@ -87,7 +87,7 @@ function openTab(evt, tabName) {
 <!-- Seccion Datos -->
 <div id="dat" class="tabcontent">
   <p><strong>Disponibles en iNaturalist</strong></p>
-  <p><a href="https://www.inaturalist.org/observations?place_id=7196&sounds&taxon_id=65979" target="_blank">Aquarana_catesbeiana</a>
+  <p><a href="https://www.inaturalist.org/observations?place_id=7196&sounds&taxon_id=65979" target="_blank">Aquarana catesbeiana</a>
   </p>
 </div>
 
