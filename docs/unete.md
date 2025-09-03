@@ -55,7 +55,7 @@ Invitamos a toda la comunidad herpetológica a que disponibilice los datos asoci
 Has disponibles los datos (audios y tablas crudas) en cualquier repositorio con la filosofía [FAIR](https://www.go-fair.org/fair-principles/). Actualmente existen muchos repositorios bajo esta iniciativa. Aquí mencionamos algunos:
 
 Repositorios de datos bioacústicos:<br>
-[Colección de Sonidos Ambientales IAVH](http://colecciones.humboldt.org.co/sonidos/)<br>
+[Colección de Sonidos Ambientales IAVH](http://colecciones.humboldt.org.co/sonidos/), ver tutorial <a href="https://youtu.be/g9_ytBvgeR4">aquí</a><br>
 [iNaturalist](https://www.inaturalist.org/)<br>
 [xeno-canto](https://xeno-canto.org/)
 
