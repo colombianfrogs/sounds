@@ -55,15 +55,15 @@ Invitamos a toda la comunidad herpetológica a que disponibilice los datos asoci
 Has disponibles los datos (audios y tablas crudas) en cualquier repositorio con la filosofía [FAIR](https://www.go-fair.org/fair-principles/). Actualmente existen muchos repositorios bajo esta iniciativa. Aquí mencionamos algunos:
 
 Repositorios de datos bioacústicos:<br>
-[Colección de Sonidos Ambientales IAVH](http://colecciones.humboldt.org.co/sonidos/), ver tutorial <a href="https://youtu.be/g9_ytBvgeR4">aquí</a><br>
+[Colección de Sonidos Ambientales IAVH](http://colecciones.humboldt.org.co/sonidos/), ver tutorial <a href="https://youtu.be/g9_ytBvgeR4" target="_blank">aquí</a><br>
 [iNaturalist](https://www.inaturalist.org/)<br>
 [xeno-canto](https://xeno-canto.org/)
 
 Repositorios de datos de investigación:<br>
-[Figshare](https://figshare.com/), ver nuestro tutorial <a href="https://www.youtube.com/watch?v=sHUGRurU01c&t=2s">aquí</a><br>
-[zenodo](https://zenodo.com/), ver nuestro tutorial <a href="https://www.youtube.com/watch?v=yRXnh_59sQY&t=5s">aquí</a>
+[Figshare](https://figshare.com/), ver nuestro tutorial <a href="https://www.youtube.com/watch?v=sHUGRurU01c&t=2s" target="_blank">aquí</a><br>
+[zenodo](https://zenodo.com/), ver nuestro tutorial <a href="https://www.youtube.com/watch?v=yRXnh_59sQY&t=5s" target="_blank">aquí</a>
 
-Si disponibilizas los datos en repositorios que no te solicitan metadatos específicos para tus audios (e.g., Figshare, zenodo), te recomendamos que incluyas al menos esta información (Descarga la tabla <a href="https://docs.google.com/spreadsheets/d/16WcxUUv3ehSloq5FdqNAvmcPJsQCRMj0/edit?usp=sharing&ouid=116374556105233109762&rtpof=true&sd=true">aquí</a>) junto con tus audios. Esto hará que tus datos sean interoperables con otros repositorios y que además puedan ser visualizados en este sitio.
+Si disponibilizas los datos en repositorios que no te solicitan metadatos específicos para tus audios (e.g., Figshare, zenodo), te recomendamos que incluyas al menos esta información (Descarga la tabla <a href="https://docs.google.com/spreadsheets/d/16WcxUUv3ehSloq5FdqNAvmcPJsQCRMj0/edit?usp=sharing&ouid=116374556105233109762&rtpof=true&sd=true" target="_blank">aquí</a>) junto con tus audios. Esto hará que tus datos sean interoperables con otros repositorios y que además puedan ser visualizados en este sitio.
 
 #### Cuéntanos
 Regularmente estamos actualizando los audios disponibles de anfibios, en CSA-IAVH, iNaturalist y xeno-canto, que representan la mayoría de datos disponibles para Colombia. Sin embargo, no tenemos como saber qué datos se están incluyendo en otros repositorios. Te invitamos a que nos cuentes dónde depositas tus cantos y datos y así podremos visualizarlos en este sitio.
