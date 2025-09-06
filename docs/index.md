@@ -60,7 +60,19 @@ Nuestra principal motivación son los [principios FAIR](https://www.go-fair.org/
 
 A diciembre de 2024 hemos incluido **1577 audios** disponibles en cuatro repositorios ([CSA-IAVH](http://colecciones.humboldt.org.co/sonidos/), [iNaturalist](https://www.inaturalist.org/projects/amphibians-and-reptiles-of-colombia), [Figshare](https://figshare.com/) y [xeno-canto](https://xeno-canto.org/)). De estos, **257** audios pertenecen a especimenes depositados en seis colecciones biológicas del país.
 
-Esperamos que este sitio motive a la comunidad a seguir depositando sus datos acústicos en diferentes repositorios de libre acceso. <a href="mailto:col.sonidos.colombia@gmail.com">escríbenos</a>
+Esperamos que este sitio motive a la comunidad a seguir depositando sus datos acústicos en diferentes repositorios de libre acceso. <a href="mailto:juanm.daza@udea.edu.co">escríbenos</a>
+
+## Calidad de los datos
+
+Los datos acústicos en anuros, al igual que cualquier otro tipo de información biológica, están sujetos a diversos factores que afectan su calidad y, por ende, su utilidad para análisis posteriores. En primer lugar, se encuentra la <strong>incertidumbre taxonómica</strong>. Muchas especies no pueden ser identificadas de manera confiable únicamente mediante observación; en estos casos, es indispensable la colecta de un ejemplar de referencia (voucher), que permita confirmar o revisar la identificación en caso de dudas. Esta práctica es común entre herpetólogos, especialmente cuando se busca publicar formalmente descripciones de cantos. Sin embargo, gran parte de los audios depositados en repositorios carecen de ejemplares asociados.
+
+En segundo lugar, la <strong>calidad técnica de la grabación</strong> varía considerablemente según el equipo utilizado. Existen registros obtenidos con dispositivos tan básicos como teléfonos móviles hasta grabadoras especializadas acopladas a micrófonos de alta sensibilidad.
+
+Un tercer factor es la <strong>heterogeneidad en la experiencia del observador</strong>. Esto es particularmente evidente en repositorios de ciencia ciudadana (e.g., iNaturalist, Xeno-Canto), donde participan usuarios con distintos niveles de conocimiento técnico.
+
+Finalmente, intervienen <strong>condiciones externas difíciles de controlar</strong>, como el ruido ambiental, la superposición de cantos de otras especies o la distancia entre el emisor y el micrófono, que pueden reducir la calidad del registro.
+
+En este contexto, quienes utilicen audios provenientes de repositorios deben considerar cuidadosamente estas limitaciones. La ciencia no requiere ser perfecta, pero sí transparente: reconocer las debilidades de los datos disponibles es el primer paso para mejorar continuamente la calidad de las inferencias que hacemos en bioacústica.
 
 ## Explorar los datos con especímen voucher
 
