@@ -103,6 +103,7 @@ En esta sección incorporamos especies individuales conforme vamos identificando
 - [Pristimantis cryptopictus](./species/Pristimantis_cryptopictus.md)
 - [Pristimantis dorsopictus](./species/Pristimantis_dorsopictus.md)
 - [Pristimantis erythropleura](./species/Pristimantis_erythropleura.md)
+- [Pristimantis gaigei](./species/Pristimantis_gaigei.md)
 - [Pristimantis peraticus](./species/Pristimantis_peraticus.md)
 - [Pristimantis piceus](./species/Pristimantis_piceus.md)
 - [Pristimantis simoterus](./species/Pristimantis_simoterus.md)
