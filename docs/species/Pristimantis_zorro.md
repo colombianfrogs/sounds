@@ -77,7 +77,7 @@ function openTab(evt, tabName) {
 
 <!-- Seccion Datos -->
 <div id="tabLefr" class="tabcontent">
-  <p>Fonozoo <a href="https://www.fonozoo.com/fnz_detalles_registro.php?tipo_registro=2URLid=22961">https://www.fonozoo.com/fnz_detalles_registro.php?tipo_registro=2URLid=22961</a>.</p>
+  <p>Fonozoo <a href="https://www.fonozoo.com/fnz_detalles_registro.php?tipo_registro=2&id=22961" target="_blank">MHUAA 8813</a></p>
 </div>
 
 Publicaciones que incorporan sonidos de esta especie:
