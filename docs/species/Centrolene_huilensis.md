@@ -87,8 +87,11 @@ function openTab(evt, tabName) {
 <!-- Seccion Datos -->
 <div id="dat" class="tabcontent">
   <p><strong>Disponibles en CSA-IAVH</strong></p>
-  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34233/IAvH-CSA-34233.wav." target="_blank">IAVH-CSA-34233</a>
-  </p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34233/IAvH-CSA-34233.wav." target="_blank">IAVH-CSA-34233</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34234/IAvH-CSA-34234.wav." target="_blank">IAVH-CSA-34234</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34235/IAvH-CSA-34235.wav." target="_blank">IAVH-CSA-34235</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34236/IAvH-CSA-34236.wav." target="_blank">IAVH-CSA-34236</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34237/IAvH-CSA-34237.wav." target="_blank">IAVH-CSA-34237</a></p>
 </div>
 
 <!-- Seccion Publicaciones -->
