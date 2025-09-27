@@ -86,10 +86,19 @@ function openTab(evt, tabName) {
 
 <!-- Seccion Datos -->
 <div id="dat" class="tabcontent">
+
+  <p><strong>Disponibles en CSA-IAVH</strong></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34369/IAvH-CSA-34369.wav" target="_blank">IAVH-CSA-34369</a></p>
+
   <p><strong>Disponible en Figshare</strong></p>
   <p>Chaves-Portilla, G. (2024). Rhaebo haematiticus. figshare. Media.  
     <a href="https://doi.org/10.6084/m9.figshare.27642336.v1" target="_blank">https://doi.org/10.6084/m9.figshare.27642336.v1</a>
   </p>
+
+  <p><strong>Disponibles en iNaturalist</strong></p>
+  <p><a href="https://www.inaturalist.org/observations?place_id=7196&sounds&taxon_id=67078" target="_blank">Rhaebo haematiticus</a>
+  </p>
+  
 </div>
 
 <!-- Seccion Publicaciones -->
