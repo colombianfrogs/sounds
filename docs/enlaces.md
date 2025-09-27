@@ -44,19 +44,20 @@ p {
 
 ## Sitios con audios de especies colombianas
 
-[Colección de Sonidos Ambientales IAVH](http://colecciones.humboldt.org.co/sonidos/)<br>
-[Santander Herpetológico](https://www.santanderherps.com/)<br>
-[Fonozoo](https://www.fonozoo.com/)<br>
-[Anfibios Norte de Santander](https://anfibiacallsns.web.app/)<br>
-[Museo de Historia Natural Unillanos](https://mhnu.unillanos.edu.co/entrelazos/sound.html)<br>
-[Batrachia](https://www.batrachia.com/cantos-de-ranas-en-colombia/)<br>
-[iNaturalist](https://www.inaturalist.org/projects/amphibians-and-reptiles-of-colombia)<br>
-[Figshare](https://figshare.com/)<br>
-[xeno-canto](https://xeno-canto.org/)<br>
-[AmphibiaWeb Ecuador](https://bioweb.bio/faunaweb/amphibiaweb/Cantos/)
+<a href="http://colecciones.humboldt.org.co/sonidos/" target="_blank" rel="noopener noreferrer">Colección de Sonidos Ambientales IAVH</a><br>
+<a href="https://www.santanderherps.com/" target="_blank" rel="noopener noreferrer">Santander Herpetológico</a><br>
+<a href="https://www.fonozoo.com/" target="_blank" rel="noopener noreferrer">Fonozoo</a><br>
+<a href="https://anfibiacallsns.web.app/" target="_blank" rel="noopener noreferrer">Anfibios Norte de Santander</a><br>
+<a href="https://mhnu.unillanos.edu.co/entrelazos/sound.html" target="_blank" rel="noopener noreferrer">Museo de Historia Natural Unillanos</a><br>
+<a href="https://www.batrachia.com/cantos-de-ranas-en-colombia/" target="_blank" rel="noopener noreferrer">Batrachia</a><br>
+<a href="https://www.inaturalist.org/projects/amphibians-and-reptiles-of-colombia" target="_blank" rel="noopener noreferrer">iNaturalist</a><br>
+<a href="https://figshare.com/" target="_blank" rel="noopener noreferrer">Figshare</a><br>
+<a href="https://xeno-canto.org/" target="_blank" rel="noopener noreferrer">xeno-canto</a><br>
+<a href="https://bioweb.bio/faunaweb/amphibiaweb/Cantos/" target="_blank" rel="noopener noreferrer">AmphibiaWeb Ecuador</a><br>
 
 ## Recursos en Bioacústica
-[Bioacoustics Talks](https://www.birds.cornell.edu/ccb/bioacoustalks/)
+
+<a href="https://www.birds.cornell.edu/ccb/bioacoustalks/" target="_blank" rel="noopener noreferrer">Bioacoustics Talks</a>
 
 
 
