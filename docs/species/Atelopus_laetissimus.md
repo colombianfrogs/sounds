@@ -106,6 +106,10 @@ function openTab(evt, tabName) {
   <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34164/IAvH-CSA-34164.wav" target="_blank">IAVH-CSA-34164</a></p>
 </div>
 
+  <p><strong>Disponibles en iNaturalist</strong></p>
+  <p><a href="https://www.inaturalist.org/observations?place_id=7196&sounds&taxon_id=21663" target="_blank">Atelopus laetissimus</a>
+  </p>
+
 <!-- Seccion Publicaciones -->
 <div id="pubs" class="tabcontent">
   <p><strong>Rueda–Solano, L. A., Gonzalez Pérez, Jl., Rivera-Correa, M., and Vargas Salinas, F.</strong> 2020. Acoustic signal diversity in the Harlequin Toad <i>Atelopus laetissimus</i> (Anura: Bufonidae). <i>Copeia</i> 108(3): 503–513.  
