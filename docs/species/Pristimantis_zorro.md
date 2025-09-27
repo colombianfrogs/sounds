@@ -51,19 +51,20 @@ function openTab(evt, tabName) {
 <!-- Species presentation -->
 <div style="text-align: center;">
   <h2><i>Pristimantis zorro</i></h2>
-  <h4>Rivera-Correa & Daza, 2020</h4>
+  <h4>Rivera-Correa {{AUTHOR}} Daza, 2020</h4>
   <img src="{{ site.baseurl }}/images/especie_Pristimantis_zorro.png" style="width:15cm;">
 </div>
 
+#### Señal acústica
+
 <!-- Tabs section -->
 <div class="tab">
-  <button class="tablinks" onclick="openTab(event, 'EspectroLefr')">Espectrograma</button>
-  <button class="tablinks" onclick="openTab(event, 'figLefr')">Figura</button>
-  <button class="tablinks" onclick="openTab(event, 'tabLefr')">Datos</button>
+  <button class="tablinks" onclick="openTab(event, 'Espectro')">Espectrograma</button>
+  <button class="tablinks" onclick="openTab(event, 'fig')">Figura</button>
 </div>
 
 <!-- Seccion Espectrograma -->
-<div id="EspectroLefr" class="tabcontent" style="text-align: center;">
+<div id="Espectro" class="tabcontent" style="text-align: center;">
   <video width="100%" height="auto" controls>
     <source src="{{ site.baseurl }}/Espectrograms/dyna_Pristimantis_zorro.mp4" type="video/mp4">
     Tu navegador no soporta el elemento de video.
@@ -71,15 +72,35 @@ function openTab(evt, tabName) {
 </div>
 
 <!-- Seccion Figura -->
-<div id="figLefr" class="tabcontent" style="text-align: center;">
+<div id="fig" class="tabcontent" style="text-align: center;">
   <img src="{{ site.baseurl }}/images/spec_Pristimantis_zorro.png" style="width:15cm;">
 </div>
 
-<!-- Seccion Datos -->
-<div id="tabLefr" class="tabcontent">
-  <p>Fonozoo <a href="https://www.fonozoo.com/fnz_detalles_registro.php?tipo_registro=2&id=22961" target="_blank">MHUAA 8813</a></p>
+#### Disponibilidad de datos
+
+<!-- Tabs section -->
+<div class="tab">
+  <button class="tablinks" onclick="openTab(event, 'dat')">Datos</button>
+  <button class="tablinks" onclick="openTab(event, 'pubs')">Publicaciones</button>
 </div>
 
-Publicaciones que incorporan sonidos de esta especie:
-<br><br>
-<strong>Rivera-Correa, M. & Daza, J.M.</strong> 2018. 2020. Out of the blue: A new rain frog species of the genus <i>Pristimantis</i> (Anura: Craugastoridae) from the northern Cordillera Central in Colombia. <i>Zootaxa</i> 4838: 83--101. <a href="https://doi.org/10.11646/zootaxa.4838.1.4">https://doi.org/10.11646/zootaxa.4838.1.4</a>
+<!-- Seccion Datos -->
+<div id="dat" class="tabcontent">
+  <p><strong>Disponibles en Figshare</strong></p>
+  <p>NA 
+    <a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34768/IAvH-CSA-34768.wav; https://www.inaturalist.org/observations?place_id=7196&sounds&taxon_id=1125831" target="_blank">http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34768/IAvH-CSA-34768.wav; https://www.inaturalist.org/observations?place_id=7196&sounds&taxon_id=1125831</a>
+  </p>
+  <p><strong>Disponibles en iNaturalist</strong></p>
+  <p><a href="NA" target="_blank">Pristimantis zorro</a>
+  </p>
+  <p><strong>Disponibles en CSA-IAVH</strong></p>
+  <p><a href="" target="_blank">codigo</a>
+  </p>
+</div>
+
+<!-- Seccion Publicaciones -->
+<div id="pubs" class="tabcontent">
+  <p><strong>Autor_aqui</strong>Rivera-Correa, M. & Daza, J.M. 2018. 2020. Out of the blue: A new rain frog species of the genus Pristimantis (Anura: Craugastoridae) from the northern Cordillera Central in Colombia. Zootaxa 4838: 83–101. https://doi.org/10.11646/zootaxa.4838.1.4. 
+  <a href="https://doi.org/10.11646/zootaxa.4838.1.4" target="_blank">https://doi.org/10.11646/zootaxa.4838.1.4</a></p>
+  <p><strong>***</strong><i></i></p>
+</div>

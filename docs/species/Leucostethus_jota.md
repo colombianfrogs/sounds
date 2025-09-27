@@ -51,19 +51,20 @@ function openTab(evt, tabName) {
 <!-- Species presentation -->
 <div style="text-align: center;">
   <h2><i>Leucostethus jota</i></h2>
-  <h4>Marín-Castaño, Molina-Zuluaga, Restrepo, Cano, & Daza, 2018</h4>
+  <h4>Marín-Castaño, Molina-Zuluaga, Restrepo, Cano y Daza-R., 2018</h4>
   <img src="{{ site.baseurl }}/images/especie_Leucostethus_jota.png" style="width:15cm;">
 </div>
 
+#### Señal acústica
+
 <!-- Tabs section -->
 <div class="tab">
-  <button class="tablinks" onclick="openTab(event, 'EspectroLefr')">Espectrograma</button>
-  <button class="tablinks" onclick="openTab(event, 'figLefr')">Figura</button>
-  <button class="tablinks" onclick="openTab(event, 'tabLefr')">Datos</button>
+  <button class="tablinks" onclick="openTab(event, 'Espectro')">Espectrograma</button>
+  <button class="tablinks" onclick="openTab(event, 'fig')">Figura</button>
 </div>
 
 <!-- Seccion Espectrograma -->
-<div id="EspectroLefr" class="tabcontent" style="text-align: center;">
+<div id="Espectro" class="tabcontent" style="text-align: center;">
   <video width="100%" height="auto" controls>
     <source src="{{ site.baseurl }}/Espectrograms/dyna_Leucostethus_jota.mp4" type="video/mp4">
     Tu navegador no soporta el elemento de video.
@@ -71,15 +72,35 @@ function openTab(evt, tabName) {
 </div>
 
 <!-- Seccion Figura -->
-<div id="figLefr" class="tabcontent" style="text-align: center;">
+<div id="fig" class="tabcontent" style="text-align: center;">
   <img src="{{ site.baseurl }}/images/spec_Leucostethus_jota.png" style="width:15cm;">
 </div>
 
-<!-- Seccion Datos -->
-<div id="tabLefr" class="tabcontent">
-  <p>Figshare <a href="https://doi.org/10.6084/m9.figshare.27798729.v2">https://doi.org/10.6084/m9.figshare.27798729.v2</a>.</p>
+#### Disponibilidad de datos
+
+<!-- Tabs section -->
+<div class="tab">
+  <button class="tablinks" onclick="openTab(event, 'dat')">Datos</button>
+  <button class="tablinks" onclick="openTab(event, 'pubs')">Publicaciones</button>
 </div>
 
-Publicaciones que incorporan sonidos de esta especie:
-<br><br>
-<strong>Marín, C.M., C. Molina-Zuluaga, A. Restrepo, E. Cano & J.M. Daza.</strong> 2018. A new species of <i>Leucostethus</i> (Anura: Dendrobatidae) from the eastern versant of the Central Cordillera of Colombia with comments on the phylogenetic position of <i>Colostethus fraterdanieli</i>. <i>Zootaxa</i> 4461: 359--380. <a href="https://doi.org/10.11646/zootaxa.4461.3.3">https://doi.org/10.11646/zootaxa.4461.3.3</a>
+<!-- Seccion Datos -->
+<div id="dat" class="tabcontent">
+  <p><strong>Disponibles en Figshare</strong></p>
+  <p>NA 
+    <a href="https://www.inaturalist.org/observations?place_id=7196&sounds&taxon_id=787624" target="_blank">https://www.inaturalist.org/observations?place_id=7196&sounds&taxon_id=787624</a>
+  </p>
+  <p><strong>Disponibles en iNaturalist</strong></p>
+  <p><a href="NA" target="_blank">Leucostethus jota</a>
+  </p>
+  <p><strong>Disponibles en CSA-IAVH</strong></p>
+  <p><a href="" target="_blank">codigo</a>
+  </p>
+</div>
+
+<!-- Seccion Publicaciones -->
+<div id="pubs" class="tabcontent">
+  <p><strong>Autor_aqui</strong>Marín, M.C., Molina-Zuluaga, C., Restrepo, A., Cano, E., Daza, J.M. (2018). A new species of Leucostethus (Anura: Dendrobatidae) from the eastern versant of the Central Cordillera of Colombia and the phylogenetic status of Colostethus fraterdanieli. Zootaxa 4461: 359–379. DOI: 10.11646/zootaxa.4461.3.3. 
+  <a href="DOI: 10.11646/zootaxa.4461.3.3" target="_blank">DOI: 10.11646/zootaxa.4461.3.3</a></p>
+  <p><strong>***</strong><i></i></p>
+</div>

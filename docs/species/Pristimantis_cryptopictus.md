@@ -51,19 +51,20 @@ function openTab(evt, tabName) {
 <!-- Species presentation -->
 <div style="text-align: center;">
   <h2><i>Pristimantis cryptopictus</i></h2>
-  <h4>Patiño-Ocampo, Duarte-Marín, & Rivera-Correa, 2022</h4>
+  <h4>Patiño-Ocampo, Duarte-Marín y Rivera-Correa, 2022</h4>
   <img src="{{ site.baseurl }}/images/especie_Pristimantis_cryptopictus.png" style="width:15cm;">
 </div>
 
+#### Señal acústica
+
 <!-- Tabs section -->
 <div class="tab">
-  <button class="tablinks" onclick="openTab(event, 'EspectroLefr')">Espectrograma</button>
-  <button class="tablinks" onclick="openTab(event, 'figLefr')">Figura</button>
-  <button class="tablinks" onclick="openTab(event, 'tabLefr')">Datos</button>
+  <button class="tablinks" onclick="openTab(event, 'Espectro')">Espectrograma</button>
+  <button class="tablinks" onclick="openTab(event, 'fig')">Figura</button>
 </div>
 
 <!-- Seccion Espectrograma -->
-<div id="EspectroLefr" class="tabcontent" style="text-align: center;">
+<div id="Espectro" class="tabcontent" style="text-align: center;">
   <video width="100%" height="auto" controls>
     <source src="{{ site.baseurl }}/Espectrograms/dyna_Pristimantis_cryptopictus.mp4" type="video/mp4">
     Tu navegador no soporta el elemento de video.
@@ -71,15 +72,35 @@ function openTab(evt, tabName) {
 </div>
 
 <!-- Seccion Figura -->
-<div id="figLefr" class="tabcontent" style="text-align: center;">
+<div id="fig" class="tabcontent" style="text-align: center;">
   <img src="{{ site.baseurl }}/images/spec_Pristimantis_cryptopictus.png" style="width:15cm;">
 </div>
 
-<!-- Seccion Datos -->
-<div id="tabLefr" class="tabcontent">
-  <p>Figshare <a href="https://doi.org/10.6084/m9.figshare.27798729.v2">https://doi.org/10.6084/m9.figshare.27798729.v2</a>.</p>
+#### Disponibilidad de datos
+
+<!-- Tabs section -->
+<div class="tab">
+  <button class="tablinks" onclick="openTab(event, 'dat')">Datos</button>
+  <button class="tablinks" onclick="openTab(event, 'pubs')">Publicaciones</button>
 </div>
 
-Publicaciones que incorporan sonidos de esta especie:
-<br><br>
-<strong>Patiño-Ocampo E., S. Duarte-Marín y M. Rivera-Correa.</strong> 2022. Genética, bioacústica y morfología revelan una nueva especie oculta en <i>Pristimantis dorsopictus</i> (Anura: Strabomantidae). <i>Revista Latinoamericana de Herpetología</i> 5: 60--90. <a href="https://doi.org/10.22201/fc.25942158e.2022.1.305 ">https://doi.org/10.22201/fc.25942158e.2022.1.305</a>
+<!-- Seccion Datos -->
+<div id="dat" class="tabcontent">
+  <p><strong>Disponibles en Figshare</strong></p>
+  <p>NA 
+    <a href="https://figshare.com/articles/media/Pristimantis_cryptopictus/27798729/2; https://www.inaturalist.org/observations?place_id=7196&sounds&taxon_id=1363699" target="_blank">https://figshare.com/articles/media/Pristimantis_cryptopictus/27798729/2; https://www.inaturalist.org/observations?place_id=7196&sounds&taxon_id=1363699</a>
+  </p>
+  <p><strong>Disponibles en iNaturalist</strong></p>
+  <p><a href="NA" target="_blank">Pristimantis cryptopictus</a>
+  </p>
+  <p><strong>Disponibles en CSA-IAVH</strong></p>
+  <p><a href="" target="_blank">codigo</a>
+  </p>
+</div>
+
+<!-- Seccion Publicaciones -->
+<div id="pubs" class="tabcontent">
+  <p><strong>Autor_aqui</strong>Patiño-Ocampo E., S. Duarte-Marín y M. Rivera-Correa. 2022. Genética, bioacústica y morfología revelan una nueva especie oculta en Pristimantis dorsopictus (Anura: Strabomantidae). Revista Latinoamericana de Herpetología 5: 60–90. https://doi.org/10.22201/fc.25942158e.2022.1.305. 
+  <a href="https://doi.org/10.22201/fc.25942158e.2022.1.305" target="_blank">https://doi.org/10.22201/fc.25942158e.2022.1.305</a></p>
+  <p><strong>***</strong><i></i></p>
+</div>
