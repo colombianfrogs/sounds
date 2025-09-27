@@ -89,11 +89,13 @@ function openTab(evt, tabName) {
   <p><strong>Disponibles en CSA-IAVH</strong></p>
   <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34760/IAvH-CSA-34760.wav" target="_blank">IAVH-CSA-34760</a></p>
   <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34762/IAvH-CSA-34762.wav" target="_blank">IAVH-CSA-34762</a></p>
-  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-3/IAvH-CSA-34763.wav" target="_blank">IAVH-CSA-34763</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34763/IAvH-CSA-34763.wav" target="_blank">IAVH-CSA-34763</a></p>
   <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34765/IAvH-CSA-34765.wav" target="_blank">IAVH-CSA-34765</a></p>
 
-  <p><strong>Disponibles en </strong><a href="https://www.inaturalist.org/observations?sounds&taxon_id=135045" target="_blank">iNaturalist</a></p>
+  <p><strong>Disponibles en iNaturalist</strong></p>
+  <p><a href="https://www.inaturalist.org/observations?sounds&taxon_id=135045" target="_blank">Andinobates opisthomelas</a></p>
 
+  <p><strong>Disponibles en </strong><a href="" target="_blank">iNaturalist</a></p>
 
 </div>
 
