@@ -104,11 +104,11 @@ function openTab(evt, tabName) {
   <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34162/IAvH-CSA-34162.wav" target="_blank">IAVH-CSA-34162</a></p>
   <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34163/IAvH-CSA-34163.wav" target="_blank">IAVH-CSA-34163</a></p>
   <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34164/IAvH-CSA-34164.wav" target="_blank">IAVH-CSA-34164</a></p>
-</div>
 
   <p><strong>Disponibles en iNaturalist</strong></p>
   <p><a href="https://www.inaturalist.org/observations?place_id=7196&sounds&taxon_id=21663" target="_blank">Atelopus laetissimus</a>
   </p>
+</div>
 
 <!-- Seccion Publicaciones -->
 <div id="pubs" class="tabcontent">
