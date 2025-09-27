@@ -86,10 +86,15 @@ function openTab(evt, tabName) {
 
 <!-- Seccion Datos -->
 <div id="dat" class="tabcontent">
-  <p><strong>Disponible en Figshare</strong></p>
+  <p><strong>Disponibles en Figshare</strong></p>
   <p>Chaves Portilla, Giovanni (2024). Andinobates supata. figshare. Media.  
     <a href="https://doi.org/10.6084/m9.figshare.27642402.v1" target="_blank">https://doi.org/10.6084/m9.figshare.27642402.v1</a>
   </p>
+  
+  <p><strong>Disponibles en iNaturalist</strong></p>
+  <p><a href="https://www.inaturalist.org/observations?place_id=7196&sounds&taxon_id=1292234" target="_blank">Andinobates supata</a>
+  </p>
+  
 </div>
 
 <!-- Seccion Publicaciones -->
