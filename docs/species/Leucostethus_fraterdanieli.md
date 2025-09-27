@@ -55,15 +55,16 @@ function openTab(evt, tabName) {
   <img src="{{ site.baseurl }}/images/especie_Leucostethus_fraterdanieli.png" style="width:15cm;">
 </div>
 
+#### Señal acústica
+
 <!-- Tabs section -->
 <div class="tab">
-  <button class="tablinks" onclick="openTab(event, 'EspectroLefr')">Espectrograma</button>
-  <button class="tablinks" onclick="openTab(event, 'figLefr')">Figura</button>
-  <button class="tablinks" onclick="openTab(event, 'tabLefr')">Datos</button>
+  <button class="tablinks" onclick="openTab(event, 'Espectro')">Espectrograma</button>
+  <button class="tablinks" onclick="openTab(event, 'fig')">Figura</button>
 </div>
 
 <!-- Seccion Espectrograma -->
-<div id="EspectroLefr" class="tabcontent" style="text-align: center;">
+<div id="Espectro" class="tabcontent" style="text-align: center;">
   <video width="100%" height="auto" controls>
     <source src="{{ site.baseurl }}/Espectrograms/dyna_Leucostethus_fraterdanieli.mp4" type="video/mp4">
     Tu navegador no soporta el elemento de video.
@@ -71,15 +72,35 @@ function openTab(evt, tabName) {
 </div>
 
 <!-- Seccion Figura -->
-<div id="figLefr" class="tabcontent" style="text-align: center;">
+<div id="fig" class="tabcontent" style="text-align: center;">
   <img src="{{ site.baseurl }}/images/spec_Leucostethus_fraterdanieli.png" style="width:15cm;">
 </div>
 
-<!-- Seccion Datos -->
-<div id="tabLefr" class="tabcontent">
-  <p>Figshare <a href="https://doi.org/10.6084/m9.figshare.27798729.v2">https://doi.org/10.6084/m9.figshare.27798729.v2</a>.</p>
+#### Disponibilidad de datos
+
+<!-- Tabs section -->
+<div class="tab">
+  <button class="tablinks" onclick="openTab(event, 'dat')">Datos</button>
+  <button class="tablinks" onclick="openTab(event, 'pubs')">Publicaciones</button>
 </div>
 
-Publicaciones que incorporan sonidos de esta especie:
-<br><br>
-<strong>Marín, C.M., C. Molina-Zuluaga, A. Restrepo, E. Cano & J.M. Daza.</strong> 2018. A new species of <i>Leucostethus</i> (Anura: Dendrobatidae) from the eastern versant of the Central Cordillera of Colombia with comments on the phylogenetic position of <i>Colostethus fraterdanieli</i>. <i>Zootaxa</i> 4461: 359--380. <a href="https://doi.org/10.11646/zootaxa.4461.3.3">https://doi.org/10.11646/zootaxa.4461.3.3</a>
+<!-- Seccion Datos -->
+<div id="dat" class="tabcontent">
+  <p><strong>Disponibles en Figshare</strong></p>
+  <p>NA 
+    <a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-18683/IAvH-CSA-18683.wav; http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-30545/IAvH-CSA-30545.wav; http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-30546/IAvH-CSA-30546.wav; http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34764/IAvH-CSA-34764.wav; http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-35773/IAvH-CSA-35773.wav; https://www.inaturalist.org/observations?place_id=7196&sounds&taxon_id=787625" target="_blank">http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-18683/IAvH-CSA-18683.wav; http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-30545/IAvH-CSA-30545.wav; http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-30546/IAvH-CSA-30546.wav; http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34764/IAvH-CSA-34764.wav; http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-35773/IAvH-CSA-35773.wav; https://www.inaturalist.org/observations?place_id=7196&sounds&taxon_id=787625</a>
+  </p>
+  <p><strong>Disponibles en iNaturalist</strong></p>
+  <p><a href="NA" target="_blank">Leucostethus fraterdanieli</a>
+  </p>
+  <p><strong>Disponibles en CSA-IAVH</strong></p>
+  <p><a href="" target="_blank">codigo</a>
+  </p>
+</div>
+
+<!-- Seccion Publicaciones -->
+<div id="pubs" class="tabcontent">
+  <p><strong>Autor_aqui</strong>Marín, M.C., Molina-Zuluaga, C., Restrepo, A., Cano, E., Daza, J.M. (2018). A new species of Leucostethus (Anura: Dendrobatidae) from the eastern versant of the Central Cordillera of Colombia and the phylogenetic status of Colostethus fraterdanieli. Zootaxa 4461: 359–379. DOI: 10.11646/zootaxa.4461.3.3. 
+  <a href="DOI: 10.11646/zootaxa.4461.3.3" target="_blank">DOI: 10.11646/zootaxa.4461.3.3</a></p>
+  <p><strong>***</strong><i></i></p>
+</div>
