@@ -95,8 +95,6 @@ function openTab(evt, tabName) {
   <p><strong>Disponibles en iNaturalist</strong></p>
   <p><a href="https://www.inaturalist.org/observations?sounds&taxon_id=135045" target="_blank">Andinobates opisthomelas</a></p>
 
-  <p><strong>Disponibles en </strong><a href="" target="_blank">iNaturalist</a></p>
-
 </div>
 
 <!-- Seccion Publicaciones -->
