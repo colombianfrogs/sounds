@@ -88,13 +88,13 @@ function openTab(evt, tabName) {
 <div id="dat" class="tabcontent">
   <p><strong>Disponible en Figshare</strong></p>
   <p>Rivera-Correa, M. (2024). Craugastor metriosistus. figshare. Media. 
-    <a href="https://doi.org/10.6084/m9.figshare.27798534.v4" target="_blank">https://doi.org/10.6084/m9.figshare.27798534.v3</a>
+    <a href="https://doi.org/10.6084/m9.figshare.27798534.v3" target="_blank">https://doi.org/10.6084/m9.figshare.27798534.v3</a>
   </p>
 </div>
 
 <!-- Seccion Publicaciones -->
 <div id="pubs" class="tabcontent">
-  <p>Ospina-Sarria, J. J., Angarita-Sierra, T., and Pedroza-Banda, R. 2015. A new species of Craugastor (Anura: Craugastoridae) from the Magdalena River Valley, Colombia, with evaluation of the characters used to identify species of the <i>Craugastor fitzingeri</i> group. <i>South American Journal of Herpetology</i> 10: 1653–177.  
+  <p><strong>Ospina-Sarria, J. J., Angarita-Sierra, T., and Pedroza-Banda, R.</strong> 2015. A new species of Craugastor (Anura: Craugastoridae) from the Magdalena River Valley, Colombia, with evaluation of the characters used to identify species of the <i>Craugastor fitzingeri</i> group. <i>South American Journal of Herpetology</i> 10: 1653–177.  
   <a href="https://doi.org/10.2994/SAJH-D-14-00014.1" target="_blank">http://doi.org/10.2994/SAJH-D-14-00014.1.</a></p>
   <p><strong>***</strong><i>El artículo donde se publicó el canto de advertencia no disponibiliza los audios y datos asociados.</i></p>
   <p><strong>***</strong><i>El audio disponible en Figshare corresponde al voucher de Sarria et al. 2015</i></p>  
