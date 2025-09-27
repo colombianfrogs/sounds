@@ -86,11 +86,30 @@ function openTab(evt, tabName) {
 
 <!-- Seccion Datos -->
 <div id="dat" class="tabcontent">
+
+  <p><strong>Disponibles en CSA-IAVH</strong></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34493/IAvH-CSA-34493.wav" target="_blank">IAVH-CSA-34493</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34493/IAvH-CSA-34494.wav" target="_blank">IAVH-CSA-34494</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34493/IAvH-CSA-34495.wav" target="_blank">IAVH-CSA-34495</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34493/IAvH-CSA-34496.wav" target="_blank">IAVH-CSA-34496</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34493/IAvH-CSA-34497.wav" target="_blank">IAVH-CSA-34497</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34493/IAvH-CSA-34498.wav" target="_blank">IAVH-CSA-34498</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34493/IAvH-CSA-34499.wav" target="_blank">IAVH-CSA-34499</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34493/IAvH-CSA-34500.wav" target="_blank">IAVH-CSA-34500</a></p>  
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34149/IAvH-CSA-35775.wav" target="_blank">IAVH-CSA-35775</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34150/IAvH-CSA-36266.wav" target="_blank">IAVH-CSA-36266</a></p>
+
   <p><strong>Disponibles en Figshare</strong></p>
   <p>Chaves-Portilla, G. (2024). Rhinella horribilis. figshare. Media.  
     <a href="https://doi.org/10.6084/m9.figshare.27640617.v2" target="_blank">https://doi.org/10.6084/m9.figshare.27640617.v2</a>
   </p>
+  
+  <p><strong>Disponibles en iNaturalist</strong></p>
+  <p><a href="https://www.inaturalist.org/observations?place_id=7196&sounds&taxon_id=517119" target="_blank">Rhinella horribilis</a>
+  </p>
+  
 </div>
+
 
 <!-- Seccion Publicaciones -->
 <div id="pubs" class="tabcontent">
