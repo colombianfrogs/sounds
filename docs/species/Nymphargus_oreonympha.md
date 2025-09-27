@@ -87,14 +87,13 @@ function openTab(evt, tabName) {
 <!-- Seccion Datos -->
 <div id="dat" class="tabcontent">
   <p><strong>Disponibles en CSA-IAVH</strong></p>
-  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34241/IAvH-CSA-34241.wav">IAVH-CSA-34241</a></p>
-  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34242/IAvH-CSA-34242.wav">IAVH-CSA-34242</a></p>
-  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34243/IAvH-CSA-34243.wav">IAVH-CSA-34243</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34241/IAvH-CSA-34241.wav" target="_blank">IAVH-CSA-34241</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34242/IAvH-CSA-34242.wav" target="_blank">IAVH-CSA-34242</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34243/IAvH-CSA-34243.wav" target="_blank">IAVH-CSA-34243</a></p>
 </div>
 
 <!-- Seccion Publicaciones -->
 <div id="pubs" class="tabcontent">
   <p><strong>Mendoza-Henao, A. M., Duarte-Marin, S., and Rada, M.</strong> 2021. Advertisement calls of six glassfrog species in the Colombian Andes, and comments on priorities for future research and conservation. <i>Amphibian and Reptile Conservation</i> 15: 156-171. 
-  <a href="https://archive.org/details/biostor-286493" target="_blank">{{URL}}</a></p>
-
+  <a href="https://archive.org/details/biostor-286491" target="_blank">https://archive.org/details/biostor-286491</a></p>
 </div>
