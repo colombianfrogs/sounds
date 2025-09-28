@@ -87,6 +87,10 @@ function openTab(evt, tabName) {
 <!-- Seccion Datos -->
 <div id="dat" class="tabcontent">
 
+  <p><strong>Disponibles en Figshare</strong></p>
+  <p>Daza, J.M. 2025. Acoustic data of Leucostethus jota (Anura: Dendrobatidae). figshare. Dataset.   
+    <a href="https://doi.org/10.6084/m9.figshare.30228511.v1" target="_blank">https://doi.org/10.6084/m9.figshare.30228511.v1</a></p>
+
   <p><strong>Disponibles en iNaturalist</strong></p>
   <p><a href="https://www.inaturalist.org/observations?place_id=7196&sounds&taxon_id=787624" target="_blank">Leucostethus jota</a></p>
 
