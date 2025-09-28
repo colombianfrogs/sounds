@@ -86,21 +86,16 @@ function openTab(evt, tabName) {
 
 <!-- Seccion Datos -->
 <div id="dat" class="tabcontent">
-  <p><strong>Disponibles en Figshare</strong></p>
-  <p>NA 
-    <a href="https://www.inaturalist.org/observations?place_id=7196&sounds&taxon_id=787624" target="_blank">https://www.inaturalist.org/observations?place_id=7196&sounds&taxon_id=787624</a>
-  </p>
+
   <p><strong>Disponibles en iNaturalist</strong></p>
-  <p><a href="NA" target="_blank">Leucostethus jota</a>
-  </p>
-  <p><strong>Disponibles en CSA-IAVH</strong></p>
-  <p><a href="" target="_blank">codigo</a>
-  </p>
+  <p><a href="https://www.inaturalist.org/observations?place_id=7196&sounds&taxon_id=787624" target="_blank">Leucostethus jota</a></p>
+
 </div>
 
 <!-- Seccion Publicaciones -->
 <div id="pubs" class="tabcontent">
-  <p><strong>Autor_aqui</strong>Marín, M.C., Molina-Zuluaga, C., Restrepo, A., Cano, E., Daza, J.M. (2018). A new species of Leucostethus (Anura: Dendrobatidae) from the eastern versant of the Central Cordillera of Colombia and the phylogenetic status of Colostethus fraterdanieli. Zootaxa 4461: 359–379. DOI: 10.11646/zootaxa.4461.3.3. 
-  <a href="DOI: 10.11646/zootaxa.4461.3.3" target="_blank">DOI: 10.11646/zootaxa.4461.3.3</a></p>
-  <p><strong>***</strong><i></i></p>
+
+  <p><strong>Marín, M.C., Molina-Zuluaga, C., Restrepo, A., Cano, E., Daza, J.M. </strong>2018. A new species of <i>Leucostethus</i> (Anura: Dendrobatidae) from the eastern versant of the Central Cordillera of Colombia and the phylogenetic status of Colostethus fraterdanieli. <i>Zootaxa</i> 4461: 359–379. 
+  <a href="https://doi.org/10.11646/zootaxa.4464.3.3" target="_blank">10.11646/zootaxa.4461.3.3</a></p>
+
 </div>
