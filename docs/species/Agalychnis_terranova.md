@@ -86,10 +86,10 @@ function openTab(evt, tabName) {
 
 <!-- Seccion Datos -->
 <div id="dat" class="tabcontent">
-  <p><strong>Disponibles en Figshare</strong></p>
-  <p>Chaves-Portilla, G. 2024. <em>Agalychnis terranova</em>. figshare. Media. 
-    <a href="https://doi.org/10.6084/m9.figshare.27642198.v1"> https://doi.org/10.6084/m9.figshare.27642198.v1</a>
-  </p>
+  
+  <p><strong>Disponibles en Figshare</strong></p> 
+  <p>Chaves-Portilla G, Rueda-Solano LA, Daza JM. 2024. <em>Agalychnis terranova</em>. figshare. Media.<a href="https://doi.org/10.6084/m9.figshare.27637980.v2" target="_blank">https://doi.org/10.6084/m9.figshare.27637980.v2</a></p>
+
 </div>
 
 <!-- Seccion Publicaciones -->
