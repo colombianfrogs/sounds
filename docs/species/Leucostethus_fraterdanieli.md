@@ -94,6 +94,10 @@ function openTab(evt, tabName) {
   <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34764/IAvH-CSA-34764.wav" target="_blank">IAvH-CSA-34764</a></p>
   <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-35773/IAvH-CSA-35773.wav" target="_blank">IAvH-CSA-35773</a></p>
 
+  <p><strong>Disponibles en Figshare</strong></p>
+  <p>Daza, J.M. 2025. Acoustic data of Leucostethus fraterdanieli (Anura: Dendrobatidae). figshare. Dataset.   
+    <a href="https://doi.org/10.6084/m9.figshare.30228487.v1" target="_blank">https://doi.org/10.6084/m9.figshare.30228487.v1</a></p>
+
   <p><strong>Disponibles en iNaturalist</strong></p>
   <p><a href="https://www.inaturalist.org/observations?place_id=7196&sounds&taxon_id=787625" target="_blank">Leucostethus fraterdanieli</a></p>
 
