@@ -102,7 +102,7 @@ function openTab(evt, tabName) {
 <!-- Seccion Publicaciones -->
 <div id="pubs" class="tabcontent">
 
-  <p><strong>Marín, M.C., Molina-Zuluaga, C., Restrepo, A., Cano, E., Daza, J.M. </strong>2018. A new species of <i>Leucostethus</i> (Anura: Dendrobatidae) from the eastern versant of the Central Cordillera of Colombia and the phylogenetic status of Colostethus fraterdanieli. <i>Zootaxa</i> 4461: 359–379. 
+  <p><strong>Marín, M.C., Molina-Zuluaga, C., Restrepo, A., Cano, E., Daza, J.M. </strong>2018. A new species of <i>Leucostethus</i> (Anura: Dendrobatidae) from the eastern versant of the Central Cordillera of Colombia and the phylogenetic status of <i>Colostethus fraterdanieli</i>. <i>Zootaxa</i> 4461: 359–379. 
   <a href="https://doi.org/10.11646/zootaxa.4464.3.3" target="_blank">10.11646/zootaxa.4461.3.3</a></p>
 
 </div>
