@@ -86,21 +86,22 @@ function openTab(evt, tabName) {
 
 <!-- Seccion Datos -->
 <div id="dat" class="tabcontent">
-  <p><strong>Disponibles en Figshare</strong></p>
-  <p>NA 
-    <a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-18683/IAvH-CSA-18683.wav; http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-30545/IAvH-CSA-30545.wav; http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-30546/IAvH-CSA-30546.wav; http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34764/IAvH-CSA-34764.wav; http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-35773/IAvH-CSA-35773.wav; https://www.inaturalist.org/observations?place_id=7196&sounds&taxon_id=787625" target="_blank">http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-18683/IAvH-CSA-18683.wav; http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-30545/IAvH-CSA-30545.wav; http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-30546/IAvH-CSA-30546.wav; http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34764/IAvH-CSA-34764.wav; http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-35773/IAvH-CSA-35773.wav; https://www.inaturalist.org/observations?place_id=7196&sounds&taxon_id=787625</a>
-  </p>
-  <p><strong>Disponibles en iNaturalist</strong></p>
-  <p><a href="NA" target="_blank">Leucostethus fraterdanieli</a>
-  </p>
+
   <p><strong>Disponibles en CSA-IAVH</strong></p>
-  <p><a href="" target="_blank">codigo</a>
-  </p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-18683/IAvH-CSA-18683.wav" target="_blank">IAvH-CSA-18683</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-30545/IAvH-CSA-30545.wav" target="_blank">IAvH-CSA-30545</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-30546/IAvH-CSA-30546.wav" target="_blank">IAvH-CSA-30546</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34764/IAvH-CSA-34764.wav" target="_blank">IAvH-CSA-34764</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-35773/IAvH-CSA-35773.wav" target="_blank">IAvH-CSA-35773</a></p>
+
+  <p><strong>Disponibles en iNaturalist</strong></p>
+  <p><a href="https://www.inaturalist.org/observations?place_id=7196&sounds&taxon_id=787625" target="_blank">Leucostethus fraterdanieli</a></p>
+
 </div>
 
 <!-- Seccion Publicaciones -->
 <div id="pubs" class="tabcontent">
-  <p><strong>Autor_aqui</strong>Marín, M.C., Molina-Zuluaga, C., Restrepo, A., Cano, E., Daza, J.M. (2018). A new species of Leucostethus (Anura: Dendrobatidae) from the eastern versant of the Central Cordillera of Colombia and the phylogenetic status of Colostethus fraterdanieli. Zootaxa 4461: 359–379. DOI: 10.11646/zootaxa.4461.3.3. 
-  <a href="DOI: 10.11646/zootaxa.4461.3.3" target="_blank">DOI: 10.11646/zootaxa.4461.3.3</a></p>
-  <p><strong>***</strong><i></i></p>
+  <p><strong>Marín, M.C., Molina-Zuluaga, C., Restrepo, A., Cano, E., Daza, J.M. </strong>2018. A new species of <i>Leucostethus</i> (Anura: Dendrobatidae) from the eastern versant of the Central Cordillera of Colombia and the phylogenetic status of Colostethus fraterdanieli. <i>Zootaxa</i> 4461: 359–379. 
+  <a href="http://10.11646/zootaxa.4461.3.3" target="_blank">10.11646/zootaxa.4461.3.3</a></p>
+
 </div>
