@@ -86,10 +86,19 @@ function openTab(evt, tabName) {
 
 <!-- Seccion Datos -->
 <div id="dat" class="tabcontent">
-  <p><strong>Disponible en Figshare</strong></p>
-  <p>Daza, J.M. (2024). Diasporus anthrax (Anura: Eleutherodactylidae) advertisement call. figshare. Media.  
-    <a href="https://doi.org/10.6084/m9.figshare.27985289.v1" target="_blank">https://doi.org/10.6084/m9.figshare.27985289.v1</a>
-  </p>
+  
+  <p><strong>Disponibles en CSA-IAVH</strong></p>  
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34944/IAvH-CSA-34944.wav" target="_blank">IAvH-CSA-34944</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-36179/IAvH-CSA-36179.wav" target="_blank">IAvH-CSA-36179</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-36181/IAvH-CSA-36181.wav" target="_blank">IAvH-CSA-36181</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-36305/IAvH-CSA-36305.wav" target="_blank">IAvH-CSA-36305</a></p> 
+  
+  <p><strong>Disponibles en Figshare</strong></p>
+  <p>Daza, J.M. (2024). Diasporus anthrax (Anura: Eleutherodactylidae) advertisement call. figshare. Media.<a href="https://doi.org/10.6084/m9.figshare.27985289.v1" target="_blank">https://doi.org/10.6084/m9.figshare.27985289.v1</a></p>
+
+  <p><strong>Disponibles en iNaturalist</strong></p>
+  <p><a href="https://www.inaturalist.org/observations?place_id=7196&sounds&taxon_id=65417" target="_blank">Diasporus anthrax</a></p>
+
 </div>
 
 <!-- Seccion Publicaciones -->
