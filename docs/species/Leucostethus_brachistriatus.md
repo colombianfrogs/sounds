@@ -86,10 +86,17 @@ function openTab(evt, tabName) {
 
 <!-- Seccion Datos -->
 <div id="dat" class="tabcontent">
-  <p><strong>Disponible en Figshare</strong></p>
-  <p>Duarte-Marín, S. (2024). Leucostethus brachistriatus.mp3. figshare. Media.  
-    <a href="https://doi.org/10.6084/m9.figshare.25321657.v2" target="_blank">https://doi.org/10.6084/m9.figshare.25321657.v2</a>
-  </p>
+
+  <p><strong>Disponibles en CSA-IAVH</strong></p>
+  <p><a href="https://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-20271/IAvH-CSA-20271.wav" target="_blank">IAVH-CSA-20271</a></p>
+
+  <p><strong>Disponibles en Figshare</strong></p>
+  <p>Duarte-Marín, S. (2024). Leucostethus brachistriatus. figshare. Media.  
+    <a href="https://doi.org/10.6084/m9.figshare.25321657.v2" target="_blank">https://doi.org/10.6084/m9.figshare.25321657.v2</a></p>
+    
+  <p><strong>Disponibles en iNaturalist</strong></p>
+  <p><a href="https://www.inaturalist.org/observations?place_id=7196&sounds&taxon_id=788147" target="_blank">Leucostethus brachistriatus</a></p>
+
 </div>
 
 <!-- Seccion Publicaciones -->
