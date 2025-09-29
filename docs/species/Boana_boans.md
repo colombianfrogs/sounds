@@ -86,10 +86,30 @@ function openTab(evt, tabName) {
 
 <!-- Seccion Datos -->
 <div id="dat" class="tabcontent">
+
+  <p><strong>Disponibles en CSA-IAVH</strong></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-18225/IAvH-CSA-18225.wav" target="_blank">IAvH-CSA-18225</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-18226/IAvH-CSA-18226.wav" target="_blank">IAvH-CSA-18226</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-18227/IAvH-CSA-18227.wav" target="_blank">IAvH-CSA-18227</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-18228/IAvH-CSA-18228.wav" target="_blank">IAvH-CSA-18228</a></p>
+  <p><a href="https://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-18688/IAvH-CSA-18688.wav" target="_blank">IAvH-CSA-18688</a></p>
+  <p><a href="https://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-18699/IAvH-CSA-18699.wav" target="_blank">IAvH-CSA-18699</a></p>
+  <p><a href="https://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-18702/IAvH-CSA-18702.wav" target="_blank">IAvH-CSA-18702</a></p>
+  <p><a href="https://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-18720/IAvH-CSA-18720.wav" target="_blank">IAvH-CSA-18720</a></p>
+  <p><a href="https://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34365/IAvH-CSA-34365.wav" target="_blank">IAvH-CSA-34365</a></p>
+  <p><a href="https://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34370/IAvH-CSA-34370.wav" target="_blank">IAvH-CSA-34370</a></p>
+  <p><a href="https://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34371/IAvH-CSA-34371.wav" target="_blank">IAvH-CSA-34371</a></p>
+  <p><a href="https://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34372/IAvH-CSA-34372.wav" target="_blank">IAvH-CSA-34372</a></p>
+  <p><a href="https://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34373/IAvH-CSA-34373.wav" target="_blank">IAvH-CSA-34373</a></p>
+  <p><a href="https://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34375/IAvH-CSA-34375.wav" target="_blank">IAvH-CSA-34375</a></p>
+  <p><a href="https://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34384/IAvH-CSA-34384.wav" target="_blank">IAvH-CSA-34384</a></p>
+ 
   <p><strong>Disponibles en Figshare</strong></p>
-  <p>Chaves-Portilla, G. (2024). Boana boans. Figshare. Media.  
-    <a href="https://doi.org/10.6084/m9.figshare.27642186.v1">https://doi.org/10.6084/m9.figshare.27642186.v1</a>
-  </p>
+  <p>Chaves-Portilla, G. (2024). Boana boans. Figshare. Media.<a href="https://doi.org/10.6084/m9.figshare.27642186.v1" target="_blank">https://doi.org/10.6084/m9.figshare.27642186.v1</a></p>
+
+  <p><strong>Disponibles en iNaturalist</strong></p>
+  <p><a href="https://www.inaturalist.org/observations?place_id=7196&sounds&taxon_id=555086" target="_blank">Boana boans</a></p>
+
 </div>
 
 <!-- Seccion Publicaciones -->

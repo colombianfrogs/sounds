@@ -101,7 +101,7 @@ function openTab(evt, tabName) {
   <a href="https://doi.org/10.33256/hb156.2327" target="_blank">
     https://doi.org/10.33256/hb156.2327
   </a></p>
-    <p><strong>***</strong><i>El artículo donde se publicó el canto de advertencia no disponibiliza los audios y datos asociados</i></p>
+    <p><strong>***</strong><i>El artículo donde se publicó el canto de advertencia no disponibiliza los audios y datos asociados. Posteriormente, los datos se hicieron disponibles en Figshare.</i></p>
 </div>
 
 
