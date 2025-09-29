@@ -98,13 +98,6 @@ function openTab(evt, tabName) {
   
 </div>
 
-http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34411/IAvH-CSA-34411.wav; 
-http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34412/IAvH-CSA-34412.wav; 
-http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34644/IAvH-CSA-34644.wav; 
-http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34648/IAvH-CSA-34648.wav
-
-
-
 <!-- Seccion Publicaciones -->
 <div id="pubs" class="tabcontent">
 
