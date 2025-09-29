@@ -105,7 +105,7 @@ function openTab(evt, tabName) {
   <p><a href="https://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34384/IAvH-CSA-34384.wav" target="_blank">IAvH-CSA-34384</a></p>
  
   <p><strong>Disponibles en Figshare</strong></p>
-  <p>Chaves-Portilla, G. (2024). Boana boans. Figshare. Media.<a href="https://doi.org/10.6084/m9.figshare.27642186.v1" target="_blank">https://doi.org/10.6084/m9.figshare.27642186.v1</a></p>
+  <p>Chaves-Portilla, G. (2024). Boana boans. Figshare. Media. <a href="https://doi.org/10.6084/m9.figshare.27642186.v1" target="_blank">https://doi.org/10.6084/m9.figshare.27642186.v1</a></p>
 
   <p><strong>Disponibles en iNaturalist</strong></p>
   <p><a href="https://www.inaturalist.org/observations?place_id=7196&sounds&taxon_id=555086" target="_blank">Boana boans</a></p>
