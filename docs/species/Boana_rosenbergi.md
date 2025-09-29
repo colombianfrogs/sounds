@@ -86,10 +86,18 @@ function openTab(evt, tabName) {
 
 <!-- Seccion Datos -->
 <div id="dat" class="tabcontent">
+
+  <p><strong>Disponibles en CSA-IAVH</strong></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-20268/IAvH-CSA-20268.wav" target="_blank">IAVH-CSA-20268</a></p>
+
   <p><strong>Disponibles en Figshare</strong></p>
   <p>Chaves-Portilla, G. (2024). Boana rosenbergi. figshare. Media.  
     <a href="https://doi.org/10.6084/m9.figshare.27642201.v1">https://doi.org/10.6084/m9.figshare.27642201.v1</a>
   </p>
+  
+  <p><strong>Disponibles en iNaturalist</strong></p>
+  <p><a href="https://www.inaturalist.org/observations?place_id=7196&sounds&taxon_id=555150" target="_blank">Boana rosenbergi</a></p>
+
 </div>
 
 <!-- Seccion Publicaciones -->
