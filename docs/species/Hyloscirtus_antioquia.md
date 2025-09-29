@@ -86,10 +86,16 @@ function openTab(evt, tabName) {
 
 <!-- Seccion Datos -->
 <div id="dat" class="tabcontent">
+
+  <p><strong>Disponibles en CSA-IAVH</strong></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-30671/IAvH-CSA-30671.wav" target="_blank">IAVH-CSA-30671</a></p>
+
   <p><strong>Disponibles en Figshare</strong></p>
-  <p>Rivera-Correa, M. (2024). Hyloscirtus antioquia. figshare. Media.  
-    <a href="https://doi.org/10.6084/m9.figshare.27798693.v4" target="_blank">https://doi.org/10.6084/m9.figshare.27798693.v4</a>
-  </p>
+  <p>Rivera-Correa, M. (2024). Hyloscirtus antioquia. figshare. Media. <a href="https://doi.org/10.6084/m9.figshare.27798693.v4" target="_blank">https://doi.org/10.6084/m9.figshare.27798693.v4</a></p>
+
+  <p><strong>Disponibles en iNaturalist</strong></p>
+  <p><a href="https://www.inaturalist.org/observations?place_id=7196&sounds&taxon_id=476704" target="_blank">Hyloscirtus antioquia</a></p>
+
 </div>
 
 <!-- Seccion Publicaciones -->
@@ -97,5 +103,5 @@ function openTab(evt, tabName) {
   
   <p><strong>Rivera-Correa, M., Vargas-Salinas, F., Grant, T.</strong> 2017. Statistical differences and biological implications: a comparative analysis of the advertisement calls of two Andean stream treefrogs (Hylidae: <i>Hyloscirtus</i>) and the evolution of acoustic characters. <a href="https://www.salamandra-journal.com/index.php/contents/2017-vol-53/1827-rivera-correa-m-f-vargas-salinas-t-grant" target="_blank"><i>Salamandra</i> 53: 237-244.</a></p>
   
-  <p><strong>***</strong><i>El artículo donde se publicó el canto de advertencia no disponibiliza los audios o datos asociados.</i></p>
+  <p><strong>***</strong><i>El artículo donde se publicó el canto de advertencia no disponibiliza los audios o datos asociados. Los datos fueron posteriormente disponibilizados en Figshare.</i></p>
 </div>
