@@ -92,7 +92,7 @@ function openTab(evt, tabName) {
 
   <p><strong>Disponibles en Figshare</strong></p>
   <p>Chaves-Portilla, G. (2024). Boana rosenbergi. figshare. Media.  
-    <a href="https://doi.org/10.6084/m9.figshare.27642201.v1">https://doi.org/10.6084/m9.figshare.27642201.v1</a>
+    <a href="https://doi.org/10.6084/m9.figshare.27642201.v1" target="_blank">https://doi.org/10.6084/m9.figshare.27642201.v1</a>
   </p>
   
   <p><strong>Disponibles en iNaturalist</strong></p>
