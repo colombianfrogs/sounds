@@ -86,11 +86,24 @@ function openTab(evt, tabName) {
 
 <!-- Seccion Datos -->
 <div id="dat" class="tabcontent">
+
+  <p><strong>Disponibles en CSA-IAVH</strong></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34411/IAvH-CSA-34411.wav" target="_blank">IAvH-CSA-34411</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34412/IAvH-CSA-34412.wav" target="_blank">IAvH-CSA-34412</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34644/IAvH-CSA-34644.wav" target="_blank">IAvH-CSA-34644</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34648/IAvH-CSA-34648.wav" target="_blank">IAvH-CSA-34648</a></p>
+
   <p><strong>Disponibles en Figshare</strong></p>
-  <p>Chaves-Portilla, G. (2024). Boana punctata. Figshare. Media.  
-    <a href="https://doi.org/10.6084/m9.figshare.27642198.v1">https://doi.org/10.6084/m9.figshare.27642198.v1</a>
-  </p>
+  <p>Chaves-Portilla, G. (2024). Boana punctata. Figshare. Media. <a href="https://doi.org/10.6084/m9.figshare.27642198.v1" target="_blank">https://doi.org/10.6084/m9.figshare.27642198.v1</a></p>
+  
 </div>
+
+http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34411/IAvH-CSA-34411.wav; 
+http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34412/IAvH-CSA-34412.wav; 
+http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34644/IAvH-CSA-34644.wav; 
+http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34648/IAvH-CSA-34648.wav
+
+
 
 <!-- Seccion Publicaciones -->
 <div id="pubs" class="tabcontent">
