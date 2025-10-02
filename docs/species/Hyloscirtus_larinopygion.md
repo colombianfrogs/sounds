@@ -96,7 +96,7 @@ function openTab(evt, tabName) {
   <p><strong>Disponibles en Figshare</strong></p>
   <p>Chaves-Portilla, G. (2024). Hyloscirtus larinopygion. figshare. Media.  
     <a href="https://doi.org/10.6084/m9.figshare.27642150.v1" target="_blank">https://doi.org/10.6084/m9.figshare.27642150.v1</a></p>
-  
+
   <p><strong>Disponibles en iNaturalist</strong></p>
   <p><a href="https://www.inaturalist.org/observations?place_id=7196&sounds&taxon_id=65655" target="_blank">Hyloscirtus larinopygion</a></p>
 </div>
