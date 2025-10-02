@@ -86,11 +86,24 @@ function openTab(evt, tabName) {
 
 <!-- Seccion Datos -->
 <div id="dat" class="tabcontent">
+
+  <p><strong>Disponibles en CSA-IAVH</strong></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34404/IAvH-CSA-34404.wav" target="_blank">IAvH-CSA-34404</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34631/IAvH-CSA-34631.wav" target="_blank">IAvH-CSA-34631</a></p>
+
   <p><strong>Disponible en Figshare</strong></p>
   <p>Chaves-Portilla, G. (2024). Leptodactylus colombiensis. Figshare. Media. 
     <a href="https://doi.org/10.6084/m9.figshare.27642327.v1" target="_blank">https://doi.org/10.6084/m9.figshare.27642327.v1</a>
   </p>
+
+  <p><strong>Disponibles en iNaturalist</strong></p>
+  <p><a href="https://www.inaturalist.org/observations?place_id=7196&sounds&taxon_id=22939" target="_blank">Leptodactylus colombiensis</a></p>
+
 </div>
+
+
+
+
 
 <!-- Seccion Publicaciones -->
 <div id="pubs" class="tabcontent">

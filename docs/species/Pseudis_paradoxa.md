@@ -86,10 +86,29 @@ function openTab(evt, tabName) {
 
 <!-- Seccion Datos -->
 <div id="dat" class="tabcontent">
+  
+  <p><strong>Disponibles en CSA-IAVH</strong></p>  
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-36282/IAvH-CSA-36282.wav" target="_blank">IAvH-CSA-36282</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-36283/IAvH-CSA-36283.wav" target="_blank">IAvH-CSA-36283</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-36322/IAvH-CSA-36322.wav" target="_blank">IAvH-CSA-36322</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-36323/IAvH-CSA-36323.wav" target="_blank">IAvH-CSA-36323</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-36324/IAvH-CSA-36324.wav" target="_blank">IAvH-CSA-36324</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-36325/IAvH-CSA-36325.wav" target="_blank">IAvH-CSA-36325</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-36326/IAvH-CSA-36326.wav" target="_blank">IAvH-CSA-36326</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-37315/IAvH-CSA-37315.wav" target="_blank">IAvH-CSA-37315</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-37320/IAvH-CSA-37320.wav" target="_blank">IAvH-CSA-37320</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-37325/IAvH-CSA-37325.wav" target="_blank">IAvH-CSA-37325</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-37343/IAvH-CSA-37343.wav" target="_blank">IAvH-CSA-37343</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-37351/IAvH-CSA-37351.wav" target="_blank">IAvH-CSA-37351</a></p>
+
   <p><strong>Disponible en Figshare</strong></p>
   <p>Chaves-Portilla, G. (2024). Pseudis paradoxa. Figshare. Media.  
     <a href="https://doi.org/10.6084/m9.figshare.27642537.v1" target="_blank">https://doi.org/10.6084/m9.figshare.27642537.v1</a>
   </p>
+  
+  <p><strong>Disponibles en iNaturalist</strong></p>
+  <p><a href="https://www.inaturalist.org/observations?place_id=7196&sounds&taxon_id=24412" target="_blank">Pseudis paradoxa</a></p>
+  
 </div>
 
 <!-- Seccion Publicaciones -->
