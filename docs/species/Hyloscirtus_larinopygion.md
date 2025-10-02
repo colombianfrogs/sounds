@@ -86,10 +86,19 @@ function openTab(evt, tabName) {
 
 <!-- Seccion Datos -->
 <div id="dat" class="tabcontent">
+
+  <p><strong>Disponibles en CSA-IAVH</strong></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-20355/IAvH-CSA-20355.wav" target="_blank">IAvH-CSA-20355</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34476/IAvH-CSA-34476.wav" target="_blank">IAvH-CSA-34476</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34477/IAvH-CSA-34477.wav" target="_blank">IAvH-CSA-34477</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-35772/IAvH-CSA-35772.wav" target="_blank">IAvH-CSA-35772</a></p>
+  
   <p><strong>Disponibles en Figshare</strong></p>
   <p>Chaves-Portilla, G. (2024). Hyloscirtus larinopygion. figshare. Media.  
-    <a href="https://doi.org/10.6084/m9.figshare.27642150.v1" target="_blank">https://doi.org/10.6084/m9.figshare.27642150.v1</a>
-  </p>
+    <a href="https://doi.org/10.6084/m9.figshare.27642150.v1" target="_blank">https://doi.org/10.6084/m9.figshare.27642150.v1</a></p>
+  
+  <p><strong>Disponibles en iNaturalist</strong></p>
+  <p><a href="https://www.inaturalist.org/observations?place_id=7196&sounds&taxon_id=65655" target="_blank">Hyloscirtus larinopygion</a></p>
 </div>
 
 <!-- Seccion Publicaciones -->
