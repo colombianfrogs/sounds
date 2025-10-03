@@ -91,7 +91,7 @@ function openTab(evt, tabName) {
   <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34768/IAvH-CSA-34768.wav" target="_blank">IAvH-CSA-34768</a></p>
 
   <p><strong>Disponibles en Fonozoo</strong></p>
-  <p><a href="https://www.fonozoo.com/fnz_detalles_registro.php?tipo_registro=2&id=22961" target="_blank">MHUAA 8813</a></p>
+  <p><a href="https://www.fonozoo.com/fnz_detalles_registro.php?tipo_registro=2&id=22961" target="_blank">MHUAA 8813 (Holotipo)</a></p>
   <p><a href="https://www.fonozoo.com/fnz_detalles_registro.php?tipo_registro=2&id=22962" target="_blank">MR 1845</a></p>
 
   <p><strong>Disponibles en iNaturalist</strong></p>
