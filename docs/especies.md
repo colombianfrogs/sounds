@@ -108,7 +108,6 @@ En esta sección incorporamos especies individuales conforme vamos identificando
 - [Pristimantis piceus](./species/Pristimantis_piceus.md)
 - [Pristimantis simoterus](./species/Pristimantis_simoterus.md)
 - [Pristimantis thectopternus](./species/Pristimantis_thectopternus.md)
-- [Pristimantis viejas](./species/Pristimantis_viejas.md)
 - [Pristimantis zorro](./species/Pristimantis_zorro.md)
 
 
