@@ -87,14 +87,19 @@ function openTab(evt, tabName) {
 <!-- Seccion Datos -->
 <div id="dat" class="tabcontent">
   <p><strong>Disponible en IAVH-CSA</strong></p>
-  <p><a href="https://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-18275/IAvH-CSA-18275.wav" target="_blank">IAvH-CSA 18275</a>
-  </p>
-  <p><a href="https://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-18276/IAvH-CSA-18276.wav" target="_blank">IAvH-CSA 18276</a>
-  </p>
+  <p><a href="https://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-18275/IAvH-CSA-18275.wav" target="_blank">IAvH-CSA 18275</a></p>
+  <p><a href="https://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-18276/IAvH-CSA-18276.wav" target="_blank">IAvH-CSA 18276</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-20352/IAvH-CSA-20352.wav" target="_blank">IAvH-CSA-20352</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-20353/IAvH-CSA-20353.wav" target="_blank">IAvH-CSA-20353</a></p>
+ 
   <p><strong>Disponible en Figshare</strong></p>
   <p>Duarte-Marín, S. (2024). Pristimantis erythropleura. figshare. Media.  
     <a href="https://doi.org/10.6084/m9.figshare.25321690.v2" target="_blank">https://doi.org/10.6084/m9.figshare.25321690.v2</a>
   </p>
+  
+  <p><strong>Disponibles en iNaturalist</strong></p>
+  <p><a href="https://www.inaturalist.org/observations?place_id=7196&sounds&taxon_id=66657" target="_blank">Pristimantis erythropleura</a></p>
+
 </div>
 
 <!-- Seccion Publicaciones -->
