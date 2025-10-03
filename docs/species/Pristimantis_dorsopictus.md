@@ -107,5 +107,5 @@ function openTab(evt, tabName) {
 <div id="pubs" class="tabcontent">
   <p><strong>Patiño-Ocampo E., S. Duarte-Marín y M. Rivera-Correa.</strong> 2022. Genética, bioacústica y morfología revelan una nueva especie oculta en <i>Pristimantis dorsopictus</i> (Anura: Strabomantidae). <i>Revista Latinoamericana de Herpetología</i> 5: 60–90. 
   <a href="https://doi.org/10.22201/fc.25942158e.2022.1.305" target="_blank">https://doi.org/10.22201/fc.25942158e.2022.1.305</a></p>
-  <p><strong>***</strong><i></i></p>
+  <p><strong>***</strong><i>Patiño-Ocampo et al. (2022) no disponibiliza los audios y datos asociados.</i></p>
 </div>
