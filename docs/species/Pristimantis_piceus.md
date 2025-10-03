@@ -90,6 +90,11 @@ function openTab(evt, tabName) {
   <p>Duarte-Marín, S. (2024). Pristimantis piceus. figshare. Media.  
     <a href="https://doi.org/10.6084/m9.figshare.25321702.v2" target="_blank">https://doi.org/10.6084/m9.figshare.25321702.v2</a>
   </p>
+  
+  <p><strong>Disponibles en iNaturalist</strong></p>
+  <p><a href="https://www.inaturalist.org/observations?place_id=7196&sounds&taxon_id=66810" target="_blank">Pristimantis piceus</a></p>
+
+
 </div>
 
 <!-- Seccion Publicaciones -->
