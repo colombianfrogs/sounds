@@ -86,21 +86,18 @@ function openTab(evt, tabName) {
 
 <!-- Seccion Datos -->
 <div id="dat" class="tabcontent">
-  <p><strong>Disponibles en Figshare</strong></p>
-  <p>NA 
-    <a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34768/IAvH-CSA-34768.wav; https://www.inaturalist.org/observations?place_id=7196&sounds&taxon_id=1125831" target="_blank">http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34768/IAvH-CSA-34768.wav; https://www.inaturalist.org/observations?place_id=7196&sounds&taxon_id=1125831</a>
-  </p>
-  <p><strong>Disponibles en iNaturalist</strong></p>
-  <p><a href="NA" target="_blank">Pristimantis zorro</a>
-  </p>
+
   <p><strong>Disponibles en CSA-IAVH</strong></p>
-  <p><a href="" target="_blank">codigo</a>
-  </p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34768/IAvH-CSA-34768.wav" target="_blank">IAvH-CSA-34768</a></p>
+
+  <p><strong>Disponibles en iNaturalist</strong></p>
+  <p><a href="https://www.inaturalist.org/observations?place_id=7196&sounds&taxon_id=1125831" target="_blank">Pristimantis zorro</a></p>
+
 </div>
 
 <!-- Seccion Publicaciones -->
 <div id="pubs" class="tabcontent">
-  <p><strong>Autor_aqui</strong>Rivera-Correa, M. & Daza, J.M. 2018. 2020. Out of the blue: A new rain frog species of the genus Pristimantis (Anura: Craugastoridae) from the northern Cordillera Central in Colombia. Zootaxa 4838: 83–101. https://doi.org/10.11646/zootaxa.4838.1.4. 
+  <p><strong>Rivera-Correa, M. & Daza, J.M.</strong> 2020. Out of the blue: A new rain frog species of the genus <i>Pristimantis</i> (Anura: Craugastoridae) from the northern Cordillera Central in Colombia. <i>Zootaxa</i> 4838: 83–101. 
   <a href="https://doi.org/10.11646/zootaxa.4838.1.4" target="_blank">https://doi.org/10.11646/zootaxa.4838.1.4</a></p>
   <p><strong>***</strong><i></i></p>
 </div>
