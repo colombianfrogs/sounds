@@ -86,16 +86,19 @@ function openTab(evt, tabName) {
 
 <!-- Seccion Datos -->
 <div id="dat" class="tabcontent">
-  <p><strong>Disponibles en Figshare</strong></p>
-  <p>NA 
-    <a href="https://figshare.com/articles/media/Pristimantis_dorsopictus/27798726/3; http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-18808/IAvH-CSA-18808.wav; http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-18809/IAvH-CSA-18809.wav; http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-18810/IAvH-CSA-18810.wav; http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-18811/IAvH-CSA-18811.wav; http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-18813/IAvH-CSA-18813.wav; http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-18812/IAvH-CSA-18812.wav; http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-18814/IAvH-CSA-18814.wav; http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-18815/IAvH-CSA-18815.wav" target="_blank">https://figshare.com/articles/media/Pristimantis_dorsopictus/27798726/3; http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-18808/IAvH-CSA-18808.wav; http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-18809/IAvH-CSA-18809.wav; http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-18810/IAvH-CSA-18810.wav; http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-18811/IAvH-CSA-18811.wav; http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-18813/IAvH-CSA-18813.wav; http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-18812/IAvH-CSA-18812.wav; http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-18814/IAvH-CSA-18814.wav; http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-18815/IAvH-CSA-18815.wav</a>
-  </p>
-  <p><strong>Disponibles en iNaturalist</strong></p>
-  <p><a href="NA" target="_blank">Pristimantis dorsopictus</a>
-  </p>
-  <p><strong>Disponibles en CSA-IAVH</strong></p>
-  <p><a href="" target="_blank">codigo</a>
-  </p>
+
+  <p><strong>Disponibles en CSA-IAVH</strong></p> 
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-18808/IAvH-CSA-18808.wav" target="_blank">IAvH-CSA-18808</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-18809/IAvH-CSA-18809.wav" target="_blank">IAvH-CSA-18809</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-18810/IAvH-CSA-18810.wav" target="_blank">IAvH-CSA-18810</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-18811/IAvH-CSA-18811.wav" target="_blank">IAvH-CSA-18811</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-18813/IAvH-CSA-18813.wav" target="_blank">IAvH-CSA-18813</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-18812/IAvH-CSA-18812.wav" target="_blank">IAvH-CSA-18812</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-18814/IAvH-CSA-18814.wav" target="_blank">IAvH-CSA-18814</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-18815/IAvH-CSA-18815.wav" target="_blank">IAvH-CSA-18815</a></p>
+
+  
+
 </div>
 
 <!-- Seccion Publicaciones -->
