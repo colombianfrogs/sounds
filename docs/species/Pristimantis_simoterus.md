@@ -86,21 +86,14 @@ function openTab(evt, tabName) {
 
 <!-- Seccion Datos -->
 <div id="dat" class="tabcontent">
+
   <p><strong>Disponibles en Figshare</strong></p>
-  <p>NA 
-    <a href="https://doi.org/10.6084/m9.figshare.25321708.v2" target="_blank">https://doi.org/10.6084/m9.figshare.25321708.v2</a>
-  </p>
-  <p><strong>Disponibles en iNaturalist</strong></p>
-  <p><a href="No existen artículos con sonidos de poblaciones colombianas." target="_blank">Pristimantis simoterus</a>
-  </p>
-  <p><strong>Disponibles en CSA-IAVH</strong></p>
-  <p><a href="" target="_blank">codigo</a>
-  </p>
+  <p>Duarte-Marín, S. (2024). Pristimantis simoterus. figshare. Media.  
+    <a href="https://doi.org/10.6084/m9.figshare.25321708.v2" target="_blank">https://doi.org/10.6084/m9.figshare.25321708.v2</a></p>
+
 </div>
 
 <!-- Seccion Publicaciones -->
 <div id="pubs" class="tabcontent">
-  <p><strong>Autor_aqui</strong>NA. 
-  <a href="NA" target="_blank">NA</a></p>
-  <p><strong>***</strong><i></i></p>
+  <p><strong>***</strong><i>No existen artículos con sonidos de poblaciones colombianas.</i></p>
 </div>
