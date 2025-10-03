@@ -90,6 +90,10 @@ function openTab(evt, tabName) {
   <p><strong>Disponibles en CSA-IAVH</strong></p>
   <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34768/IAvH-CSA-34768.wav" target="_blank">IAvH-CSA-34768</a></p>
 
+  <p><strong>Disponibles en Fonozoo</strong></p>
+  <p><a href="https://www.fonozoo.com/fnz_detalles_registro.php?tipo_registro=2&id=22961" target="_blank">MHUAA 8813</a></p>
+  <p><a href="https://www.fonozoo.com/fnz_detalles_registro.php?tipo_registro=2&id=22962" target="_blank">MR 1845</a></p>
+
   <p><strong>Disponibles en iNaturalist</strong></p>
   <p><a href="https://www.inaturalist.org/observations?place_id=7196&sounds&taxon_id=1125831" target="_blank">Pristimantis zorro</a></p>
 
@@ -97,7 +101,7 @@ function openTab(evt, tabName) {
 
 <!-- Seccion Publicaciones -->
 <div id="pubs" class="tabcontent">
-  <p><strong>Rivera-Correa, M. & Daza, J.M.</strong> 2020. Out of the blue: A new rain frog species of the genus <i>Pristimantis</i> (Anura: Craugastoridae) from the northern Cordillera Central in Colombia. <i>Zootaxa</i> 4838: 83–101. 
+  <p><strong>Rivera-Correa, M. and Daza, J.M.</strong> 2020. Out of the blue: A new rain frog species of the genus <i>Pristimantis</i> (Anura: Craugastoridae) from the northern Cordillera Central in Colombia. <i>Zootaxa</i> 4838: 83–101. 
   <a href="https://doi.org/10.11646/zootaxa.4838.1.4" target="_blank">https://doi.org/10.11646/zootaxa.4838.1.4</a></p>
-  <p><strong>***</strong><i></i></p>
+
 </div>
