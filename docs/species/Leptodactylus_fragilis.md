@@ -86,10 +86,39 @@ function openTab(evt, tabName) {
 
 <!-- Seccion Datos -->
 <div id="dat" class="tabcontent">
-  <p><strong>Disponible en Figshare</strong></p>
+
+  <p><strong>Disponibles en CSA-IAVH</strong></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34274/IAvH-CSA-34274.wav" target="_blank">IAvH-CSA-34274</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-35290/IAvH-CSA-35290.wav" target="_blank">IAvH-CSA-35290</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-35464/IAvH-CSA-35464.wav" target="_blank">IAvH-CSA-35464</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-36235/IAvH-CSA-36235.wav" target="_blank">IAvH-CSA-36235</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-36246/IAvH-CSA-36246.wav" target="_blank">IAvH-CSA-36246</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-36248/IAvH-CSA-36248.wav" target="_blank">IAvH-CSA-36248</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-36249/IAvH-CSA-36249.wav" target="_blank">IAvH-CSA-36249</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-36251/IAvH-CSA-36251.wav" target="_blank">IAvH-CSA-36251</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-36286/IAvH-CSA-36286.wav" target="_blank">IAvH-CSA-36286</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-36293/IAvH-CSA-36293.wav" target="_blank">IAvH-CSA-36293</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-36298/IAvH-CSA-36298.wav" target="_blank">IAvH-CSA-36298</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-36314/IAvH-CSA-36314.wav" target="_blank">IAvH-CSA-36314</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-37305/IAvH-CSA-37305.wav" target="_blank">IAvH-CSA-37305</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-37312/IAvH-CSA-37312.wav" target="_blank">IAvH-CSA-37312</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-37314/IAvH-CSA-37314.wav" target="_blank">IAvH-CSA-37314</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-37317/IAvH-CSA-37317.wav" target="_blank">IAvH-CSA-37317</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-37321/IAvH-CSA-37321.wav" target="_blank">IAvH-CSA-37321</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-37326/IAvH-CSA-37326.wav" target="_blank">IAvH-CSA-37326</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-37327/IAvH-CSA-37327.wav" target="_blank">IAvH-CSA-37327</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-37328/IAvH-CSA-37328.wav" target="_blank">IAvH-CSA-37328</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-37329/IAvH-CSA-37329.wav" target="_blank">IAvH-CSA-37329</a></p>
+ 
+  <p><strong>Disponibles en Figshare</strong></p>
   <p>Chaves-Portilla, G. (2024). Leptodactylus fragilis. Figshare. Media.  
     <a href="https://doi.org/10.6084/m9.figshare.27642204.v1" target="_blank">https://doi.org/10.6084/m9.figshare.27642204.v1</a>
   </p>
+  
+  <p><strong>Disponibles en iNaturalist</strong></p>
+  <p><a href="https://www.inaturalist.org/observations?place_id=7196&sounds&taxon_id=22976" target="_blank">Leptodactylus fragilis</a></p>
+  
+  
 </div>
 
 <!-- Seccion Publicaciones -->
