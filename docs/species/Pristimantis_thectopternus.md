@@ -86,21 +86,18 @@ function openTab(evt, tabName) {
 
 <!-- Seccion Datos -->
 <div id="dat" class="tabcontent">
-  <p><strong>Disponibles en Figshare</strong></p>
-  <p>NA 
-    <a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34474/IAvH-CSA-34474.wav; http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-37488/IAvH-CSA-37488.wav; https://doi.org/10.6084/m9.figshare.25321714.v2" target="_blank">http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34474/IAvH-CSA-34474.wav; http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-37488/IAvH-CSA-37488.wav; https://doi.org/10.6084/m9.figshare.25321714.v2</a>
-  </p>
-  <p><strong>Disponibles en iNaturalist</strong></p>
-  <p><a href="No existen artículos con sonidos de poblaciones colombianas." target="_blank">Pristimantis thectopternus</a>
-  </p>
+
   <p><strong>Disponibles en CSA-IAVH</strong></p>
-  <p><a href="" target="_blank">codigo</a>
-  </p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34474/IAvH-CSA-34474.wav" target="_blank">IAvH-CSA-34474</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-37488/IAvH-CSA-37488.wav" target="_blank">IAvH-CSA-37488</a></p>
+
+  <p><strong>Disponibles en Figshare</strong></p>
+  <p>Duarte-Marín, Sebastián (2024). Pristimantis thectopternus. figshare. Media.  
+    <a href="https://doi.org/10.6084/m9.figshare.25321714.v2" target="_blank">https://doi.org/10.6084/m9.figshare.25321714.v2</a></p>
+
 </div>
 
 <!-- Seccion Publicaciones -->
 <div id="pubs" class="tabcontent">
-  <p><strong>Autor_aqui</strong>NA. 
-  <a href="NA" target="_blank">NA</a></p>
-  <p><strong>***</strong><i></i></p>
+  <p><strong>***</strong><i>No existen artículos con sonidos de poblaciones colombianas.</i></p>
 </div>
