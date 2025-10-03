@@ -97,7 +97,9 @@ function openTab(evt, tabName) {
   <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-18814/IAvH-CSA-18814.wav" target="_blank">IAvH-CSA-18814</a></p>
   <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-18815/IAvH-CSA-18815.wav" target="_blank">IAvH-CSA-18815</a></p>
 
-  
+  <p><strong>Disponibles en Figshare</strong></p>
+  <p>Rivera-Correa, M. (2024). Pristimantis dorsopictus. figshare. Media.   
+    <a href="https://doi.org/10.6084/m9.figshare.27798726.v3" target="_blank">https://doi.org/10.6084/m9.figshare.27798726.v3</a></p>
 
 </div>
 
