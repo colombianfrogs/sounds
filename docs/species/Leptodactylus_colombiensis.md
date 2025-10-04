@@ -101,10 +101,6 @@ function openTab(evt, tabName) {
 
 </div>
 
-
-
-
-
 <!-- Seccion Publicaciones -->
 <div id="pubs" class="tabcontent">
 
