@@ -104,5 +104,5 @@ function openTab(evt, tabName) {
   
   <p><strong>Gualdrón-Duarte, J.E., Luna-Mora, V.F., Rivera-Correa, M., Kahn, T.R. </strong>(2016). Yellow-striped poison frog <i>Dendrobates truncatus</i> Cope,1861 "1860". In T.R. Kahn, E. La Marca, S. Lötters, J.L. Brown, E. Twomey & A. Amézquita (Eds.), Aposematic poison frogs (Dendrobatidae) of the Andean countries: Bolivia, Colombia, Ecuador, Perú and Venezuela. Tropical field guide series (pp. 323-328). Arlington, USA: Conservation International.</p>  
   
-  <p><strong>***</strong><i>El artículo donde se publicó el canto de advertencia no disponibiliza los audios o datos asociados.</i></p>
+  <p><strong>***</strong><i>Erdtmann & Amézquita (2009) y Gualdrón-Duarte et al. (2016) no disponibilizan los audios.</i></p>
 </div>
