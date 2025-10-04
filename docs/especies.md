@@ -53,11 +53,15 @@ En esta sección incorporamos especies individuales conforme vamos identificando
 
 # Centrolenidae
 - [Centrolene antioquiensis](./species/Centrolene_antioquiensis.md)
+- [Centrolene daidalea](./species/Centrolene_daidalea.md)
 - [Centrolene huilensis](./species/Centrolene_huilensis.md)
 - [Centrolene hybrida](./species/Centrolene_hybrida.md)
+- [Espadarana prosoblepon](./species/Espadarana_prosoblepon.md)
 - [Hyalinobatrachium chirripoi](./species/Hyalinobatrachium_chirripoi.md)
 - [Hyalinobatrachium tatayoi](./species/Hyalinobatrachium_tatayoi.md)
+- [Nymphargus grandisonae](./species/Nymphargus_grandisonae.md)
 - [Nymphargus oreonympha](./species/Nymphargus_oreonympha.md)
+- [Nymphargus pijao](./species/Nymphargus_pijao.md)
 - [Rulyrana flavopunctata](./species/Rulyrana_flavopunctata.md)
 - [Rulyrana susatamai](./species/Rulyrana_susatamai.md)
 - [Sachatamia punctulata](./species/Sachatamia_punctulata.md)
