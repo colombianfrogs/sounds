@@ -98,7 +98,10 @@ function openTab(evt, tabName) {
 
 <!-- Seccion Publicaciones -->
 <div id="pubs" class="tabcontent">
-  <p><strong>Erdtmann, L., Amezquita, A.</strong> (2009). Differential evolution of advertisement call traits in dart‐poison frogs (Anura: Dendrobatidae). Ethology 115: 801-811.; Gualdrón-Duarte, J.E., Luna-Mora, V.F., Rivera-Correa, M., Kahn, T.R. (2016). Yellow-striped poison frog Dendrobates truncatus Cope,1861 "1860". In T.R. Kahn, E. La Marca, S. Lötters, J.L. Brown, E. Twomey & A. Amézquita (Eds.), Aposematic poison frogs (Dendrobatidae) of the Andean countries: Bolivia, Colombia, Ecuador, Perú and Venezuela. Tropical field guide series (pp. 323-328). Arlington, USA: Conservation International. 
+  <p><strong>Erdtmann, L., Amezquita, A.</strong> (2009). Differential evolution of advertisement call traits in dart‐poison frogs (Anura: Dendrobatidae). Ethology 115: 801-811. 
   <a href="https://doi.org/10.1111/j.1439-0310.2009.01673.x" target="_blank">https://doi.org/10.1111/j.1439-0310.2009.01673.x</a></p>
+  
+  <p><strong>Gualdrón-Duarte, J.E., Luna-Mora, V.F., Rivera-Correa, M., Kahn, T.R. </strong>(2016). Yellow-striped poison frog <i>Dendrobates truncatus</i> Cope,1861 "1860". In T.R. Kahn, E. La Marca, S. Lötters, J.L. Brown, E. Twomey & A. Amézquita (Eds.), Aposematic poison frogs (Dendrobatidae) of the Andean countries: Bolivia, Colombia, Ecuador, Perú and Venezuela. Tropical field guide series (pp. 323-328). Arlington, USA: Conservation International.  
+  
   <p><strong>***</strong><i>El artículo donde se publicó el canto de advertencia no disponibiliza los audios o datos asociados.</i></p>
 </div>
