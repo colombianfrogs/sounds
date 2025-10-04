@@ -71,6 +71,7 @@ En esta sección incorporamos especies individuales conforme vamos identificando
 - [Andinobates victimatus](./species/Andinobates_victimatus.md)
 - [Andinobates supata](./species/Andinobates_supata.md)
 - [Colostethus pratti](./species/Colostethus_pratti.md)
+- [Dendrobates truncatus](./species/Dendrobates_truncatus.md)
 - [Hyloxalus vergeli](./species/Hyloxalus_vergeli.md)
 - [Leucostethus brachistriatus](./species/Leucostethus_brachistriatus.md)
 - [Leucostethus fraterdanieli](./species/Leucostethus_fraterdanieli.md)
