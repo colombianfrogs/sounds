@@ -51,19 +51,20 @@ function openTab(evt, tabName) {
 <!-- Species presentation -->
 <div style="text-align: center;">
   <h2><i>Boana platanera</i></h2>
-  <h4>La Marca, Escalona, Castellanos, Rojas-Runjaic, Crawford, Señaris, Fouquet, Giaretta, & Castroviejo-Fisher, 2021</h4>
+  <h4>La Marca, Escalona, Castellanos, Rojas-Runjaic, Crawford, Señaris, Fouquet, Giaretta, and Castroviejo-Fisher, 2021</h4>
   <img src="{{ site.baseurl }}/images/especie_Boana_platanera.png" style="width:15cm;">
 </div>
 
+#### Señal acústica
+
 <!-- Tabs section -->
 <div class="tab">
-  <button class="tablinks" onclick="openTab(event, 'EspectroLefr')">Espectrograma</button>
-  <button class="tablinks" onclick="openTab(event, 'figLefr')">Figura</button>
-  <button class="tablinks" onclick="openTab(event, 'tabLefr')">Datos</button>
+  <button class="tablinks" onclick="openTab(event, 'Espectro')">Espectrograma</button>
+  <button class="tablinks" onclick="openTab(event, 'fig')">Figura</button>
 </div>
 
 <!-- Seccion Espectrograma -->
-<div id="EspectroLefr" class="tabcontent" style="text-align: center;">
+<div id="Espectro" class="tabcontent" style="text-align: center;">
   <video width="100%" height="auto" controls>
     <source src="{{ site.baseurl }}/Espectrograms/dyna_Boana_platanera.mp4" type="video/mp4">
     Tu navegador no soporta el elemento de video.
@@ -71,14 +72,35 @@ function openTab(evt, tabName) {
 </div>
 
 <!-- Seccion Figura -->
-<div id="figLefr" class="tabcontent" style="text-align: center;">
+<div id="fig" class="tabcontent" style="text-align: center;">
   <img src="{{ site.baseurl }}/images/spec_Boana_platanera.png" style="width:15cm;">
 </div>
 
-<!-- Seccion Datos -->
-<div id="tabLefr" class="tabcontent">
-  <p>Figshare <a href="https://doi.org/10.6084/m9.figshare.27637980.v2">https://doi.org/10.6084/m9.figshare.27637980.v2</a>.</p>
+#### Disponibilidad de datos
+
+<!-- Tabs section -->
+<div class="tab">
+  <button class="tablinks" onclick="openTab(event, 'dat')">Datos</button>
+  <button class="tablinks" onclick="openTab(event, 'pubs')">Publicaciones</button>
 </div>
-<br><br>
-##### Publicaciones que incorporan sonidos de esta especie:
-Sin publicaciones para Colombia. Datos suministrados por <a href="mailto:juanm.daza@udea.edu.co">Juan M. Daza</a>
+
+<!-- Seccion Datos -->
+<div id="dat" class="tabcontent">
+  <p><strong>Disponibles en Figshare</strong></p>
+  <p>NA 
+    <a href="NA" target="_blank">NA</a>
+  </p>
+  <p><strong>Disponibles en iNaturalist</strong></p>
+  <p><a href="NA" target="_blank">Boana platanera</a>
+  </p>
+  <p><strong>Disponibles en CSA-IAVH</strong></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34265/IAvH-CSA-34265.wav; http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34268/IAvH-CSA-34268.wav; http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34272/IAvH-CSA-34272.wav; http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34409/IAvH-CSA-34409.wav; http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34470/IAvH-CSA-34470.wav; http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34639/IAvH-CSA-34639.wav; http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-36550/IAvH-CSA-36550.wav; http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-36552/IAvH-CSA-36552.wav; https://www.inaturalist.org/observations?place_id=7196&sounds&taxon_id=1251425" target="_blank">codigo</a>
+  </p>
+</div>
+
+<!-- Seccion Publicaciones -->
+<div id="pubs" class="tabcontent">
+  <p><strong>Autor_aqui</strong>Bernal, M.H., Montealegre, D.P., Páez, C.A. (2004). Estudio de la vocalización de trece especies de anuros del municipio de Ibagué, Colombia. Revista de la Academia Colombiana de Ciencias Exactas, Físicas y Naturales 28: 385-390.. 
+  <a href="https://doi.org/10.18257/raccefyn.28(108).2004.2135" target="_blank">https://doi.org/10.18257/raccefyn.28(108).2004.2135</a></p>
+  <p><strong>***</strong><i>El artículo donde se publicó el canto de advertencia no disponibiliza los audios o datos asociados.</i></p>
+</div>

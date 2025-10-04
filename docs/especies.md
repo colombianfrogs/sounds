@@ -83,6 +83,7 @@ En esta sección incorporamos especies individuales conforme vamos identificando
 
 - [Agalychnis terranova](./species/Agalychnis_terranova.md)
 - [Boana boans](./species/Boana_boans.md)
+- [Boana platanera](./species/Boana_platanera.md)
 - [Boana punctata](./species/Boana_punctata.md)
 - [Boana rosenbergi](./species/Boana_rosenbergi.md)
 - [Hyloscirtus antioquia](./species/Hyloscirtus_antioquia.md)
