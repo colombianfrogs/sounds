@@ -86,16 +86,20 @@ function openTab(evt, tabName) {
 
 <!-- Seccion Datos -->
 <div id="dat" class="tabcontent">
-  <p><strong>Disponibles en Figshare</strong></p>
-  <p>NA 
-    <a href="NA" target="_blank">NA</a>
-  </p>
-  <p><strong>Disponibles en iNaturalist</strong></p>
-  <p><a href="NA" target="_blank">Boana platanera</a>
-  </p>
+
   <p><strong>Disponibles en CSA-IAVH</strong></p>
-  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34265/IAvH-CSA-34265.wav; http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34268/IAvH-CSA-34268.wav; http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34272/IAvH-CSA-34272.wav; http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34409/IAvH-CSA-34409.wav; http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34470/IAvH-CSA-34470.wav; http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34639/IAvH-CSA-34639.wav; http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-36550/IAvH-CSA-36550.wav; http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-36552/IAvH-CSA-36552.wav; https://www.inaturalist.org/observations?place_id=7196&sounds&taxon_id=1251425" target="_blank">codigo</a>
-  </p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34265/IAvH-CSA-34265.wav" target="_blank">IAvH-CSA-34265</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34268/IAvH-CSA-34268.wav" target="_blank">IAvH-CSA-34268</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34272/IAvH-CSA-34272.wav" target="_blank">IAvH-CSA-34272</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34409/IAvH-CSA-34409.wav" target="_blank">IAvH-CSA-34409</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34470/IAvH-CSA-34470.wav" target="_blank">IAvH-CSA-34470</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34639/IAvH-CSA-34639.wav" target="_blank">IAvH-CSA-34639</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-36550/IAvH-CSA-36550.wav" target="_blank">IAvH-CSA-36550</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-36552/IAvH-CSA-36552.wav" target="_blank">IAvH-CSA-36552</a></p>
+
+  <p><strong>Disponibles en iNaturalist</strong></p>
+  <p><a href="https://www.inaturalist.org/observations?place_id=7196&sounds&taxon_id=1251425" target="_blank">Boana platanera</a></p>
+
 </div>
 
 <!-- Seccion Publicaciones -->
