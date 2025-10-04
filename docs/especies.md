@@ -52,6 +52,7 @@ En esta sección incorporamos especies individuales conforme vamos identificando
 - [Rhinella horribilis](./species/Rhinella_horribilis.md)
 
 # Centrolenidae
+- [Centrolene antioquiensis](./species/Centrolene_antioquiensis.md)
 - [Centrolene huilensis](./species/Centrolene_huilensis.md)
 - [Centrolene hybrida](./species/Centrolene_hybrida.md)
 - [Hyalinobatrachium chirripoi](./species/Hyalinobatrachium_chirripoi.md)
