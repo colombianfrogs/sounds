@@ -97,6 +97,10 @@ function openTab(evt, tabName) {
   <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-36550/IAvH-CSA-36550.wav" target="_blank">IAvH-CSA-36550</a></p>
   <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-36552/IAvH-CSA-36552.wav" target="_blank">IAvH-CSA-36552</a></p>
 
+  <p><strong>Disponibles en Figshare</strong></p>
+  <p>Bernal, M. (2025). Boana platanera. figshare. Media.  
+    <a href="https://doi.org/10.6084/m9.figshare.29150411.v1" target="_blank">https://doi.org/10.6084/m9.figshare.29150411.v1</a></p>
+ 
   <p><strong>Disponibles en iNaturalist</strong></p>
   <p><a href="https://www.inaturalist.org/observations?place_id=7196&sounds&taxon_id=1251425" target="_blank">Boana platanera</a></p>
 
