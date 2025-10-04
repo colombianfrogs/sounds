@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Leptodactylus colombiensis"
+title: "Centrolene daidalea"
 output: html_document
 ---
 
@@ -50,9 +50,9 @@ function openTab(evt, tabName) {
 
 <!-- Species presentation -->
 <div style="text-align: center;">
-  <h2><i>Leptodactylus colombiensis</i></h2>
-  <h4>Heyer, 1994</h4>
-  <img src="{{ site.baseurl }}/images/especie_Leptodactylus_colombiensis.png" style="width:15cm;">
+  <h2><i>Centrolene daidalea</i></h2>
+  <h4>(Ruiz-Carranza and Lynch, 1991)</h4>
+  <img src="{{ site.baseurl }}/images/especie_Centrolene_daidalea.png" style="width:15cm;">
 </div>
 
 #### Señal acústica
@@ -66,14 +66,14 @@ function openTab(evt, tabName) {
 <!-- Seccion Espectrograma -->
 <div id="Espectro" class="tabcontent" style="text-align: center;">
   <video width="100%" height="auto" controls>
-    <source src="{{ site.baseurl }}/Espectrograms/dyna_Leptodactylus_colombiensis.mp4" type="video/mp4">
+    <source src="{{ site.baseurl }}/Espectrograms/dyna_Centrolene_daidalea.mp4" type="video/mp4">
     Tu navegador no soporta el elemento de video.
   </video>
 </div>
 
 <!-- Seccion Figura -->
 <div id="fig" class="tabcontent" style="text-align: center;">
-  <img src="{{ site.baseurl }}/images/spec_Leptodactylus_colombiensis.png" style="width:15cm;">
+  <img src="{{ site.baseurl }}/images/spec_Centrolene_daidalea.png" style="width:15cm;">
 </div>
 
 #### Disponibilidad de datos
@@ -86,30 +86,21 @@ function openTab(evt, tabName) {
 
 <!-- Seccion Datos -->
 <div id="dat" class="tabcontent">
-
-  <p><strong>Disponibles en CSA-IAVH</strong></p>
-  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34404/IAvH-CSA-34404.wav" target="_blank">IAvH-CSA-34404</a></p>
-  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34631/IAvH-CSA-34631.wav" target="_blank">IAvH-CSA-34631</a></p>
-
-  <p><strong>Disponible en Figshare</strong></p>
-  <p>Chaves-Portilla, G. (2024). Leptodactylus colombiensis. Figshare. Media. 
-    <a href="https://doi.org/10.6084/m9.figshare.27642327.v1" target="_blank">https://doi.org/10.6084/m9.figshare.27642327.v1</a>
+  <p><strong>Disponibles en Figshare</strong></p>
+  <p>NA 
+    <a href="NA" target="_blank">NA</a>
   </p>
-
   <p><strong>Disponibles en iNaturalist</strong></p>
-  <p><a href="https://www.inaturalist.org/observations?place_id=7196&sounds&taxon_id=22939" target="_blank">Leptodactylus colombiensis</a></p>
-
+  <p><a href="NA" target="_blank">Centrolene daidalea</a>
+  </p>
+  <p><strong>Disponibles en CSA-IAVH</strong></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-36551/IAvH-CSA-36551.wav" target="_blank">codigo</a>
+  </p>
 </div>
-
-
-
-
 
 <!-- Seccion Publicaciones -->
 <div id="pubs" class="tabcontent">
-
-<p><strong>de Sá, O.R., Grant, T., Camargo, A., Heyer, R.W., Ponssa, M.L., Stanley, E.</strong> 2014. Systematics of the Neotropical genus <i>Leptodactylus</i> Fitzinger, 1826 (Anura: Leptodactylidae): phylogeny, the relevance of non-molecular evidence, and species accounts. <i>South American Journal of Herpetology</i> 9: S1-S128. 
-  <a href="10.2994/SAJH-D-13-00022.1" target="_blank">10.2994/SAJH-D-13-00022.1</a></p>
-
-  <p><strong>***</strong><i>de Sá et al. (2014) no disponibiliza los audios y datos asociados</i></p>
+  <p><strong>Autor_aqui</strong>NA. 
+  <a href="NA" target="_blank">NA</a></p>
+  <p><strong>***</strong><i>No existen artículos con sonidos de poblaciones colombianas.</i></p>
 </div>
