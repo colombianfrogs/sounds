@@ -86,21 +86,19 @@ function openTab(evt, tabName) {
 
 <!-- Seccion Datos -->
 <div id="dat" class="tabcontent">
-  <p><strong>Disponibles en Figshare</strong></p>
-  <p>NA 
-    <a href="NA" target="_blank">NA</a>
-  </p>
-  <p><strong>Disponibles en iNaturalist</strong></p>
-  <p><a href="NA" target="_blank">Dendrobates truncatus</a>
-  </p>
+
   <p><strong>Disponibles en CSA-IAVH</strong></p>
-  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34978/IAvH-CSA-34978.wav; http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-35089/IAvH-CSA-35089.wav; https://www.inaturalist.org/observations?place_id=7196&sounds&taxon_id=21116" target="_blank">codigo</a>
-  </p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34978/IAvH-CSA-34978.wav" target="_blank">IAvH-CSA-34978</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-35089/IAvH-CSA-35089.wav" target="_blank">IAvH-CSA-35089</a></p>
+
+  <p><strong>Disponibles en iNaturalist</strong></p>
+  <p><a href="https://www.inaturalist.org/observations?place_id=7196&sounds&taxon_id=21116" target="_blank">Dendrobates truncatus</a></p>
+
 </div>
 
 <!-- Seccion Publicaciones -->
 <div id="pubs" class="tabcontent">
-  <p><strong>Autor_aqui</strong>Erdtmann, L., Amezquita, A. (2009). Differential evolution of advertisement call traits in dart‐poison frogs (Anura: Dendrobatidae). Ethology 115: 801-811.; Gualdrón-Duarte, J.E., Luna-Mora, V.F., Rivera-Correa, M., Kahn, T.R. (2016). Yellow-striped poison frog Dendrobates truncatus Cope,1861 "1860". In T.R. Kahn, E. La Marca, S. Lötters, J.L. Brown, E. Twomey & A. Amézquita (Eds.), Aposematic poison frogs (Dendrobatidae) of the Andean countries: Bolivia, Colombia, Ecuador, Perú and Venezuela. Tropical field guide series (pp. 323-328). Arlington, USA: Conservation International.. 
+  <p><strong>Erdtmann, L., Amezquita, A.</strong> (2009). Differential evolution of advertisement call traits in dart‐poison frogs (Anura: Dendrobatidae). Ethology 115: 801-811.; Gualdrón-Duarte, J.E., Luna-Mora, V.F., Rivera-Correa, M., Kahn, T.R. (2016). Yellow-striped poison frog Dendrobates truncatus Cope,1861 "1860". In T.R. Kahn, E. La Marca, S. Lötters, J.L. Brown, E. Twomey & A. Amézquita (Eds.), Aposematic poison frogs (Dendrobatidae) of the Andean countries: Bolivia, Colombia, Ecuador, Perú and Venezuela. Tropical field guide series (pp. 323-328). Arlington, USA: Conservation International. 
   <a href="https://doi.org/10.1111/j.1439-0310.2009.01673.x" target="_blank">https://doi.org/10.1111/j.1439-0310.2009.01673.x</a></p>
   <p><strong>***</strong><i>El artículo donde se publicó el canto de advertencia no disponibiliza los audios o datos asociados.</i></p>
 </div>
