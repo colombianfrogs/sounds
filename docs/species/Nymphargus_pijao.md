@@ -88,7 +88,7 @@ function openTab(evt, tabName) {
 <div id="dat" class="tabcontent">
 
   <p><strong>Disponibles en iNaturalist</strong></p>
-  <p><a href="https://static.inaturalist.org/sounds/790321.wav?1691768393" target="_blank">Nymphargus pijao</a></p>
+  <p><a href="https://www.inaturalist.org/observations?place_id=7196&sounds&taxon_id=1473419" target="_blank">Nymphargus pijao</a></p>
 
 </div>
 
