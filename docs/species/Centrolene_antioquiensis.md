@@ -86,21 +86,18 @@ function openTab(evt, tabName) {
 
 <!-- Seccion Datos -->
 <div id="dat" class="tabcontent">
-  <p><strong>Disponibles en Figshare</strong></p>
-  <p>NA 
-    <a href="NA" target="_blank">NA</a>
-  </p>
-  <p><strong>Disponibles en iNaturalist</strong></p>
-  <p><a href="https://www.inaturalist.org/observations?place_id=7196&sounds&taxon_id=923308; http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-1448/IAvH-CSA-1448.wav; http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-1448/IAvH-CSA-1448.wav; http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-1448/IAvH-CSA-1448.wav; http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-1449/IAvH-CSA-1449.wav; http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-1449/IAvH-CSA-1449.wav; http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-1449/IAvH-CSA-1449.wav" target="_blank">Centrolene antioquiensis</a>
-  </p>
+
   <p><strong>Disponibles en CSA-IAVH</strong></p>
-  <p><a href="NA" target="_blank">codigo</a>
-  </p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-1448/IAvH-CSA-1448.wav" target="_blank">IAvH-CSA-1448</a></p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-1449/IAvH-CSA-1449.wav" target="_blank">IAvH-CSA-1449</a></p>
+
+  <p><strong>Disponibles en iNaturalist</strong></p> 
+  <p><a href="https://www.inaturalist.org/observations?place_id=7196&sounds&taxon_id=923308" target="_blank">Centrolene antioquiensis</a></p>
+
 </div>
 
 <!-- Seccion Publicaciones -->
 <div id="pubs" class="tabcontent">
-  <p><strong>Autor_aqui</strong>NA. 
-  <a href="NA" target="_blank">NA</a></p>
+
   <p><strong>***</strong><i>No existen artículos con sonidos de poblaciones colombianas.</i></p>
 </div>

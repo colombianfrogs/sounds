@@ -108,7 +108,7 @@ function openTab(evt, tabName) {
 
 <!-- Seccion Publicaciones -->
 <div id="pubs" class="tabcontent">
-  <p><strong>Autor_aqui</strong>Bernal, M.H., Montealegre, D.P., Páez, C.A. (2004). Estudio de la vocalización de trece especies de anuros del municipio de Ibagué, Colombia. Revista de la Academia Colombiana de Ciencias Exactas, Físicas y Naturales 28: 385-390.. 
+  <p><strong>Bernal, M.H., Montealegre, D.P., Páez, C.A.</strong> (2004). Estudio de la vocalización de trece especies de anuros del municipio de Ibagué, Colombia. Revista de la Academia Colombiana de Ciencias Exactas, Físicas y Naturales 28: 385-390.. 
   <a href="https://doi.org/10.18257/raccefyn.28(108).2004.2135" target="_blank">https://doi.org/10.18257/raccefyn.28(108).2004.2135</a></p>
   <p><strong>***</strong><i>El artículo donde se publicó el canto de advertencia no disponibiliza los audios o datos asociados.</i></p>
 </div>
