@@ -92,6 +92,7 @@ En esta sección incorporamos especies individuales conforme vamos identificando
 - [Boana boans](./species/Boana_boans.md)
 - [Boana platanera](./species/Boana_platanera.md)
 - [Boana punctata](./species/Boana_punctata.md)
+- [Boana pugnax](./species/Boana_pugnax.md)
 - [Boana rosenbergi](./species/Boana_rosenbergi.md)
 - [Hyloscirtus antioquia](./species/Hyloscirtus_antioquia.md)
 - [Hyloscirtus larinopygion](./species/Hyloscirtus_larinopygion.md)
