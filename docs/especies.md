@@ -97,6 +97,7 @@ En esta sección incorporamos especies individuales conforme vamos identificando
 - [Boana punctata](./species/Boana_punctata.md)
 - [Boana pugnax](./species/Boana_pugnax.md)
 - [Boana rosenbergi](./species/Boana_rosenbergi.md)
+- [Dendropsophus bogerti](./species/Dendropsophus_bogerti.md)
 - [Hyloscirtus antioquia](./species/Hyloscirtus_antioquia.md)
 - [Hyloscirtus larinopygion](./species/Hyloscirtus_larinopygion.md)
 - [Pseudis paradoxa](./species/Pseudis_paradoxa.md)
