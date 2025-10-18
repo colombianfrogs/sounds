@@ -48,6 +48,7 @@ En esta sección incorporamos especies individuales conforme vamos identificando
 
 # Bufonidae
 - [Atelopus laetissimus](./species/Atelopus_laetissimus.md)
+- [Atelopus mittermeieri](./species/Atelopus_mittermeieri.md)
 - [Rhaebo haematiticus](./species/Rhaebo_haematiticus.md)
 - [Rhinella alata](./species/Rhinella_alata.md)
 - [Rhinella horribilis](./species/Rhinella_horribilis.md)
