@@ -95,6 +95,7 @@ function openTab(evt, tabName) {
 
 <!-- Seccion Publicaciones -->
 <div id="pubs" class="tabcontent">
-
-  <p><strong>***</strong><i>No existen artículos con sonidos de poblaciones colombianas.</i></p>
+  <p><strong>Ana María Ospina-L, A.M. y J.C. Touchon.</strong> 2018. <i>Dendropsophus ebraccatus</i> (Cope, 1874). <i>Catálogo de Anfibios y Reptiles de
+Colombia</i> 4: 37–47. <a href="https://drive.google.com/file/d/1ZjAz-iiWBuIXmbPINDAwqw472mk3gyim/view" target="_blank">link</a></p>
+  <p><strong>***</strong><i>Ospina y Touchon (2018) no disponibiliza los audios y datos asociados.</i></p>
 </div>
