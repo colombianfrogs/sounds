@@ -55,6 +55,7 @@ En esta sección incorporamos especies individuales conforme vamos identificando
 
 # Centrolenidae
 - [Centrolene antioquiensis](./species/Centrolene_antioquiensis.md)
+- [Centrolene buckleyi](./species/Centrolene_buckleyi.md)
 - [Centrolene daidalea](./species/Centrolene_daidalea.md)
 - [Centrolene huilensis](./species/Centrolene_huilensis.md)
 - [Centrolene hybrida](./species/Centrolene_hybrida.md)
