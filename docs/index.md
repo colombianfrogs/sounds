@@ -60,7 +60,7 @@ Nuestra principal motivación son los [principios FAIR](https://www.go-fair.org/
 
 A diciembre de 2024 hemos incluido **1577 audios** disponibles en cuatro repositorios ([CSA-IAVH](http://colecciones.humboldt.org.co/sonidos/), [iNaturalist](https://www.inaturalist.org/projects/amphibians-and-reptiles-of-colombia), [Figshare](https://figshare.com/) y [xeno-canto](https://xeno-canto.org/)). De estos, **257** audios pertenecen a especimenes depositados en seis colecciones biológicas del país.
 
-Esperamos que este sitio motive a la comunidad a seguir depositando sus datos acústicos en diferentes repositorios de libre acceso. <a href="mailto:juanm.daza@udea.edu.co">escríbenos</a>
+Esperamos que este sitio motive a la comunidad a seguir depositando sus datos acústicos en diferentes repositorios de libre acceso. <a href="mailto:juanm.daza@udea.edu.co">Escríbenos</a>
 
 ## Calidad de los datos
 
