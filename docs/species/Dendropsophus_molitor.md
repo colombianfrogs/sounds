@@ -118,9 +118,11 @@ function openTab(evt, tabName) {
   <p><strong>Lüddecke, H., Amézquita, A., Bernal, X., Guzmán, F.</strong> 2000. Partitioning of vocal activity in a Neotropical highland-frog community. <i>Studies on Neotropical Fauna and Environment</i> 35: 185-194. 
   <a href="https://doi.org/10.1076/snfe.35.3.185.8855" target="_blank">https://doi.org/10.1076/snfe.35.3.185.8855</a></p> 
   
+  <p><strong>Lüddecke, H., Sánchez, O.R.</strong> 2002. Are tropical highland frog calls cold-adapted? The case of the Andean frog <i>Hyla labialis</i>. <i>Biotropica</i> 34: 281-288.  <a href="https://doi.org/10.1111/j.1744-7429.2002.tb00539.x" target="_blank">https://doi.org/10.1111/j.1744-7429.2002.tb00539.x
   
-  <p><strong>Lüddecke, H., Sánchez, O.R.</strong> 2002. Are tropical highland frog calls cold-adapted? The case of the Andean frog <i>Hyla labialis</i>. <i>Biotropica</i> 34: 281-288.  https://doi.org/10.1111/j.1744-7429.2002.tb00539.x; 
-  Guarnizo, C.E., Escallón, C., Cannatella, D., Amézquita, A. (2012). Congruence between acoustic traits and genealogical history reveals a new species of Dendropsophus (Anura: Hylidae) in the high Andes of Colombia. Herpetologica 68: 523-540. DOI:10.1655/HERPETOLOGICA-D-10-00038. 
+  
+  
+  <p><strong>Guarnizo, C.E., Escallón, C., Cannatella, D., Amézquita, A.</strong> 2012. Congruence between acoustic traits and genealogical history reveals a new species of Dendropsophus (Anura: Hylidae) in the high Andes of Colombia. Herpetologica 68: 523-540. DOI:10.1655/HERPETOLOGICA-D-10-00038. 
   <a href="DOI:10.1076/snfe.35.3.185.8855;  https://doi.org/10.1111/j.1744-7429.2002.tb00539.x; DOI:10.1655/HERPETOLOGICA-D-10-00038" target="_blank">DOI:10.1076/snfe.35.3.185.8855;  https://doi.org/10.1111/j.1744-7429.2002.tb00539.x; DOI:10.1655/HERPETOLOGICA-D-10-00038</a></p>
   <p><strong>***</strong><i>El artículo donde se publicó el canto de advertencia no disponibiliza los audios o datos asociados.</i></p>
 </div>
