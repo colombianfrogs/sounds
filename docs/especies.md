@@ -104,6 +104,7 @@ Te invitamos a que contribuyas identificando datos disponibles en repositorios y
 - [Dendropsophus bogerti](./species/Dendropsophus_bogerti.md)
 - [Dendropsophus ebraccatus](./species/Dendropsophus_ebraccatus.md)
 - [Dendropsophus microcephalus](./species/Dendropsophus_microcephalus.md)
+- [Dendropsophus molitor](./species/Dendropsophus_molitor.md)
 - [Hyloscirtus antioquia](./species/Hyloscirtus_antioquia.md)
 - [Hyloscirtus larinopygion](./species/Hyloscirtus_larinopygion.md)
 - [Pseudis paradoxa](./species/Pseudis_paradoxa.md)
