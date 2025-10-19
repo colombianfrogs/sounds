@@ -103,6 +103,7 @@ Te invitamos a que contribuyas identificando datos disponibles en repositorios y
 - [Boana rosenbergi](./species/Boana_rosenbergi.md)
 - [Dendropsophus bogerti](./species/Dendropsophus_bogerti.md)
 - [Dendropsophus ebraccatus](./species/Dendropsophus_ebraccatus.md)
+- [Dendropsophus microcephalus](./species/Dendropsophus_microcephalus.md)
 - [Hyloscirtus antioquia](./species/Hyloscirtus_antioquia.md)
 - [Hyloscirtus larinopygion](./species/Hyloscirtus_larinopygion.md)
 - [Pseudis paradoxa](./species/Pseudis_paradoxa.md)
