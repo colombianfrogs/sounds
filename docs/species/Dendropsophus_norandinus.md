@@ -86,21 +86,18 @@ function openTab(evt, tabName) {
 
 <!-- Seccion Datos -->
 <div id="dat" class="tabcontent">
-  <p><strong>Disponibles en Figshare</strong></p>
-  <p>NA 
-    <a href="NA" target="_blank">NA</a>
-  </p>
-  <p><strong>Disponibles en iNaturalist</strong></p>
-  <p><a href="NA" target="_blank">Dendropsophus norandinus</a>
-  </p>
+
   <p><strong>Disponibles en CSA-IAVH</strong></p>
-  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34766/IAvH-CSA-34766.wav; https://www.inaturalist.org/observations?place_id=7196&sounds&taxon_id=199727" target="_blank">codigo</a>
-  </p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-34766/IAvH-CSA-34766.wav" target="_blank">IAVH-CSA-34766</a></p>
+
+  <p><strong>Disponibles en iNaturalist</strong></p>
+  <p><a href="https://www.inaturalist.org/observations?place_id=7196&sounds&taxon_id=199727" target="_blank">Dendropsophus norandinus</a></p>
+
 </div>
 
 <!-- Seccion Publicaciones -->
 <div id="pubs" class="tabcontent">
-  <p><strong>Autor_aqui</strong>Rivera-Correa, M., Gutiérrez-Cárdenas, P.D.A. (2013). Dendropsophus norandinus Rivera-Correa y Gutiérrez-Cárdenas 2012. Catálogo de Anfibios y Reptiles de Colombia 1: 6-9.. 
-  <a href="NA" target="_blank">NA</a></p>
+  <p><strong>Rivera-Correa, M., Gutiérrez-Cárdenas, P.D.A. </strong>2013. <i>Dendropsophus norandinus</i> Rivera-Correa y Gutiérrez-Cárdenas 2012. <i>Catálogo de Anfibios y Reptiles de Colombia</i> 1: 6-9. <a href="https://drive.google.com/file/d/1toSGVtPU1u5FuhDMKbyo-uN81_4ooDc8/view" target="_blank">link</a></p>
+  
   <p><strong>***</strong><i>No existen artículos con sonidos de poblaciones colombianas.</i></p>
 </div>
