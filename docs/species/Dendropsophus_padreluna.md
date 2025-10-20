@@ -86,21 +86,17 @@ function openTab(evt, tabName) {
 
 <!-- Seccion Datos -->
 <div id="dat" class="tabcontent">
-  <p><strong>Disponibles en Figshare</strong></p>
-  <p>NA 
-    <a href="NA" target="_blank">NA</a>
-  </p>
-  <p><strong>Disponibles en iNaturalist</strong></p>
-  <p><a href="NA" target="_blank">Dendropsophus padreluna</a>
-  </p>
+
   <p><strong>Disponibles en CSA-IAVH</strong></p>
-  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-36539/IAvH-CSA-36539.wav; https://static.inaturalist.org/sounds/852782.wav?1701142161" target="_blank">codigo</a>
-  </p>
+  <p><a href="http://colecciones.humboldt.org.co/rec/sonidos/IAvH-CSA-36539/IAvH-CSA-36539.wav" target="_blank">IAVH-CSA-36539</a></p>
+
+  <p><strong>Disponibles en iNaturalist</strong></p>
+  <p><a href="https://www.inaturalist.org/observations?place_id=7196&sounds&taxon_id=65383" target="_blank">Dendropsophus padreluna</a></p>
+
 </div>
 
 <!-- Seccion Publicaciones -->
 <div id="pubs" class="tabcontent">
-  <p><strong>Autor_aqui</strong>NA. 
-  <a href="NA" target="_blank">NA</a></p>
+
   <p><strong>***</strong><i>No existen artículos con sonidos de poblaciones colombianas.</i></p>
 </div>

@@ -97,7 +97,7 @@ function openTab(evt, tabName) {
 
 <!-- Seccion Publicaciones -->
 <div id="pubs" class="tabcontent">
-  <p><strong>Rivera-Correa, M., Gutiérrez-Cárdenas, P.D.A. </strong>2013. <i>Dendropsophus norandinus</i> Rivera-Correa y Gutiérrez-Cárdenas 2012. <i>Catálogo de Anfibios y Reptiles de Colombia</i> 1: 6-9. <a href="https://drive.google.com/file/d/1toSGVtPU1u5FuhDMKbyo-uN81_4ooDc8/view" target="_blank">link</a></p>
+  <p><strong>Rivera-Correa, M., y Gutiérrez-Cárdenas, P.D.A. </strong>2013. <i>Dendropsophus norandinus</i> Rivera-Correa y Gutiérrez-Cárdenas 2012. <i>Catálogo de Anfibios y Reptiles de Colombia</i> 1: 6-9. <a href="https://drive.google.com/file/d/1toSGVtPU1u5FuhDMKbyo-uN81_4ooDc8/view" target="_blank">link</a></p>
   
-  <p><strong>***</strong><i>No existen artículos con sonidos de poblaciones colombianas.</i></p>
+  <p><strong>***</strong><i>Rivera-Correa y Gutiérrez-Cárdenas (2013) no disponibiliza los audios y datos asociados.</i></p>
 </div>
